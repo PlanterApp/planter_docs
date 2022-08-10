@@ -9,8 +9,6 @@ Please use the "Send Feedback" option in [Settings](https://planter.garden/setti
 email. Make sure to include any previous emails or sign-in methods you think you may have used in
 in the past.
 
-## Subscriptions
-
 ### Restoring a previous purchase
 First try the "Restore purchase" button in [Settings](https://planter.garden/settings). If that
 doesn't work, please use the "Send Feedback" option in [Settings](https://planter.garden/settings)
