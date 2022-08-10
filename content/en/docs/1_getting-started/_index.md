@@ -1,5 +1,6 @@
 ---
-title : "Getting started"
+Title: "Planter how-to articles"
+description: "An overview of the Planter how-to articles"
 weight: 1
 url: "getting-started"
 ---
