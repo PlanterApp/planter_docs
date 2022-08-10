@@ -1,6 +1,8 @@
 ---
-title: "Account Issues"
+title: "Manage your account"
+description: How to login and manage your Premium subscription
 weight: 600
+draft: false
 url: "account"
 ---
 
@@ -8,6 +10,8 @@ url: "account"
 Please use the "Send Feedback" option in [Settings](https://planter.garden/settings) to send us an
 email. Make sure to include any previous emails or sign-in methods you think you may have used in
 in the past.
+
+## Subscriptions
 
 ### Restoring a previous purchase
 First try the "Restore purchase" button in [Settings](https://planter.garden/settings). If that
