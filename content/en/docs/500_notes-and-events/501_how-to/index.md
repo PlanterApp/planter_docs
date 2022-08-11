@@ -59,9 +59,9 @@ Select **Save**
 
 {{< alert icon="🍅" context="info" text="Plants with Notes or Events will have a **Notes and Events indicator.**" />}}
 
-{{< screenshot Events-on-plants.jpg "Screenshot of plants with Events indicators>}}<br /><br />
+{{< screenshot Events-on-plants.jpg "Screenshot of plants with Events indicators" >}}<br /><br />
 
 ####Delete Notes and Events
 **Long-press** on the Note or Event you want to delete
 Select **Delete**<br />
-{{< screenshot Delete-event.jpg "Screenshot of an Event being deleted>}}
+{{< screenshot Delete-event.jpg "Screenshot of an Event being deleted" >}}
