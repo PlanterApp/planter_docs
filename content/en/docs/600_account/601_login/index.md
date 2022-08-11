@@ -3,7 +3,7 @@ title: "Where do I log in to my Planter account"
 description: "Learn where to log in to your Planter account"
 draft: false
 weight: 601
-url: "account/login
+url: "account/login"
 —
 
 Select **Settings** from the menu bar

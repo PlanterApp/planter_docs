@@ -3,7 +3,7 @@ title: "How do I restore my Planter Premium subscription"
 description: "Learn how to restore your canceled Planter Premium subscription"
 draft: false
 weight: 607
-url: "account/restore
+url: "account/restore"
 —
 
 Select **Settings** from the menu bar
