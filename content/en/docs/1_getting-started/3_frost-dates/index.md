@@ -5,18 +5,16 @@ weight: 3
 url: "getting-started/frost-dates"
 ---
 
-For temperate regions, knowing your frost date is vital to having a successful garden. Planter has a global database of weather stations to help determine your frost date.
+It’s important to set your frost dates in Planter, so the **Growing Calendar** will show accurate information for your region.
+{{< alert icon="🍍" context="info" text="If you live in an area where the temperatures never go below freezing, ignore the planting times in the Growing Calendar. Plant cool season crops in your cooler season." />}}
 
-### Automatically setting your frost dates
-1. Go to Settings
-2. Tap "Weather Station" and follow the prompts
+####Set frost dates using your location<br />
+Select **Settings** from the menu bar
+Select **Weather Station**
 
-### Manually setting your frost dates
-1. Search on the internet for your frost dates
-2. Tap "Spring frost date", then "Set Manually", and enter your spring frost date.
-3. Tap "Fall frost date", then "Set Manually", and enter your fall frost date.
-
-### Tropical and hot regions
-If you live in a region where the temperature never goes below freezing, you can largely ignore the planting times given by the calendar. Plant cool season crops such as Broccoli and Cabbage in your cool season. Likewise, plant thirsty crops in your rainy season.
-
-{{< alert icon="🔥️" context="danger" text="Wrong frost dates? Report it to the Planter team using the “Report a bug” option in [Settings](https://planter.garden/settings)" />}}
+####Manually set frost dates<br />
+Search on the internet for the spring (last) and fall (first) frost dates in your area
+Select **Spring frost date**, then select**Set Manually**
+Select your spring frost date
+Select **Fall frost date**, then select**Set Manually**
+Select your fall frost date
