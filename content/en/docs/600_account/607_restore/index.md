@@ -4,7 +4,7 @@ description: "Learn how to restore your canceled Planter Premium subscription"
 draft: false
 weight: 607
 url: "account/restore"
-—
+---
 
 Select **Settings** from the menu bar
 Select **Restore purchase**

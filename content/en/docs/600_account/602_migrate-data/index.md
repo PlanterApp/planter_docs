@@ -3,8 +3,8 @@ title: "How do I migrate or restore my Planter data?"
 description: "Learn migrate your Planter data to a new device, or restore your data"
 draft: false
 weight: 602
-url: "account/migrate-restore”
-—
+url: "account/migrate-restore"
+---
 
 When you log in to your Planter account, your data will be retrieved automatically.
 
