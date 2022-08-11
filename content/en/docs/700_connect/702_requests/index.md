@@ -3,8 +3,9 @@ title: "How can I request a new plant, variety, or feature?"
 description: "Learn how to submit a request to the Planter team"
 draft: false
 weight: 702
-url: "connect/requests”
-—
+url: "connect/requests"
+---
+
 Have a feature request, or new plant or variety request?
 
 Use the feature requests tool to request new features and plants.

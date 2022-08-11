@@ -3,8 +3,8 @@ title: "How can I report a bug or give feedback on Planter"
 description: "Learn how to contact Planter Support"
 draft: false
 weight: 701
-url: "connect/contact-us”
-—
+url: "connect/contact-us"
+---
 
 Uncovered a bug in Planter? Have feedback you want to share? We appreciate you taking the time to let us know about your experience.
 
