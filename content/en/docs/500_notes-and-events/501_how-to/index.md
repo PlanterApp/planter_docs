@@ -12,7 +12,7 @@ Notes and Events can be added to a garden or to specific plants.
 
 {{< alert icon="💸" context="info" text="Notes and Events are Premium features." />}}
 
-####Garden Notes and Events
+#### Garden Notes and Events
 In your garden, select the **Notes and Events** icon<br />
 {{< screenshot Notes-and-events-icon.jpg "Screenshot of the Notes and Events icon" >}}<br /><br />
 Select the plus sign<br />
@@ -33,7 +33,7 @@ Select **Save**
 
 {{< screenshot Completed-event-garden.jpg "Screenshot of completed details for new Event" >}}<br /><br />
 
-####Plant Notes and Events
+#### Plant Notes and Events
 In your garden, select the plant you want to add a Note or Event to<br />
 {{< screenshot Notes-and-events-icon.jpg "Screenshot of the Notes and Events icon" >}}
 {{< alert icon="🥬" context="info" text="Multi-select plants to add Notes or Events to multiple plants at once." />}}
@@ -61,7 +61,7 @@ Select **Save**
 
 {{< screenshot Events-on-plants.jpg "Screenshot of plants with Events indicators" >}}<br /><br />
 
-####Delete Notes and Events
+#### Delete Notes and Events
 **Long-press** on the Note or Event you want to delete
 Select **Delete**<br />
 {{< screenshot Delete-event.jpg "Screenshot of an Event being deleted" >}}
