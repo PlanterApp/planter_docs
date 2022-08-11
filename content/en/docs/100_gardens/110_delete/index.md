@@ -3,7 +3,7 @@ title: "How do I delete a garden?"
 description: "Learn how to delete a garden"
 draft: false
 weight: 110
-url: "garden-navigation/delete"
+url: "garden/delete"
 ---
 
 From the Gardens page, select the **three dots (⋮)** icon beside the garden you want to delete
