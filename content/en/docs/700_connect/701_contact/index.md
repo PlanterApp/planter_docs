@@ -13,7 +13,7 @@ Select **Settings** from the menu bar
 Scroll down and select **Report a bug**
 Follow the steps in the **Report a bug** wizard- write a brief description of the issue, include a screenshot (optional), and sign up for email updates on the issue (optional)
 
-If you are struggling with an issue specific to your Planter account, use the **Send feedback** option in **Settings* to email the Planter team directly (or, email us at
+If you are struggling with an issue specific to your Planter account, use the **Send feedback** option in **Settings* to email the Planter team directly (or, email us at)
 
 ####Share feedback
 Select **Settings** from the menu bar
