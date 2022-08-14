@@ -5,7 +5,7 @@ draft: false
 weight: 102
 url: "garden/resize"
 ---
-
+<br />
 1. In the garden you want to resize, select the **three dots (⋮)** icon<br /><br />
 {{< screenshot Gardenthree-dots.jpg "Screenshot of the three dots icon" >}}<br /><br />
 
