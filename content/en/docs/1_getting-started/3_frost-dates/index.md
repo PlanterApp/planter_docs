@@ -15,7 +15,7 @@ Be sure to set your local frost dates in Planter, so the **Growing Calendar** wi
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Select **Weather Station**<br /><br />
 {{< screenshot Weather-station.jpg "Screenshot of the Weather Station option in Settings" >}}<br /><br />
-3. If prompted, allow Planter to access your location to set your frost dates
+3. If prompted, allow Planter to access your location to set your frost dates automatically
 
 #### Manually select frost dates
 
@@ -32,3 +32,4 @@ Be sure to set your local frost dates in Planter, so the **Growing Calendar** wi
 {{< screenshot Set-fall-date.jpg "Screenshot of the set fall frost date window" >}}<br /><br />
 6. Select your fall frost date<br /><br />
 {{< screenshot Select-fall-date.jpg "Screenshot of the frost date selector" >}}<br /><br />
+{{< screenshot Frost-dates.jpg "Screenshot of frost dates in settings" >}}<br /><br />
