@@ -6,7 +6,7 @@ url: "getting-started"
 ---
 #### Getting started
 
-Everything you need to know to get up-and-running with Planter
+Everything you need to know to get growing with Planter
 
 #### Garden navigation
 
