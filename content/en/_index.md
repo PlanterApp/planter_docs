@@ -1,5 +1,5 @@
 ---
 title : "Need Help?"
-description: "You've come to the right place."
-lead: "You've come to the right place."
+description: "Planter how-to articles"
+lead: "You've come to the right place"
 ---
