@@ -5,7 +5,7 @@ draft: false
 weight: 3
 url: "getting-started/frost-dates"
 ---
-<br />
+
 Be sure to set your local frost dates in Planter, so the **Growing Calendar** will show accurate information for your area.
 {{< alert icon="🌴" context="info" text="If you don't have frosts or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
