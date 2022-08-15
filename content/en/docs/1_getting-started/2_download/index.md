@@ -13,5 +13,3 @@ Planter is also available on **[all major web browsers](https://planter.garden/g
 {{< alert icon="💸" context="info" text="The full browser-based version of Planter is available with a Premium subscription" />}}
 
 {{< screenshot Planter-garden.jpg "Screenshot of a garden plan in Planter" >}}
-{{< screenshot Planter-gardens-list.jpg "Screenshot of a list of gardens in Planter" >}}
-{{< screenshot Tomatoes-quick-info.jpg "Screenshot of Quick Info for tomatoes in Planter" >}}
