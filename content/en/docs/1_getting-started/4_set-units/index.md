@@ -10,4 +10,4 @@ url: "getting-started/set-units"
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Toggle on **Use metric units** to use metric units; toggle it off to use imperial units<br /><br />
 {{< screenshot Toggle-units.jpg "Screenshot of the use metric units setting" >}}<br /><br />
-{{< alert icon="🌱" context="info" text="Changing from imperial to metric units does not change plant spacings- plant spacings are still noted as per-square foot spacings." />}}
+{{< alert icon="🌱" context="info" text="Changing from imperial to metric units does not change plant spacings- plant spacings are still noted as per-square foot spacings" />}}
