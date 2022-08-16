@@ -12,9 +12,9 @@ url: "getting-started/create-garden"
 {{< screenshot New-garden-button.jpg "Screenshot of the add new garden button" >}}<br /><br />
 {{< alert icon="💸" context="info" text="The ability to add more than one garden is a Premium feature." />}}
 3. Enter a **Garden name**
-4. Set the size of the garden by scrolling up or down under **Width** and **Length**<br /><br />
+4. Set the size of the garden by scrolling up or down under **Width** and **Length**
+5. Select **Continue**<br /><br />
 {{< screenshot Garden-setup.jpg "Screenshot of the new garden setup screen" >}}
 {{< alert icon="🥕" context="info" text="Change the garden dimensions to **metric units** in **Settings**." />}}
 {{< alert icon="🫑" context="info" text="Garden size is restricted as very large gardens can cause poor performance." />}}
-5. Select **Continue**<br /><br />
 {{< screenshot New-garden.jpg "Screenshot of a newly created garden" >}}
