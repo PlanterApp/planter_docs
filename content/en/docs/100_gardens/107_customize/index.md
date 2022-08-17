@@ -1,5 +1,5 @@
 ---
-title: "How can I customize my garden?"
+title: "How do I customize my garden?"
 description: "Learn how to customize your gardens and clear customizations"
 draft: false
 weight: 107
