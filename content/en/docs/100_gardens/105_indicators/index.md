@@ -23,7 +23,7 @@ Planter indicates how many plants should be planted per-square-foot by showing a
 {{< screenshot Spacing-indicators.jpg "Screenshot of a garden with plant spacing indicators" >}}<br /><br />
 - **4x** means 4 plants can be planted within one square foot of garden space
 - Plants that need a square foot of space or more per plant do not have a spacing indicator - the size of the plant in the garden shows how many square feet the plant needs
-{{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, the plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
+{{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
 
 #### Notes and Events indicators
 If you added a note or an event to a plant in your garden, a **Notes and Events** indicator will appear on that plant:<br /><br />
