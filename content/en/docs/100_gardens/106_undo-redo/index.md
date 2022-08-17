@@ -10,7 +10,7 @@ Made a mistake in your garden? No sweat!
 
 You can undo (or redo) your **9 most recent actions** (including adding and deleting plants, adding notes and events, and customizing backgrounds)
 
-1. Use the **Undo** button{{< screenshot Undo1.jpg "Screenshot of the undo button" >}} to undo actions in sequential order
+1. Use the **Undo** {{< screenshot Undo1.jpg "Screenshot of the undo button" >}} button to undo actions in sequential order
 
 2. Use the **Redo**{{< screenshot Redo1.jpg "Screenshot of the redo button" >}} button to redo actions that have been undone<br /><br />
 {{< screenshot Undo-redo1.jpg "Screenshot of the undo and redo buttons" >}}
