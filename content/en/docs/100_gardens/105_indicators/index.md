@@ -19,7 +19,7 @@ Compatibility indicators are the green, red, and yellow circles (and quarter-cir
 {{< alert icon="🥕" context="info" text="If you see a yellow circle, you may want to research whether the varieties you plan to plant side-by-side are compatible" />}}
 
 #### Plant Spacing indicators
-Planter shows you many plants can be planted per-square-foot by showing a number with an **X** and a white circle around it:<br /><br />
+Planter indicates how many plants should be planted per-square-foot by showing a number with an **X** and a white circle around it:<br /><br />
 {{< screenshot Spacing-indicators.jpg "Screenshot of a garden with plant spacing indicators" >}}<br /><br />
 - **4x** means 4 plants can be planted within one square foot of garden space
 - Plants that need an entire square foot or more per plant do not have a spacing indicator - the size of the plant in the garden shows how many square feet the plant needs
