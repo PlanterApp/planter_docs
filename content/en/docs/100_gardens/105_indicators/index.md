@@ -22,13 +22,12 @@ Compatibility indicators are the green, red, and yellow circles (and quarter-cir
 Planter indicates how many plants should be planted per-square-foot by showing a number with an **X** and a white circle around it:<br /><br />
 {{< screenshot Spacing-indicators.jpg "Screenshot of a garden with plant spacing indicators" >}}<br /><br />
 - **4x** means 4 plants can be planted within one square foot of garden space
-- Plants that need an entire square foot or more per plant do not have a spacing indicator - the size of the plant in the garden shows how many square feet the plant needs
+- Plants that need a square foot of space or more per plant do not have a spacing indicator - the size of the plant in the garden shows how many square feet the plant needs
 {{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, the plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
 
 #### Notes and Events indicators
-If you added a note or an event to a plant in your garden, a **Notes and Events** indicator will appear on that plant.
-{{< alert icon="💸" context="info" text="Notes and Events are Premium features." />}}
+If you added a note or an event to a plant in your garden, a **Notes and Events** indicator will appear on that plant:
 {{< screenshot Notes-indicators.jpg "Screenshot of a garden with notes indicators on plants" >}}
-{{< alert icon="🥬" context="info" text="Plants with multiple notes and events have a layered Notes and Events indicator. " />}}
+{{< alert icon="💸" context="info" text="Notes and Events are Premium features" />}}
 Notes and events for the entire garden can be seen by selecting the Notes and Events icon for the garden<br />
 {{< screenshot Garden-notes.jpg "Screenshot of the garden Notes and Events icon" >}}
