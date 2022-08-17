@@ -12,7 +12,7 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 
 1. In your garden, long-press on a single square to bring up multi-select mode, then select all the squares to be customized<br /><br />
 {{< screenshot Multiselect-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
-2. With the square(s) selected, select the **Palette**{{< screenshot Pallette-icon.jpg "Screenshot of the palette icon" >}} icon to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses)<br /><br />
+2. With the square(s) selected, select the **Palette**{{< screenshot Palette-icon.jpg "Screenshot of the palette icon" >}} icon to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses)<br /><br />
 {{< alert icon="🥕" context="info" text="Customizations in Planter are visuals; they do not change plant spacing or compatibility indicators" />}}
 {{< screenshot Palette.jpg "Screenshot of the palette icon in the Gardens view" >}}<br /><br />
 {{< screenshot Customize-background.jpg "Screenshot of background and foreground customization selectors" >}}
