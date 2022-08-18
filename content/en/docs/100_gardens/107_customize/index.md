@@ -16,7 +16,7 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 {{< alert icon="🥕" context="info" text="Customizations in Planter are visuals; they do not change plant spacing or compatibility indicators" />}}
 {{< screenshot Palette.jpg "Screenshot of the palette icon in the Gardens view" >}}<br /><br />
 {{< screenshot Customize-background.jpg "Screenshot of background and foreground customization selectors" >}}
-{{< alert icon="🥦" context="info" text="Use the **Raised Bed (Auto)** foreground to quickly surround all selected squares with edging" />}}
+{{< alert icon="🥦" context="info" text="Use the Raised Bed (Auto) foreground to quickly surround all selected squares with edging" />}}
 {{< screenshot Mulch-background1.jpg "Screenshot of a garden with mulch background and raised bed foreground" >}}<br /><br />
 3. Select the **Rotate** icon to rotate foreground elements:<br /><br />
 {{< screenshot Foreground-hose.jpg "Screenshot of the hose foreground selected" >}}
