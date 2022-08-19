@@ -10,4 +10,4 @@ url: "getting-started/set-units"
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Toggle on **Use metric units** to use metric units; toggle it off to use imperial units<br /><br />
 {{< screenshot Toggle-units.jpg "Screenshot of the use metric units setting" >}}<br /><br />
-{{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²."" />}}
+{{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
