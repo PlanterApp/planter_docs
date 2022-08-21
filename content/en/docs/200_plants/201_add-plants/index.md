@@ -23,10 +23,10 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 {{< alert icon="🥦" context="info" text="Quick-pressing on the plant will bring up the **How to Grow** information" />}}
 {{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? *Submit (or upvote!) a plant request* or *create a custom plant*" />}}
 
-4. To plant multiples of the same plant quickly, select the **Quick plant icon**{{< screenshot Quick-plant-icon3.jpg "Screenshot of the Quick Plant icon" >}} before adding plants<br /><br />
+4. To plant multiples of the same plant quickly, select the **quick plant icon**{{< screenshot Quick-plant-icon3.jpg "Screenshot of the Quick Plant icon" >}} before adding plants<br /><br />
 {{< screenshot Quick-plant-mode1.jpg "Screenshot of Quick Plant mode being enabled" >}}<br /><br />
 
-5. With **Quick plant** mode enabled, after dragging a plant to the desired garden square continue selecting squares to add more of that plant
+5. With **quick plant mode** enabled, after dragging a plant to the desired garden square continue selecting squares to add more of that plant
 
 6. Select **X** to stop quick planting<br /><br />
 {{< screenshot Exit-quick-plant1.jpg "Screenshot of the exit Quick Plant icon" >}}
