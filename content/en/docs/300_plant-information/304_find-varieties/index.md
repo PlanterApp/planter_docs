@@ -17,6 +17,6 @@ url: "plant-information/find-varieties"
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** and be sure all **Sources** are selected to see all varieties." />}}
 {{< alert icon="🥬" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
 
-3. To look through more varieties at once, change the view to **Dense**<br /><br />
+3. Change the view to **Dense** to look through more varieties at once <br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 {{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**." />}}
