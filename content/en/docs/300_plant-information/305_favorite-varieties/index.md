@@ -14,10 +14,10 @@ Mark varieties as favorites to make them easier to find!
 2. 2. **Find** the varieties(s) you want to mark as favorites
 {{< alert icon="🥕" context="info" text="Don’t see the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
 
-3. To see more varieties at once, change the view to **Dense**<br /><br />
+3. Change the view to **Dense** to see more varieties at once<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 
-{{< alert icon="🍅" context="info" text="Found a nifty variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from Burpee Seeds and Plants." />}}
+{{< alert icon="🍅" context="info" text="Found a variety you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**." />}}
 
 4. Favorite varieties selecting the **Heart** icon beside them<br /><br />
 {{< screenshot Favorite-icon.jpg "Screenshot of the heart icon for varieties" >}}<br /><br />
