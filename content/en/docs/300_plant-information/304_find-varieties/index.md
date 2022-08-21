@@ -14,8 +14,8 @@ url: "plant-information/find-varieties"
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
-{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show All** and be sure all sources are selected to see all varieties." />}}
-{{< alert icon="🥬" context="info" text="Don’t see the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
+{{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** and be sure all **Sources** are selected to see all varieties." />}}
+{{< alert icon="🥬" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
 
 3. To look through more varieties at once, change the view to **Dense**<br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
