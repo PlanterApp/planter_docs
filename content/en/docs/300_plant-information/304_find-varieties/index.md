@@ -9,10 +9,10 @@ url: "plant-information/find-varieties"
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Filter and sort to organize and narrow down the list of varieties, and use search to find a specific variety:<br /><br />
+2. **Sort**{{< screenshot Sort-icon1.jpg "Screenshot of the sort icon" >}} and **filter**{{< screenshot Filter-icon1.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and use search to find a specific variety:<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
-{{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
+{{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** and be sure all **Sources** are selected to see all varieties." />}}
 {{< alert icon="🥬" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
