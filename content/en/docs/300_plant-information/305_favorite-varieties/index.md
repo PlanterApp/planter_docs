@@ -12,7 +12,7 @@ Mark varieties as favorites to make them easier to find!
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 2. **Find** the varieties(s) you want to mark as favorites
-{{< alert icon="🥕" context="info" text="Don’t see the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
+{{< alert icon="🥕" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
 
 3. Change the view to **Dense** to see more varieties at once<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
