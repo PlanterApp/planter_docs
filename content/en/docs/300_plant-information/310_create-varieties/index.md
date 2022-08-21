@@ -15,16 +15,16 @@ url: "plant-information/custom-varieties"
 3. Enter the variety **Name**<br /><br />
 {{< screenshot Variety-name.jpg "Screenshot of a new variety name being entered" >}}<br /><br />
 
-4. Add a **Short Description** and **Description**, if you like<br /><br />
+4. Add a **Short Description** and **Description**<br /><br />
 {{< screenshot Variety-description.jpg "Screenshot of descriptions being entered for a new variety" >}}<br /><br />
 
-5. Select **Icon** to chose a variety icon<br />(choose from **Existing** icons in Planter, use an image **From your device** as the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br /><br />
+5. Select **Icon** to chose a variety icon (choose from **Existing** icons in Planter, use an image **from your device** as the icon, or search for an icon **on the web**, download it, then upload it **from your device**)<br /><br />
 {{< screenshot Variety-change-icon1.jpg "Screenshot of the button to select a plant icon" >}}<br /><br />
 {{< screenshot Choose-icon.jpg "Screenshot of the menu to choose an icon source" >}}
 
 {{< alert icon="🌱" context="info" text="The variety icon appears in the **Plants** list and in your garden (when the variety is selected)." />}}
 
-6. Select **Image** to chose a variety image (choose an image **From your device** or search for an image **On the web**, download it, then upload it **From your device**)<br /><br />
+6. Select **Image** to chose a variety image (choose an image **from your device** or search for an image **on the web**, download it, then upload it **from your device**)<br /><br />
 {{< screenshot Variety-change-image1.jpg "Screenshot of the button to select a plant image" >}}<br /><br />
 {{< screenshot Choose-image.jpg "Screenshot of the menu to choose an image source" >}}
 
