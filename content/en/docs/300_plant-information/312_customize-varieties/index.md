@@ -10,9 +10,10 @@ url: "plant-information/customize-varieties"
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. **Find** the variety you want to edit then elect the **down arrow*
+2. **Find** the variety you want to edit then elect the **down arrow** below the Variety
+{{< screenshot Variety-down-arrow1.jpg "Screenshot of the down arrow icon" >}}<br /><br />
 
-3. Tap the **Pencil** icon next to **Spacing** (not the one beside the variety spacing)<br /><br />
+3. select the **Pencil** icon next to **Spacing** (not the one beside the variety spacing)<br /><br />
 {{< screenshot Variety-spacing-icon.jpg "Screenshot of the pencil icon to edit variety spacing" >}}<br /><br />
 
 4. Drag the slider to increase or decrease the per-square-foot spacing for that variety, then select **Okay**<br /><br />
