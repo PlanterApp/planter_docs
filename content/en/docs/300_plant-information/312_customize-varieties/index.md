@@ -13,7 +13,7 @@ url: "plant-information/customize-varieties"
 2. **Find** the variety you want to edit then elect the **down arrow** below the Variety
 {{< screenshot Variety-down-arrow1.jpg "Screenshot of the down arrow icon" >}}<br /><br />
 
-3. select the **Pencil** icon next to **Spacing** (not the one beside the variety spacing)<br /><br />
+3. select the **pencil icon**{{< screenshot Pencil-icon.jpg "Screenshot of the pencil icon" >}} next to **Spacing** (if you're editing a **custom variety**, don't select the pencil icon below)<br /><br />
 {{< screenshot Variety-spacing-icon.jpg "Screenshot of the pencil icon to edit variety spacing" >}}<br /><br />
 
 4. Drag the slider to increase or decrease the per-square-foot spacing for that variety, then select **Okay**<br /><br />
