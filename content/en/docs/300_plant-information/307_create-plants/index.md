@@ -12,10 +12,10 @@ url: "plant-information/create-plants"
 2. Select **+ Add plant**<br /><br />
 {{< screenshot Add-plant.jpg "Screenshot of the Add Plant button" >}}<br /><br />
 
-3. Enter the plant **Name**<br /><br />
+3. Enter a plant **Name**<br /><br />
 {{< screenshot New-plant_name1.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br />
 
-4. Optionally, select **Icon** to chose a plant icon<br />(choose from **Existing** icons in Planter, use an image **From your device** as the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br /><br />
+4. Select **Icon** to chose a plant icon (choose from **Existing** icons in Planter, use an image **From your device** as the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br /><br />
 {{< screenshot Change_icon.jpg "Screenshot of the button to select a plant icon" >}}<br /><br />
 {{< screenshot Choose_icon.jpg "Screenshot of the menu to choose an icon source" >}}
 
