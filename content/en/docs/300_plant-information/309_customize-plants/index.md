@@ -6,7 +6,7 @@ draft: false
 url: "plant-information/customize-plants"
 ---
 
-To adjust the **How to Grow** information for existing plants:
+#### Customize How to Grow information
 
 1. Select **Plants** from the menu bar<br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
@@ -20,15 +20,15 @@ To adjust the **How to Grow** information for existing plants:
 {{< screenshot Edit-save1.jpg "Screenshot of the plant editing screen with the Save button" >}}<br /><br />
 
 
-To quickly adjust plant spacing:
+#### Quickly Edit Plant Spacing
 1. On the **How to Grow** tab, select the **Spacing** card under **Quick Info**<br /><br />
 {{< screenshot Beets-spacing1.jpg "Screenshot of Spacing Quick Info card for beets" >}}<br /><br />
 
-2. Tap the **Pencil** icon<br />
+2. Tap the **Pencil** icon<br /><br />
 {{< screenshot Edit-spacing1.jpg "Screenshot of the pencil icon for editing plant spacing" >}}<br /><br />
 
 3. Drag the slider to increase or decrease the per-square-foot spacing, then select **Okay**<br /><br />
 {{< screenshot Adjust-spacing1.jpg "Screenshot of slider to adjust spacing and the Okay button" >}}<br /><br />
 {{< screenshot Spacing-adjusted.jpg "Screenshot of the plant spacing for beets edited to 8 per square foot" >}}
 
-{{< alert icon="🍅" context="info" text="If you have set *custom variety spacing*, it will override plant spacing when you use that variety." />}}
+{{< alert icon="🍅" context="info" text="If you have set **custom variety spacing**, it will override plant spacing when you use that variety." />}}
