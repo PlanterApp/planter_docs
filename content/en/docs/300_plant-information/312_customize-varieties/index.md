@@ -10,17 +10,19 @@ url: "plant-information/customize-varieties"
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Tap the **Pencil** icon next to **Spacing** (not the one beside the variety spacing)<br /><br />
+2. **Find** the variety you want to edit then elect the **down arrow*
+
+3. Tap the **Pencil** icon next to **Spacing** (not the one beside the variety spacing)<br /><br />
 {{< screenshot Variety-spacing-icon.jpg "Screenshot of the pencil icon to edit variety spacing" >}}<br /><br />
 
-3. Drag the slider to increase or decrease the per-square-foot spacing for that variety, then select **Okay**<br /><br />
-{{< screenshot Adjust-variety-spacing.jpg "Screenshot of slider to adjust variety spacing and Okay button" >}}<br /><br />
+4. Drag the slider to increase or decrease the per-square-foot spacing for that variety, then select **Okay**<br /><br />
+{{< screenshot Adjust-variety-spacing1.jpg "Screenshot of slider to adjust variety spacing and Okay button" >}}<br /><br />
 {{< screenshot Custom-variety-spacing.jpg "Screenshot of a variety with custom spacing" >}}
 
 {{< alert icon="️🍅" context="info" text="Setting custom variety spacing will override any **plant spacing** when you use that variety" />}}
 
 #### Edit a custom variety
-{{< alert icon="️🍅" context="info" text="You can edit the information for any custom varieties you've added, but not existing varieties." />}}
+{{< alert icon="️🥕" context="info" text="You can edit the information for custom varieties, but not existing varieties" />}}
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
