@@ -28,9 +28,9 @@ Use plant varieties in Planter to help you keep track!
 
 5. To see more varieties at once, change the view to **Dense**<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
-{{< alert icon="🍅" context="info" text="Found a nifty variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from Burpee Seeds and Plants." />}}
+{{< alert icon="🍅" context="info" text="Found a variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**." />}}
 
-6. Favorite the varieties you want to plant by selecting the **Heart** icon and set a default variety by selecting the **Circle** icon<br /><br />
+6. Favorite the varieties you want to plant by selecting the **Heart icon** and set a default variety by selecting the **Circle icon**<br /><br />
 {{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
 
 7. Select the **Back** arrow to return to the plants list<br /><br />
@@ -39,8 +39,8 @@ Use plant varieties in Planter to help you keep track!
 8. To switch varieties, select the down arrow below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
 {{< screenshot Plant-varieties-arrow.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite and recently selected plant varieties" >}}
-{{< alert icon="🫑" context="info" text="Planter uses the most recently-selected variety as the default the next time you add that plant to your garden." />}}
-{{< alert icon="🧄" context="info" text="Don't want to add a specific plant variety after all? Select **(no variety).**" />}}
+{{< alert icon="🫑" context="info" text="Planter uses the most recently-selected variety as the default the next time you add that plant to your garden" />}}
+{{< alert icon="🧄" context="info" text="Don't want to add a specific plant variety after all? Select **(no variety)**" />}}
 
 9. Long-press on the plant to add it to your garden<br /><br />
 {{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}<br /><br />

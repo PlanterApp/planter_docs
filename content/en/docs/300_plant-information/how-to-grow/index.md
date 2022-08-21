@@ -6,20 +6,19 @@ weight: 301
 url: "plant-information/how-to-grow"
 ---
 
-Yes! Planter has plant care information for many types of plants, and new plants are being added all the time!
-{{< alert icon="🌿" context="info" text="See <*Where can I find plant care information?* to learn where to find the plant care information in Planter." />}}
-Every plant in Planter has a **How to Grow** tab with lots of handy information:
+Yes! Planter has plant care information for many plants, and new plants are being added all the time! Check out the **How to Grow** tab for lots of handy information.
+{{< alert icon="🌿" context="info" text="See **Where can I find plant care information?** to learn where to find the plant care information in Planter" />}}
 
 #### Description
 A brief overview of the plant and tips to grow it successfully.
 
 #### Category
-Which group the plant belongs to in Planter.<br />
+Which group the plant belongs to in Planter.<br /><br />
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br />
-{{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br /><br />
+General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
+{{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br />
 
 - **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card.
 
@@ -37,7 +36,7 @@ General planting and care information. Many of the **Quick Info** cards display 
 
 - **Sprout to Harvest:** once the plant has sprouted, how many days it takes for the plant to start producing or to be ready for harvesting.
 
-{{< alert icon="🍅" context="info" text="Tomatoes do not have Sprout to Harvest days noted, because it varies dramatically depending on the variety!" />}}
+{{< alert icon="🍅" context="info" text="Tomatoes do not have Sprout to Harvest days noted, because it varies significantly depending on the variety!" />}}
 
 #### Growing Calendar
 Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your frost date settings.
@@ -46,7 +45,7 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 
 - If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show.
 
-- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br />
+- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br /><br />
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
