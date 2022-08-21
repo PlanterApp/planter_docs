@@ -18,15 +18,13 @@ Use plant varieties in Planter to help you keep track!
 3. **Quick-press** on the plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-4. **Sort**
-{{< screenshot Sort-icon.jpg "Screenshot of the sort icon" >}} and **Filter**
-{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and use search to find a specific variety<br /><br />
+4. **Sort**{{< screenshot Sort-icon.jpg "Screenshot of the sort icon" >}} and **Filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and use search to find a specific variety<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
-{{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
+{{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and be sure all **Sources** are selected to see all varieties." />}}
-{{< alert icon="🌱" context="info" text="Don’t see the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
+{{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
 
 5. To see more varieties at once, change the view to **Dense**<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
