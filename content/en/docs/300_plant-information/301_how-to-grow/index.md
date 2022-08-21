@@ -62,7 +62,7 @@ Select the companion plant cards to learn more about each companion plant.
 #### Combative Plants
 **Combative plants** should not be planted side-by-side, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
 
-Select the combative plant cards to learn more about each combative plant<br /><br />
+Select the combative plant cards to learn more about each combative plant.<br /><br />
 {{< screenshot Carrots-companions.jpg "Screenshot of carrots Companion Plants and Combative Plants" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral" />}}
@@ -73,7 +73,7 @@ Select the combative plant cards to learn more about each combative plant<br /><
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
 
 #### Diseases
-Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls< br/><br />
+Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls<br /><br />
 {{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests and Diseases" >}}
 
 #### Growing from Seed
@@ -89,6 +89,5 @@ Whether the plant typically needs added fertilizer, and if so how and when to ap
 How to tell when the plant is ready to harvest and harvesting techniques.
 
 #### Storage
-Tips for storing and preserving the harvest.
-
+Tips for storing and preserving the harvest.<br /><br />
 {{< screenshot Carrots-storage.jpg "Screenshot of carrots Storage information" >}}
