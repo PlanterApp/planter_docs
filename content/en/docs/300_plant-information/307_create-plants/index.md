@@ -1,12 +1,10 @@
 ---
-title: "How can I create new plants?"
+title: "How can I create custom plants?"
 description: "Learn how to create your own custom plants"
 weight: 307
 draft: false
 url: "plant-information/create-plants"
 ---
-
-Growing a plant that's not in Planter yet?  Create your own custom plant!
 
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
@@ -15,7 +13,7 @@ Growing a plant that's not in Planter yet?  Create your own custom plant!
 {{< screenshot Add-plant.jpg "Screenshot of the Add Plant button" >}}<br /><br />
 
 3. Enter the plant **Name**<br /><br />
-{{< screenshot New-plant_name.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br />
+{{< screenshot New-plant_name1.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br />
 
 4. Optionally, select **Icon** to chose a plant icon<br />(choose from **Existing** icons in Planter, use an image **From your device** as the icon, or search for an icon **On the web**, download it, then upload it **From your device**)<br /><br />
 {{< screenshot Change_icon.jpg "Screenshot of the button to select a plant icon" >}}<br /><br />
