@@ -19,4 +19,4 @@ url: "plant-information/find-varieties"
 
 3. To look through more varieties at once, change the view to **Dense**<br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
-{{< alert icon="🍅" context="info" text="Found a nifty variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from Burpee Seeds and Plants." />}}
+{{< alert icon="🍅" context="info" text="Found plant variety you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**." />}}
