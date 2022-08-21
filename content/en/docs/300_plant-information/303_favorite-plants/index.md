@@ -13,7 +13,8 @@ Mark plants as favorites to make them easier to find!
 
 2. **Find** the plant(s) you want to mark as favorites
 
-3. Select the plant, then select the **Heart** icon beside the plant name:<br /><br />
+3. Select the plant, then select the **heart icon**
+{{< screenshot Heart-icon.jpg "Screenshot of the heart icon" >}} beside the plant name:<br /><br />
 {{< screenshot Plant-favorited.jpg "Screenshot of a plant with the heart icon selected" >}}<br /><br />
 
 4. To see all the plants you have favorited, filter **Plants** for **Favorites**<br /><br />
