@@ -11,15 +11,15 @@ Mark varieties as favorites to make them easier to find!
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. 2. **Find** the varieties(s) you want to mark as favorites
-{{< alert icon="🥕" context="info" text="Don’t see the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
+2. **Find** the varieties(s) you want to mark as favorites
+{{< alert icon="🥕" context="info" text="Don’t see the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety.**" />}}
 
 3. Change the view to **Dense** to see more varieties at once<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 
 {{< alert icon="🍅" context="info" text="Found a variety you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**." />}}
 
-4. Favorite varieties selecting the **Heart** icon beside them<br /><br />
+4. Favorite varieties by selecting the **heart icon**{{< screenshot Heart-icon.jpg "Screenshot of the heart icon" >}} beside them<br /><br />
 {{< screenshot Favorite-icon.jpg "Screenshot of the heart icon for varieties" >}}<br /><br />
 
 5. To see the varieties you have marked as favorites, find the plant in the **Plants** list then either select the **Down arrow** below the plant, or filter the **Varieties** tab for **Favorites**:<br /><br />
