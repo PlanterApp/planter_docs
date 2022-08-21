@@ -6,12 +6,12 @@ draft: false
 url: "plant-information/customize-plants"
 ---
 
-#### Quickly Customize Plant Spacing
+#### Quickly customize plant spacing
 1. On the **How to Grow** tab, select the **Spacing** card under **Quick Info**<br /><br />
 {{< screenshot Beets-spacing1.jpg "Screenshot of Spacing Quick Info card for beets" >}}<br /><br />
 
-2. Tap the **Pencil** icon<br /><br />
-{{< screenshot Edit-spacing1.jpg "Screenshot of the pencil icon for editing plant spacing" >}}<br /><br />
+2. Tap the **pencil icon**{{< screenshot Pencil-icon.jpg "Screenshot of the pencil icon" >}}<br /><br />
+{{< screenshot Edit-spacing1.jpg "Screenshot of the edit plant spacing window" >}}<br /><br />
 
 3. Drag the slider to increase or decrease the per-square-foot spacing, then select **Okay**<br /><br />
 {{< screenshot Adjust-spacing1.jpg "Screenshot of slider to adjust spacing and the Okay button" >}}<br /><br />
