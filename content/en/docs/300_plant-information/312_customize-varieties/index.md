@@ -10,7 +10,7 @@ url: "plant-information/customize-varieties"
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. **Find** the variety you want to edit then elect the **down arrow** below the Variety
+2. **Find** the variety you want to edit then elect the **down arrow**{{< screenshot Down-arrow-icon.jpg "Screenshot of the down arrow" >}} below the Variety
 {{< screenshot Variety-down-arrow1.jpg "Screenshot of the down arrow icon" >}}<br /><br />
 
 3. select the **pencil icon**{{< screenshot Pencil-icon.jpg "Screenshot of the pencil icon" >}} next to **Spacing** (if you're editing a **custom variety**, don't select the pencil icon below)<br /><br />
