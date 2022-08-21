@@ -26,7 +26,7 @@ url: "plant-information/customize-plants"
 
 2. **Find** the plant you want to edit
 
-3. **Long-press** on the plant, then select, **Edit**<br /><br />
+3. **Long press** on the plant, then select, **Edit**<br /><br />
 {{< screenshot Menu-edit1.jpg "Screenshot of a dropdown menu with the option to Edit a plant" >}}<br /><br />
 
 4. Adjust the information to your liking, then Select **Save**<br /><br />
