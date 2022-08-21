@@ -17,7 +17,7 @@ Find plant care information on the **How to Grow** tab of each plant in Planter!
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
 {{< screenshot Search-carrots.jpg "Screenshot of plant search for carrots" >}}
-{{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results" />}}
+{{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
 
 3. Select the plant to see the **How to Grow** information:<br /><br />
 {{< screenshot Carrots-grow_info.jpg "Screenshot of How to Grow information for carrots" >}}
