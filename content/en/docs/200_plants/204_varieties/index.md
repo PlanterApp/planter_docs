@@ -6,12 +6,11 @@ weight: 204
 url: "plants/varieties"
 ---
 
-Trying to remember whether that tomato plant was a beefsteak or a brandywine?<br />
-Use varieties when planning your garden in Planter!
+Trying to recall whether that tomato plant was a beefsteak or a brandywine?<br />
+Use plant varieties in Planter to help you keep track!
 
-To add specific varieties of plants to your garden:
-1. In your garden, select the **+ Add Plants** button<br /><br />
-{{< screenshot Add_plants.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
+1. In the garden, select the **+ Add Plants** button<br /><br />
+{{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
 2. *Find* the plant you are interested in adding<br /><br />
 {{< screenshot Tomatoes-search.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
