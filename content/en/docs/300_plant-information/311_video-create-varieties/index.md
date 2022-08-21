@@ -1,5 +1,5 @@
 ---
-title: "Video: Create varieties"
+title: "Video: Create custom varieties"
 description: "A short video showing how to create custom varieties in Planter"
 weight: 311
 draft: false
