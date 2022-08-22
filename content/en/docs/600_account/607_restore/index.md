@@ -6,7 +6,7 @@ weight: 607
 url: "account/restore"
 ---
 
-Select **Settings** from the menu bar
-Select **Restore purchase**
+1. Select **Settings** from the menu bar
+2. Select **Restore purchase**
 
 {{< alert icon="🥦" context="info" text="If you’re having trouble restoring your subscription please **contact support**. Include your order receipt (if you have it) and the email address for your Planter Premium account" />}}
