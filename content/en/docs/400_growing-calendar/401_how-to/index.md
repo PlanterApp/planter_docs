@@ -14,7 +14,7 @@ Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** 
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
 1. Select **Calendar** from the menu bar<br /><br />
-{{< screenshot Menu-calendar.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
+{{< screenshot Menu-calendar1.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
 
 2. Select the **Sort** icon to change the sorting<br /><br />
 {{< screenshot Calendar-search-bar.jpg "Screenshot of the growing calendar search bar" >}}<br /><br />
