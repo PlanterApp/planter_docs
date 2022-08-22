@@ -39,5 +39,5 @@ url: "plant-information/customize-varieties"
 4. Tap the lower **pencil icon** (not the one beside **Spacing**)<br /><br />
 {{< screenshot Variety-edit-icon.jpg "Screenshot of the pencil icon to edit a variety" >}}<br /><br />
 
-5. Adjust the information, icon, or image to your liking, then select **Save**<br /><br />
-{{< screenshot Variety-save.jpg "Screenshot of the pencil icon to edit a variety" >}}
+5. Adjust the variety information, icon, or image to your liking, then select **Save**<br /><br />
+{{< screenshot Variety-save1.jpg "Screenshot of the save button on a custom variety" >}}
