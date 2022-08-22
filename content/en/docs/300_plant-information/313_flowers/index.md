@@ -6,8 +6,8 @@ weight: 313
 url: "plant-information/flowers"
 ---
 
-Planter is currently focused on food gardening. Flowers listed in Planter are either edible, or are good companion plants for other edible plants:
+Planter is currently focused on food gardening. Flowers listed in Planter are either edible, or are good companion plants for other edible plants.<br /><br />
 
-{{< screenshot Flowers-in-Planter.jpg "Screenshot of flowers currently supported in Planter" >}}
+{{< screenshot Flowers-in-Planter.jpg "Screenshot of flowers currently supported in Planter" >}}<br /><br />
 
 If you’d like to see Planter add support for flower gardens in future, let us know in the **Planter flower survey**!
