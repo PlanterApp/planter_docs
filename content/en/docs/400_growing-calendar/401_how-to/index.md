@@ -16,7 +16,8 @@ Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** 
 1. Select **Calendar** from the menu bar<br /><br />
 {{< screenshot Menu-calendar1.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
 
-2. Select the **Sort** icon to change the sorting<br /><br />
+2. Select the **Sort**{{< screenshot Sort-icon1.jpg "Screenshot of the sort icon" >}} <br /><br />
+ icon to change the sorting<br /><br />
 {{< screenshot Calendar-search-bar.jpg "Screenshot of the growing calendar search bar" >}}<br /><br />
 {{< screenshot Calendar-sort.jpg "Screenshot of growing calendar sorting options" >}}<br /><br />
 
