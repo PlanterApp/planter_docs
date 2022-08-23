@@ -57,5 +57,5 @@ Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use 
 
 2. Select the **Varieties** tab
 
-3. Find the variety you want to switch to then select the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}<br /><br />
+3. Find the variety you want to switch to then select the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}}<br /><br />
 {{< screenshot Selected-variety1.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
