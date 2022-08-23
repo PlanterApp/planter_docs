@@ -2,7 +2,7 @@
 title: "Does Planter support flower gardening?"
 description: "Learn about supported flowers in Planter"
 draft: false
-weight: 313
+weight: 314
 url: "plant-information/flowers"
 ---
 
