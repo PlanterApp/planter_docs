@@ -15,7 +15,7 @@ Notes and Events can be added to a garden or to specific plants.
 #### Garden Notes and Events
 1. In your garden, select the **Notes and Events** icon<br /><br />
 {{< screenshot Notes-and-events-icon1.jpg "Screenshot of the Notes and Events icon" >}}<br /><br />
-2. Select the plus sign<br /><br />
+2. Select the **+ button**<br /><br />
 {{< screenshot Plus-sign-garden1.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
 3. Select an **Event Type** from the dropdown
 
@@ -23,7 +23,7 @@ Notes and Events can be added to a garden or to specific plants.
 
 {{< alert icon="🌿" context="info" text="The **Other** Event Type lets you select any quantity unit" />}}
 
-{{< screenshot Event-type-drowndown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
+{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
 {{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
 
 4. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** Event Type, there is no quantity to enter)
