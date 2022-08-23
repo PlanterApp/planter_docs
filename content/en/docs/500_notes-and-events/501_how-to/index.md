@@ -54,8 +54,8 @@ Notes and Events can be added to a garden or to specific plants.
 6. Enter additional details under **Note**, if desired
 7. Select the related **Date** (and time)
 8. Select **Save**<br /><br />
-{{< screenshot Add-event.jpg "Screenshot of the add event window" >}}
-{{< screenshot Completed-event-plants.jpg "Screenshot of completed details for new Event" >}}
+{{< screenshot Add-event.jpg "Screenshot of the add event window" >}}<br /><br />
+{{< screenshot Completed-event-plants1.jpg "Screenshot of completed details for new Event" >}}
 
 #### Delete Notes and Events
 1. **Long press** on the note or event you want to delete
