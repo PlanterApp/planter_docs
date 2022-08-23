@@ -27,8 +27,7 @@ url: "plant-information/customize-varieties"
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties-tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Change the filter settings to only see **My Varieties** (de-select **Common Varieties** and **Burpee**)<br /><br />
-{{< screenshot Varieties_filter-icon.jpg "Screenshot of the varieties filter icon" >}}<br /><br />
+2. **Filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} varieties to only see **My Varieties** (de-select **Common Varieties** and **Burpee**)<br /><br />
 {{< screenshot My-varieties1.jpg "Screenshot of the varieties filter with My Varieties selected" >}}<br /><br />
 
 {{< alert icon="️🥦" context="info" text="You might need to re-select **Common Varieties** and **Burpee** as sources the next time you want to look through all varieties" />}}
