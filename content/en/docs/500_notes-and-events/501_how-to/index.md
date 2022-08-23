@@ -35,11 +35,11 @@ Notes and Events can be added to a garden or to specific plants.
 
 #### Plant Notes and Events
 1. In your garden, select the plant you want to add a Note or Event to<br /><br />
-{{< screenshot Notes-and-events-icon.jpg "Screenshot of the Notes and Events icon" >}}
+{{< screenshot Notes-and-events-icon1.jpg "Screenshot of the Notes and Events icon" >}}
 {{< alert icon="🥬" context="info" text="Multi-select plants to add Notes or Events to multiple plants at once." />}}
-2. Select the** Notes** tab <br /><br />
+2. Select the **Notes** tab <br /><br />
 {{< screenshot Notes-tab.jpg "Screenshot of the Notes tab on a plant" >}}<br /><br />
-3. Select the **plus sign**<br /><br />
+3. Select the **+ button**<br /><br />
 {{< screenshot Plus-sign-plants.jpg "Screenshot of the plus sign button for adding notes to plants" >}}<br /><br />
 4. Select an **Event Type** from the dropdown
 
