@@ -31,10 +31,10 @@ Use plant varieties in Planter to keep track of all the varieties in your garden
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 {{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** under the variety- many varieties have the option to **Buy Seeds**" />}}
 
-6. Favorite the varieties you want to plant by selecting the **heart icon** and set a default variety by selecting the **circle icon**<br /><br />
-{{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
+6. Favorite the varieties you want to plant by selecting the **heart icon**{{< screenshot Heart-icon.jpg "Screenshot of the heart icon" >}} and set a default variety by selecting the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}}<br /><br />
+{{< screenshot Varieties-favorites1.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
 
-7. Select the **Back** arrow to return to the plants list<br /><br />
+7. Select the **back arrow** to return to the plants list<br /><br />
 {{< screenshot Varieties-back-arrow.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 
 8. To switch varieties, select the down arrow below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
