@@ -56,11 +56,11 @@ Notes and Events can be added to a garden or to specific plants.
 8. Select **Save**<br /><br />
 {{< screenshot Completed-event-plants.jpg "Screenshot of completed details for new Event" >}}
 
-{{< alert icon="🍅" context="info" text="Plants with Notes or Events will have a **Notes and Events indicator.**" />}}
+{{< alert icon="🍅" context="info" text="Plants with Notes or Events will have a **Notes and Events indicator** in the garden" />}}
 
 {{< screenshot Events-on-plants.jpg "Screenshot of plants with Events indicators" >}}<br /><br />
 
 #### Delete Notes and Events
-1. **Long-press** on the Note or Event you want to delete
+1. **Long press** on the note or event you want to delete
 2. Select **Delete**<br /><br />
 {{< screenshot Delete-event.jpg "Screenshot of an Event being deleted" >}}
