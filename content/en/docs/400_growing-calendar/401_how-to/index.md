@@ -23,7 +23,7 @@ Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** 
 
 3. **Filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to narrow the list of plants:<br />
 - Select whether you want to **Show All** plants, see only your **Favorite plants** or see only the plants you have planned to plant **In Your Garden**<br /><br />
-- Select whether you want to see plants that you can **Start inside now**, **Transplant now**, or **Sow outside now** (select all three to see All of these actions, or leave all three unselected to the growing calendar for all plants regardless of whether you can plant them now)<br /><br />
+- Select whether you want to see plants that you can **Start inside now**, **Transplant now**, or **Sow outside now** (select all three to see all at once, or leave them unselected to the growing calendar for all plants)<br /><br />
 {{< screenshot Calendar-search-bar.jpg "Screenshot of the growing calendar search bar" >}}<br /><br />
 {{< screenshot Calendar_filter.jpg "Screenshot of growing calendar filter options with Transplant now and Sow outside now selected" >}}<br /><br />
 {{< screenshot Calendar_filtered.jpg "Screenshot of the growing calendar filtered for Transplant now and Sow outside now" >}}
