@@ -43,22 +43,20 @@ Notes and Events can be added to a garden or to specific plants.
 {{< screenshot Plus-sign-plants.jpg "Screenshot of the plus sign button for adding notes to plants" >}}<br /><br />
 4. Select an **Event Type** from the dropdown
 
-{{< alert icon="🌱" context="info" text="Each of the Event Types, other than Note, has a quantity associated with it (qty, lbs, mins, etc.)" />}}
+{{< alert icon="🌱" context="info" text="Each of the event types, other than notes, have a quantity associated with them (qty, lbs, mins, etc.)" />}}
 
-{{< alert icon="🌿" context="info" text="The **Other** Event Type lets you select any quantity unit" />}}
+{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
 
-{{< screenshot Event-type-drowndown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
+{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
 {{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
 
-5. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** Event Type, there is no quantity to enter)
+5. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type, there is no quantity to enter)
 6. Enter additional details under **Note**, if desired
 7. Select the related **Date** (and time)
 8. Select **Save**<br /><br />
 {{< screenshot Completed-event-plants.jpg "Screenshot of completed details for new Event" >}}
 
 {{< alert icon="🍅" context="info" text="Plants with Notes or Events will have a **Notes and Events indicator** in the garden" />}}
-
-{{< screenshot Events-on-plants.jpg "Screenshot of plants with Events indicators" >}}<br /><br />
 
 #### Delete Notes and Events
 1. **Long press** on the note or event you want to delete
