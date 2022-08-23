@@ -37,8 +37,8 @@ Use plant varieties in Planter to keep track of all the varieties in your garden
 7. Select the **back arrow**{{< screenshot Back-arrow.jpg "Screenshot of the back arrow icon" >}} to return to the plants list<br /><br />
 {{< screenshot Varieties-back-arrow1.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 
-8. To switch varieties, select the down arrow below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
-{{< screenshot Plant-varieties-arrow.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
+8. To switch varieties, select the **down arrow**{{< screenshot Down-arrow.jpg "Screenshot of the down arrow icon" >}} below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
+{{< screenshot Plant-varieties-arrow1.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite and recently selected plant varieties" >}}
 {{< alert icon="🫑" context="info" text="Planter uses the most recently-selected variety as the default the next time you add that plant to your garden" />}}
 {{< alert icon="🧄" context="info" text="Don't want to add a specific plant variety after all? Select **(no variety)**" />}}
