@@ -6,8 +6,8 @@ weight: 204
 url: "plants/varieties"
 ---
 
-Trying to recall whether that tomato plant was a beefsteak or a brandywine?<br />
-Use plant varieties in Planter to help you keep track!
+Trying to recall whether that tomato plant was a beefsteak or a brandywine?<br /><br />
+Use plant varieties in Planter to keep track of all the varieties in your garden!
 
 1. In the garden, select the **+ Add Plants** button<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
@@ -15,22 +15,23 @@ Use plant varieties in Planter to help you keep track!
 2. **Find** the plant you are interested in adding<br /><br />
 {{< screenshot Tomatoes-search.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
-3. **Quick-press** on the plant, then select the **Varieties** tab<br /><br />
-{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+3. **Quick press** on the plant, then select the **Varieties** tab<br /><br />
+{{< screenshot Varieties-tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-4. **Sort**{{< screenshot Sort-icon.jpg "Screenshot of the sort icon" >}} and **Filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and use search to find a specific variety<br /><br />
+4. **Sort**{{< screenshot Sort-icon.jpg "Screenshot of the sort icon" >}} and **filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and be sure all **Sources** are selected to see all varieties." />}}
-{{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? *Submit (or upvote!) a variety request* or *create a custom variety.*" />}}
+{{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety**" />}}
 
-5. To see more varieties at once, change the view to **Dense**<br /><br />
+5. To see more varieties at once, **change the view**{{< screenshot Change-view.jpg "Screenshot of the change view icon" >} to **Dense**<br /><br />
+{{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
-{{< alert icon="🍅" context="info" text="Found a variety that you have to have in your garden? Select the **Down arrow** beside the variety name- many varieties have the option to **Buy Seeds** from **Burpee**" />}}
+{{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** under the variety- many varieties have the option to **Buy Seeds**" />}}
 
-6. Favorite the varieties you want to plant by selecting the **Heart icon** and set a default variety by selecting the **Circle icon**<br /><br />
+6. Favorite the varieties you want to plant by selecting the **heart icon** and set a default variety by selecting the **circle icon**<br /><br />
 {{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
 
 7. Select the **Back** arrow to return to the plants list<br /><br />

@@ -8,7 +8,7 @@ url: "plants/add-plants"
 
 Ready to get planning? Planter makes it easy to find plants and add them to your garden!
 
-1. In your garden, select the **+ Add Plants button**<br /><br />
+1. In the garden, select the **+ Add Plants button**<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
 2. **Sort**{{< screenshot Sort-icon1.jpg "Screenshot of the sort icon" >}} and **filter**{{< screenshot Filter-icon1.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
