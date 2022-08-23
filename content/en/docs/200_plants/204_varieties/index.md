@@ -8,7 +8,7 @@ url: "plants/varieties"
 
 Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use plant varieties in Planter to keep track of all the varieties in your garden!
 
-#### Add specific plant varieties
+#### Add plant varieties
 1. In the garden, select the **+ Add Plants** button<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
@@ -52,10 +52,10 @@ Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use 
 2. If a variety is selected, the **Selected Variety** section will appear on the **How to Grow** tab<br /><br />
 {{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
-#### Change varieties
+#### Change plant varieties
 1. Select the plant in your garden
 
 2. Select the **Varieties** tab
 
 3. Find the variety you want to switch to then select the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}<br /><br />
-{{< screenshot Selected-variety.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
+{{< screenshot Selected-variety1.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
