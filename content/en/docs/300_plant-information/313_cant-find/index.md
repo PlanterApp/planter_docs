@@ -3,7 +3,7 @@ title: "Where can I find {plant name} or {variety name}?"
 description: "Learn where to find commonly requested plants and varieties"
 draft: false
 weight: 313
-url: "plants/cant-find"
+url: "plant-information/cant-find"
 ---
 
 Can’t find a particular plant in Planter?<br />

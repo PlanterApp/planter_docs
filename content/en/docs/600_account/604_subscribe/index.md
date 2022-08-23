@@ -25,6 +25,6 @@ Upgrade to a Planter Premium subscription to get access to all the **Premium fea
 #### Subscribe on the Web
 1. Open the **Planter App**
 2. Select **Settings**
-3. **Subscribe**, then select a subscription period: **Weekly, Monthly, or Lifetime**
+3. Select **Subscribe**, then select a subscription period: **Weekly, Monthly, or Lifetime**
 4. Select a method of payment
 5. Select **Subscribe**
