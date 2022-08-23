@@ -9,7 +9,7 @@ url: "plant-information/create-plants"
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
 
-2. Select **+ Add plant**<br /><br />
+2. Select **+ Add Plant**<br /><br />
 {{< screenshot Add-plant1.jpg "Screenshot of the Add Plant button" >}}<br /><br />
 
 3. Enter a plant **Name**<br /><br />
@@ -27,6 +27,6 @@ url: "plant-information/create-plants"
 
 {{< alert icon="🍓" context="info" text="The plant image is shown in the header when you select the plant" />}}
 
-5. Add any additional plant care information, then select **Save**<br /><br />
+5. Add information about the new plant, then select **Save**<br /><br />
 {{< screenshot Plant-save1.jpg "Screenshot of the button to save a newly created plant" >}}<br /><br />
 {{< screenshot New-plant-currants.jpg "Screenshot of a newly created currant plant" >}}
