@@ -10,7 +10,7 @@ url: "plant-information/create-plants"
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
 
 2. Select **+ Add plant**<br /><br />
-{{< screenshot Add-plant.jpg "Screenshot of the Add Plant button" >}}<br /><br />
+{{< screenshot Add-plant1.jpg "Screenshot of the Add Plant button" >}}<br /><br />
 
 3. Enter a plant **Name**<br /><br />
 {{< screenshot New-plant_name1.jpg "Screenshot of Currants being entered as a new plant name" >}}<br /><br />
