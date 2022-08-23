@@ -28,7 +28,7 @@ url: "plant-information/custom-varieties"
 {{< screenshot Variety-change-image1.jpg "Screenshot of the button to select a plant image" >}}<br /><br />
 {{< screenshot Choose-image.jpg "Screenshot of the menu to choose an image source" >}}
 
-{{< alert icon="🍅" context="info" text="The variety image is shown on the **Varieties** tab and in the **Selected Variety** section (when the variety is used in the garden)." />}}
+{{< alert icon="🍅" context="info" text="The variety image is shown on the **Varieties** tab and when the variety is used in the garden" />}}
 
 7. Select **Save**<br /><br />
 {{< screenshot Variety-save1.jpg "Screenshot of the button to save a newly created variety" >}}<br /><br />
