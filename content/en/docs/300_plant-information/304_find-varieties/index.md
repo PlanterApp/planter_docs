@@ -7,7 +7,7 @@ url: "plant-information/find-varieties"
 ---
 
 1. Select a plant, then select the **Varieties** tab<br /><br />
-{{< screenshot Varieties_tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+{{< screenshot Varieties_tab2.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 2. **Sort**{{< screenshot Sort-icon.jpg "Screenshot of the sort icon" >}} and **filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} to organize and narrow down the list of varieties, and search to find a specific variety<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
