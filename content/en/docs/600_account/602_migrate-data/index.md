@@ -6,7 +6,7 @@ weight: 602
 url: "account/migrate-restore"
 ---
 
-When you log in to your Planter account, your data is retrieved automatically.
+Whenever you log in to your Planter account, your account data will be retrieved automatically.
 
 #### Planter data missing
 If your Planter data seems to be missing, double check whether you are logged in:
