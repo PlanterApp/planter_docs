@@ -7,10 +7,10 @@ url: "plant-information/custom-varieties"
 ---
 
 1. Select a plant, then select the **Varieties** tab<br /><br />
-{{< screenshot Varieties_tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+{{< screenshot Varieties_tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Select the **+** button<br /><br />
-{{< screenshot Add-variety-button.jpg "Screenshot of the button to add a new variety" >}}<br /><br />
+2. Select the **+ button**<br /><br />
+{{< screenshot Add-variety-button1.jpg "Screenshot of the button to add a new variety" >}}<br /><br />
 
 3. Enter the variety **Name**<br /><br />
 {{< screenshot Variety-name.jpg "Screenshot of a new variety name being entered" >}}<br /><br />
@@ -22,7 +22,7 @@ url: "plant-information/custom-varieties"
 {{< screenshot Variety-change-icon1.jpg "Screenshot of the button to select a plant icon" >}}<br /><br />
 {{< screenshot Choose-icon.jpg "Screenshot of the menu to choose an icon source" >}}
 
-{{< alert icon="🌱" context="info" text="The variety icon appears in the **Plants** list and in your garden (when the variety is selected)." />}}
+{{< alert icon="🌱" context="info" text="The variety icon appears in the **Plants** list and when the variety is used in the garden" />}}
 
 6. Select **Image** to chose a variety image (choose an image **from your device** or search for an image **on the web**, download it, then upload it **from your device**)<br /><br />
 {{< screenshot Variety-change-image1.jpg "Screenshot of the button to select a plant image" >}}<br /><br />

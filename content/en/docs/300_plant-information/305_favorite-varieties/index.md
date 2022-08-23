@@ -22,7 +22,7 @@ Mark varieties as favorites to make them easier to find!
 4. Favorite varieties by selecting the **heart icon**{{< screenshot Heart-icon.jpg "Screenshot of the heart icon" >}} beside them<br /><br />
 {{< screenshot Variety-favorited.jpg "Screenshot of a plant variety with the heart icon selected" >}}<br /><br />
 
-5. To see the varieties you have marked as favorites, find the plant in the **Plants** list then either select the **Down arrow**{{< screenshot Down-arrow.jpg "Screenshot of the down arrow icon" >}} below the plant, or **filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} the **Varieties** tab for **Favorites**:<br /><br />
+5. To see the varieties you have marked as favorites, find the plant in the **Plants** list then either select the **Down arrow**{{< screenshot Down-arrow.jpg "Screenshot of the down arrow icon" >}} below the plant, or select the plant and **filter**{{< screenshot Filter-icon.jpg "Screenshot of the filter icon" >}} the **Varieties** tab for **Favorites**:<br /><br />
 {{< screenshot Plant-varieties-arrow1.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite plant varieties" >}}<br /><br />
 {{< screenshot Favorite-filter1.jpg "Screenshot of the favorite filter for varieties" >}}<br /><br />
