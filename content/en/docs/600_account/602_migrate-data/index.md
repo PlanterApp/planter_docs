@@ -1,12 +1,12 @@
 ---
-title: "How do I migrate or restore my Planter data?"
-description: "Learn migrate your Planter data to a new device, or restore your data"
+title: "How do I restore or migrate my Planter data?"
+description: "Learn how to restore missing data, or migrate your data to a new device
 draft: false
 weight: 602
 url: "account/migrate-restore"
 ---
 
-When you log in to your Planter account, your data will be retrieved automatically.
+When you log in to your Planter account, your data is retrieved automatically.
 
 #### Planter data missing
 If your Planter data seems to be missing, double check whether you are logged in:
