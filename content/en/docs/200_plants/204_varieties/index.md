@@ -6,8 +6,7 @@ weight: 204
 url: "plants/varieties"
 ---
 
-Trying to recall whether that tomato plant was a beefsteak or a brandywine?<br /><br />
-Use plant varieties in Planter to keep track of all the varieties in your garden!
+Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use plant varieties in Planter to keep track of all the varieties in your garden!
 
 1. In the garden, select the **+ Add Plants** button<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
@@ -37,13 +36,13 @@ Use plant varieties in Planter to keep track of all the varieties in your garden
 7. Select the **back arrow**{{< screenshot Back-arrow.jpg "Screenshot of the back arrow icon" >}} to return to the plants list<br /><br />
 {{< screenshot Varieties-back-arrow1.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 
-8. To switch varieties, select the **down arrow**{{< screenshot Down-arrow.jpg "Screenshot of the down arrow icon" >}} below the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
+8. Select the **down arrow**{{< screenshot Down-arrow.jpg "Screenshot of the down arrow icon" >}} under the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
 {{< screenshot Plant-varieties-arrow1.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite and recently selected plant varieties" >}}
 
 {{< alert icon="🧄" context="info" text="Don't want to use a specific plant variety after all? Select **(no variety)**" />}}
 
-9. Long-press on the plant to add it to your garden<br /><br />
+9. **Long press** on the plant to add it to your garden with the selected variety<br /><br />
 {{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}<br /><br />
 
 To check which varieties you've added to your garden:
