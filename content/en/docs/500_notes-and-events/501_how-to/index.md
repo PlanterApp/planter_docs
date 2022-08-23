@@ -6,7 +6,7 @@ weight: 501
 url: "notes-and-events/how-to"
 ---
 
-Use **Notes** to record details about your plants and your observations in the garden.<br />
+Use **Notes** to record details about your plants and your observations in the garden.<br /><br />
 Use **Events** to keep track of garden happenings and to-dos, including: watering, weeding, harvesting, and more!
 Notes and Events can be added to a garden or to specific plants.
 
@@ -16,8 +16,8 @@ Notes and Events can be added to a garden or to specific plants.
 1. In your garden, select the **Notes and Events** icon<br /><br />
 {{< screenshot Notes-and-events-icon.jpg "Screenshot of the Notes and Events icon" >}}<br /><br />
 2. Select the plus sign<br /><br />
-3. {{< screenshot Plus-sign-garden1.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
-Select an **Event Type** from the dropdown
+{{< screenshot Plus-sign-garden1.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
+3. Select an **Event Type** from the dropdown
 
 {{< alert icon="🌱" context="info" text="Each of the Event Types, other than Note, has a quantity associated with it (qty, lbs, mins, etc.)" />}}
 
