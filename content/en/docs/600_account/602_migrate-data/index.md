@@ -1,6 +1,6 @@
 ---
 title: "How do I restore or migrate my Planter data?"
-description: "Learn how to restore missing data, or migrate your data to a new device
+description: "Learn how to restore missing data, or migrate your data to a new device"
 draft: false
 weight: 602
 url: "account/migrate-restore"
