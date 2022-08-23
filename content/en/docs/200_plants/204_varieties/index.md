@@ -26,7 +26,7 @@ Use plant varieties in Planter to keep track of all the varieties in your garden
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and be sure all **Sources** are selected to see all varieties." />}}
 {{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety**" />}}
 
-5. To see more varieties at once, **change the view**{{< screenshot Change-view.jpg "Screenshot of the change view icon" >} to **Dense**<br /><br />
+5. To see more varieties at once, **change the view**{{< screenshot Change-view.jpg "Screenshot of the change view icon" >}} to **Dense**<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 {{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** under the variety- many varieties have the option to **Buy Seeds**" />}}
