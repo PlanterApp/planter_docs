@@ -27,8 +27,6 @@ Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** 
 {{< screenshot Calendar_filter.jpg "Screenshot of growing calendar filter options with Transplant now and Sow outside now selected" >}}<br /><br />
 {{< screenshot Calendar_filtered.jpg "Screenshot of the growing calendar filtered for Transplant now and Sow outside now" >}}
 
-{{< alert icon="🍐" context="info" text="These filter settings work together- if you select **Favorite plants** and **Start Inside now**, you will see which of your favorite plants can be started inside now." />}}
-
 4. Search to find the **Growing Calendar** for a specific plant<br /><br />
 {{< screenshot Calendar-search.jpg "Screenshot of searching for the growing calendar for raspberries" >}}
-{{< alert icon="🌶️" context="warning" text="Any filters that are applied will also filter the search results. Select **Show all** and de-select **Start inside now, Transplant now, and Sow outside now** to see all search results." />}}
+{{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and de-select **Start inside now, Transplant now, and Sow outside now** to see all results." />}}

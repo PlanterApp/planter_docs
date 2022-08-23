@@ -10,7 +10,7 @@ Use **Notes** to record details about your plants and your observations in the g
 Use **Events** to keep track of garden happenings and to-dos, including: watering, weeding, harvesting, and more!
 Notes and Events can be added to a garden or to specific plants.
 
-{{< alert icon="💸" context="info" text="Notes and Events are Premium features." />}}
+{{< alert icon="💸" context="info" text="Notes and Events are Premium features" />}}
 
 #### Garden Notes and Events
 1. In your garden, select the **Notes and Events** icon<br /><br />
