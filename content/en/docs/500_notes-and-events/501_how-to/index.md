@@ -19,9 +19,9 @@ Notes and Events can be added to a garden or to specific plants.
 {{< screenshot Plus-sign-garden1.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
 3. Select an **Event Type** from the dropdown
 
-{{< alert icon="🌱" context="info" text="Each of the Event Types, other than Note, has a quantity associated with it (qty, lbs, mins, etc.)" />}}
+{{< alert icon="🌱" context="info" text="Each of the event types, other than notes, have a quantity associated with them (qty, lbs, mins, etc.)" />}}
 
-{{< alert icon="🌿" context="info" text="The **Other** Event Type lets you select any quantity unit" />}}
+{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
 
 {{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
 {{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
