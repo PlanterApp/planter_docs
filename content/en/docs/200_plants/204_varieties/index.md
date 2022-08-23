@@ -6,7 +6,8 @@ weight: 204
 url: "plants/varieties"
 ---
 
-Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use plant varieties in Planter to keep track of all the varieties in your garden!
+Trying to recall whether that tomato plant was a beefsteak or a brandywine?<br />
+Use **plant varieties** in Planter to keep track of all the varieties in your garden!
 
 #### Add plant varieties
 1. In the garden, select the **+ Add Plants** button<br /><br />
@@ -53,9 +54,9 @@ Trying to recall whether that tomato plant was a beefsteak or a brandywine? Use 
 {{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
 #### Change plant varieties
-1. Select the plant in your garden
+1. Select the plant in the garden
 
 2. Select the **Varieties** tab
 
-3. Find the variety you want to switch to then select the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}}<br /><br />
+3. Find the variety you want to use, then select the **circle icon**{{< screenshot Circle-icon.jpg "Screenshot of the circle icon" >}}<br /><br />
 {{< screenshot Selected-variety1.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
