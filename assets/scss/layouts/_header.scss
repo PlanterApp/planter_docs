@@ -191,22 +191,22 @@ button#doks-versions {
   border: 1px solid $primary;
 }
 
-.doks-search::after {
-  position: absolute;
-  top: 0.4625rem;
-  right: 0.5375rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 1.5rem;
-  padding-right: 0.3125rem;
-  padding-left: 0.3125rem;
-  font-size: $font-size-base * 0.75;
-  color: $gray-700;
-  content: "Ctrl + /";
-  border: 1px solid $gray-300;
-  border-radius: 0.25rem;
-}
+// .doks-search::after {
+//   position: absolute;
+//   top: 0.4625rem;
+//   right: 0.5375rem;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   height: 1.5rem;
+//   padding-right: 0.3125rem;
+//   padding-left: 0.3125rem;
+//   font-size: $font-size-base * 0.75;
+//   color: $gray-700;
+//   content: "Ctrl + /";
+//   border: 1px solid $gray-300;
+//   border-radius: 0.25rem;
+// }
 
 /*
 @include media-breakpoint-up(lg) {
