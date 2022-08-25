@@ -26,8 +26,8 @@ Planter indicates how many plants should be planted per-square-foot by showing a
 {{< alert icon="🌱" context="info" text="If you change the units in Planter to metric, plant spacings remain the same. Planter indicates how many plants can be planted in roughly 1/10m²." />}}
 
 #### Notes and Events indicators
-If you added a note or an event to a plant in your garden, a **Notes and Events indicator**{{< screenshot Notes-and-events-icon.jpg "Screenshot of the garden Notes and Events icon" >}} will appear on that plant:<br /><br />
+If you added a note or an event to a plant in your garden, a **Notes and Events indicator** {{< mdi note-multiple "The garden Notes and Events icon" >}} will appear on that plant:<br /><br />
 {{< screenshot Notes-indicators1.jpg "Screenshot of a garden with notes indicators on plants" >}}<br /><br />
 {{< alert icon="💸" context="info" text="Notes and Events are Premium features" />}}
-Notes and events for the entire garden can be viewed by selecting the **Notes and Events icon**{{< screenshot Notes-and-Events-icon.jpg "Screenshot of the garden Notes and Events icon" >}} for the garden:<br /><br />
+Notes and events for the entire garden can be viewed by selecting the **Notes and Events icon** {{< mdi note-multiple "The garden Notes and Events icon" >}} for the garden:<br /><br />
 {{< screenshot Garden-notes1.jpg "Screenshot of the garden Notes and Events icon in the Gardens view" >}}

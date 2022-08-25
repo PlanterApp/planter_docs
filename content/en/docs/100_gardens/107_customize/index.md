@@ -12,7 +12,7 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 
 1. In your garden, long-press on a single square to bring up multi-select mode, then select all the squares to be customized<br /><br />
 {{< screenshot Multiselect-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
-2. With the square(s) selected, select the **Palette icon**{{< screenshot Palette-icon3.jpg "Screenshot of the palette icon" >}} to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses)
+2. With the square(s) selected, select the **Palette icon** {{< mdi palette "Palette icon" >}} to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses)
 {{< alert icon="🥕" context="info" text="Customizations in Planter are visuals; they do not change plant spacing or compatibility indicators" />}}
 {{< screenshot Palette.jpg "Screenshot of the palette icon in the Gardens view" >}}<br /><br />
 {{< screenshot Customize-background.jpg "Screenshot of background and foreground customization selectors" >}}
@@ -26,6 +26,6 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 To reset your garden background:
 
 1. Select the square(s) to be changed
-2. Select the **Palette icon**{{< screenshot Palette-icon3.jpg "Screenshot of the palette icon" >}}
+2. Select the **Palette icon** {{< mdi palette "Palette icon" >}}
 3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
 {{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or the background - clear all customizations first then select a new background and foreground" />}}

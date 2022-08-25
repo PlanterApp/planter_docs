@@ -13,7 +13,7 @@ Notes and Events can be added to a garden or to specific plants.
 {{< alert icon="💸" context="info" text="**Notes and Events** are Premium features" />}}
 
 #### Garden Notes and Events
-1. In your garden, select the **Notes and Events icon**{{< screenshot Notes-and-events-icon2.jpg "Screenshot of the Notes and Events icon" >}}
+1. In your garden, select the **Notes and Events icon** {{< mdi note-multiple "Notes and Events icon" >}}
 {{< screenshot Notes-and-events-garden.jpg "Screenshot of the Notes and Events icon for the garden" >}}<br /><br />
 2. Select the **+ button**<br /><br />
 {{< screenshot Plus-sign-garden1.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
