@@ -1,5 +1,5 @@
 ---
-title: "How do I cancel my Planter Premium subscription"
+title: "How do I cancel my Planter Premium subscription?"
 description: "Learn how to cancel your Planter Premium subscription"
 draft: false
 weight: 606
