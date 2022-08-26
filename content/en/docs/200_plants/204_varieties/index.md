@@ -59,4 +59,4 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 2. Select the **Varieties** tab
 
 3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
-{{< screenshot Selected-variety1.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
+{{< screenshot Selected-variety2.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
