@@ -19,7 +19,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 3. **Quick press** on the plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties-tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-4. **Sort** {{< mdi sort "Sort icon" >}}  and **filter** {{< mdi filter "Filter icon" >}}  to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
+4. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
