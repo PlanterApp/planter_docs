@@ -4,7 +4,8 @@ description: "Learn how to multi-select plants and garden squares"
 weight: 104
 url: "garden/multi-select"
 ---
-**Multi-select mode** lets you edit multiple garden squares or plants at once. Use **multi-select** to remove plants, add notes and events, or customize backgrounds.
+**Multi-select mode** lets you edit multiple garden squares or plants at once.
+<br />Use **multi-select** to remove plants, add notes and events, or customize backgrounds.
 
 {{< alert icon="💸" context="info" text="Notes and Events and custom backgrounds are Premium features" />}}
 
