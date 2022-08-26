@@ -19,7 +19,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 3. **Quick press** on the plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties-tab1.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-4. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
+4. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-sort.jpg "Screenshot of varieties sorting options" >}}<br /><br />
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
@@ -27,18 +27,18 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and be sure all **Sources** are selected to see all varieties." />}}
 {{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety**" />}}
 
-5. To see more varieties at once, **change the view** {{< mdi resize "Change view icon" >}} to **Dense**<br /><br />
+5. To see more varieties at once, **change the view** {{< mdi resize "Change view icon" >}} to **Dense**<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
 {{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** under the variety- many varieties have the option to **Buy Seeds**" />}}
 
-6. Favorite the varieties you want to plant by selecting the **heart icon** {{< mdi heart-outline "Heart icon" >}} and set a default variety by selecting the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
+6. Favorite the varieties you want to plant by selecting the **heart icon** {{< mdi heart-outline "Heart icon" >}} and set a default variety by selecting the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
 {{< screenshot Varieties-favorites1.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
 
-7. Select the **back arrow** {{< mdi arrow-left "Back arrow icon" >}} to return to the plants list<br /><br />
+7. Select the **back arrow** {{< mdi arrow-left "Back arrow icon" >}} to return to the plants list<br /><br />
 {{< screenshot Varieties-back-arrow1.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 
-8. Select the **down arrow** {{< mdi menu-down "Dropdown arrow icon" >}} under the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
+8. Select the **down arrow** {{< mdi menu-down "Dropdown arrow icon" >}} under the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
 {{< screenshot Plant-varieties-arrow1.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite and recently selected plant varieties" >}}
 
@@ -58,5 +58,5 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 
 2. Select the **Varieties** tab
 
-3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
+3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
 {{< screenshot Selected-variety2.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
