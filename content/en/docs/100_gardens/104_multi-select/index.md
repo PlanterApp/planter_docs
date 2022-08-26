@@ -24,4 +24,4 @@ url: "garden/multi-select"
 {{< alert icon="🥕" context="info" text="You can't use multi-select to shift plants around or add multiple plants. Use **quick plant** to add multiples of the same type of plant." />}}
 
 5. You can also long-press on a garden square and release to enter **multi-select mode**
-{{< alert icon="🍅" context="info" text="Long-pressing on a garden square containing a plant will engage plant multi-select" />}}
+{{< alert icon="🍅" context="info" text="Long-pressing on a garden square containing a plant will engage **plant multi-select**" />}}
