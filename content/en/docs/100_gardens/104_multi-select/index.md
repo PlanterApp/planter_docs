@@ -4,7 +4,7 @@ description: "Learn how to multi-select plants and garden squares"
 weight: 104
 url: "garden/multi-select"
 ---
-Multi-select mode lets you edit multiple garden squares or plants at once. Use multi-select mode to remove plants, add notes and events, or customize backgrounds.
+**Multi-select mode** lets you edit multiple garden squares or plants at once. Use **multi-select** to remove plants, add notes and events, or customize backgrounds.
 
 {{< alert icon="💸" context="info" text="Notes and Events and custom backgrounds are Premium features" />}}
 
@@ -13,7 +13,7 @@ Multi-select mode lets you edit multiple garden squares or plants at once. Use m
 
 2. Select either the **garden squares icon** {{< mdi grid "Garden squares icon" >}} for garden square multi-select or the **plant icon** {{< mdi sprout "Plant icon" >}} for plant multi-select<br /><br />
 {{< screenshot Multi-selector.jpg "Screenshot of the grid and plant multi-select icons" >}}
-{{< alert icon="🌱" context="info" text="Plant multi-select is most efficient for removing plants, as it will select the larger plants that take up multiple garden squares at once" />}}
+{{< alert icon="🌱" context="info" text="Plant multi-select is more efficient for editing plants, as it will select the larger plants that take up multiple garden squares at once" />}}
 
 3. Select the additional garden squares or plants to be edited<br /><br />
 {{< screenshot Selected-squares.jpg "Screenshot of a garden with three garden squares selected" >}}<br /><br />
