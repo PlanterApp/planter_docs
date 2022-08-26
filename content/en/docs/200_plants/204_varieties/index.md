@@ -44,7 +44,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 
 {{< alert icon="🧄" context="info" text="Don't want to use a specific plant variety after all? Select **(no variety)**" />}}
 
-9. **Long press** on the plant to add it to your garden with the selected variety<br /><br />
+9. **Long press** on the plant to add it to your garden using the selected variety<br /><br />
 {{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}<br /><br />
 
 #### Check varieties in the garden
