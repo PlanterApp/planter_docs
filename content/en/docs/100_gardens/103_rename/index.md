@@ -9,6 +9,6 @@ url: "garden/rename"
 {{< screenshot Garden-list-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 2. Select **Rename** from the drop-down menu<br /><br />
 {{< screenshot Garden-dropdown.jpg "Screenshot of the rename option in the drop-down menu" >}}<br /><br />
-3. Enter a new garden name then select **Ok**<br /><br />
+3. Enter a new **Garden name** then select **Ok**<br /><br />
 {{< screenshot Rename_garden.jpg "Screenshot of the rename garden window" >}}<br /><br />
 {{< screenshot Garden-list-update.jpg "Screenshot of a garden with an updated name" >}}

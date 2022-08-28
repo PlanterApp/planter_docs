@@ -11,7 +11,7 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 1. In the garden, select the **+ Add Plants button**<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
-2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
+2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
 {{< screenshot Plants-search-bar1.jpg "Screenshot of the plant search bar" >}}<br /><br />
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
@@ -23,10 +23,10 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 {{< alert icon="🥦" context="info" text="Quick-pressing on the plant will bring up the **How to Grow** information" />}}
 {{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? **Submit (or upvote!) a plant request** or **create a custom plant**" />}}
 
-4. To plant multiples of the same plant quickly, select the **quick plant icon** {{< mdi checkbox-multiple-blank-circle-outline "Quick Plant icon" >}} before adding plants<br /><br />
+4. To plant multiples of the same plant quickly, select the **quick plant icon** {{< mdi checkbox-multiple-blank-circle-outline "Quick Plant icon" >}} before adding plants<br /><br />
 {{< screenshot Quick-plant-mode2.jpg "Screenshot of Quick Plant mode being enabled" >}}<br /><br />
 
 5. Hold and drag the plant onto desired garden square, then continue selecting squares to add more of the same plant
 
-6. Select {{< mdi close "Close icon" >}} to stop quick planting<br /><br />
+6. Select {{< mdi close "Close icon" >}} to stop quick planting<br /><br />
 {{< screenshot Exit-quick-plant1.jpg "Screenshot of the exit Quick Plant icon" >}}

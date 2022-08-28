@@ -18,4 +18,3 @@ url: "getting-started/create-garden"
 {{< alert icon="🥕" context="info" text="Change the garden dimensions to **metric units** in **Settings**" />}}
 {{< alert icon="🫑" context="info" text="Garden size is restricted as very large gardens can cause poor performance" />}}
 {{< screenshot New-garden.jpg "Screenshot of a newly created garden" >}}
-s
