@@ -6,7 +6,7 @@ weight: 605
 url: "account/multiple-devices"
 ---
 
-You can use Planter on as many devices as you like! You can also let your family or friends edit your garden.
+You can use Planter on as many devices as you like! You can also share your account with friends and family so they can make edits from their devices.
 
 Your gardens, custom plant and variety data, and premium features will sync automatically.
 
