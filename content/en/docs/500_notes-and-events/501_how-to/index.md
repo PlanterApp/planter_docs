@@ -1,6 +1,6 @@
 ---
-title: "How can I use Notes and Events in Planter?"
-description: "Learn how to use Notes and Events"
+title: "How can I use notes and events in Planter?"
+description: "Learn how to use notes and events"
 draft: false
 weight: 501
 url: "notes-and-events/how-to"
