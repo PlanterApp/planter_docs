@@ -10,7 +10,7 @@ Use **notes** to record details about your plants and your observations in the g
 Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more!
 Notes and Events can be added to a garden or to specific plants.
 
-{{< alert icon="💸" context="info" text="**notes and events** are Premium features" />}}
+{{< alert icon="💸" context="info" text="**Notes and events** are Premium features" />}}
 
 #### Garden notes and events
 1. In your garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
@@ -22,7 +22,7 @@ Notes and Events can be added to a garden or to specific plants.
 {{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
 {{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
 
-{{< alert icon="🌱" context="info" text="Each of the event types, other than notes, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
+{{< alert icon="🌱" context="info" text="Each of the event types, other than **Note**, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
 
 {{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
 
