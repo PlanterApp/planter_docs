@@ -17,4 +17,4 @@ To use your Planter account on more than one device, start by verifying whether 
 <br /><br />
 {{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}<br /><br />
 
-Follow steps 2-4 above to log in on as many additional devices as you like!
+Follow steps 1-3 above using the same credentials to log in on as many additional devices as you like!
