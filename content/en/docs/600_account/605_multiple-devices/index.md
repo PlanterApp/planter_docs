@@ -6,12 +6,12 @@ weight: 605
 url: "account/multiple-devices"
 ---
 
-You can use Planter on as many devices as you like!
+You can use Planter on as many devices as you like! You can also let your family or friends edit your garden.
 
 Your gardens, custom plant and variety data, and premium features will sync automatically.
 
-1. If you purchased a **Planter Premium** subscription, start by logging in on the device that you originally purchased the subscription with
-2. Select **Settings** from the menu bar<br /><br />
+To use your Planter account on more than one device, start by verifying whether you are logged in on your current device:
+1. Select **Settings** from the menu bar<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 3. Validate that you are logged in to Planter with the correct email address; if not, select **Login**<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the login option in settings" >}}<br /><br />
