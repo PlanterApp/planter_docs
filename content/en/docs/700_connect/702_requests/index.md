@@ -20,3 +20,5 @@ Looking to send general feedback rather than logging a request? Use the **Send f
 <br /><br />
 {{< screenshot Settings-info.jpg "Screenshot of the Info section of the Settings screen with the Send Feedback option" >}}<br /><br />
 3. Draft an email to the Planter team (be sure to note the email address that you use for your Planter account)
+
+{{< alert icon="🍎" context="info" text="The feedback email comes pre-populated with troubleshooting information - leave this information in and write your feedback below" />}}
