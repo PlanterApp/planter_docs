@@ -12,4 +12,6 @@ Planter is also available on **[all major web browsers](https://planter.garden/g
 
 {{< alert icon="💸" context="info" text="The full browser-based version of Planter is available with a Premium subscription" />}}
 
+{{< alert icon="💸" context="info" text="Be sure to **log in** the first time you use Planter, so your data can be backed up and transferred to other devices" />}}
+
 {{< screenshot Planter-garden.jpg "Screenshot of a garden plan in Planter" >}}
