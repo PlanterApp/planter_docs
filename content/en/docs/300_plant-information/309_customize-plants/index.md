@@ -17,7 +17,7 @@ url: "plant-information/customize-plants"
 {{< screenshot Adjust-spacing1.jpg "Screenshot of slider to adjust spacing and the Okay button" >}}<br /><br />
 {{< screenshot Spacing-adjusted.jpg "Screenshot of the plant spacing for beets edited to 8 per square foot" >}}
 
-{{< alert icon="🍅" context="info" text="If you have set **custom variety spacing**, it will override plant spacing when you use that variety." />}}
+{{< alert icon="🍅" context="info" text="If you set **custom variety spacing**, it will override plant spacing when you use that variety" />}}
 
 #### Customize How to Grow information
 

@@ -8,8 +8,7 @@ url: "garden/zoom-move"
 
 1. Place two fingers on the screen (or touchpad) and move them away from each other to zoom in
 
-2. When zoomed in, drag single finger across the screen or touchpad to move around the garden<br /><br />
-{{< screenshot Garden-zoomin.jpg "Screenshot of a garden that is zoomed in" >}}<br /><br />
+2. When zoomed in, drag single finger across the screen or touchpad to move around the garden
 
 3. Pinch two fingers together on the screen or touchpad to zoom out<br /><br />
-{{< screenshot Garden-zoomout.jpg "Screenshot of a garden that is zoomed out" >}}
+{{< screenshot Zoom-and-pan2.gif "Screen recording showing how to zoom in, pan, and zoom out" >}}

@@ -1,5 +1,5 @@
 ---
-title: "How do I restore my Planter Premium subscription"
+title: "How do I restore my Planter Premium subscription?"
 description: "Learn how to restore your canceled Planter Premium subscription"
 draft: false
 weight: 607
