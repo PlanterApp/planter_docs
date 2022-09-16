@@ -190,7 +190,7 @@ button#doks-versions {
 }
 
 .form-control.is-search {
-  padding-right: 4rem;
+  padding-right: 0.5rem; // To move cancel button to correct spot
   border: 1px solid transparent;
   background: $gray-100;
 
@@ -207,7 +207,8 @@ button#doks-versions {
   border: 1px solid $primary;
 }
 
-.doks-search::after {
+// To get rid of Ctrl + / button
+// .doks-search::after {
 //   position: absolute;
 //   top: 0.4625rem;
 //   right: 0.5375rem;
@@ -222,15 +223,15 @@ button#doks-versions {
 //   content: "Ctrl + /";
 //   border: 1px solid $gray-300;
 //   border-radius: 0.25rem;
-
-  @include media-breakpoint-up(md) {
-    right: -1.4625rem;
-  }
-
-  @include media-breakpoint-up(lg) {
-    right: 0.3125rem;
-  }
-}
+//
+//   @include media-breakpoint-up(md) {
+//     right: -1.4625rem;
+//   }
+//
+//   @include media-breakpoint-up(lg) {
+//     right: 0.3125rem;
+//   }
+// }
 
 /*
 @include media-breakpoint-up(lg) {
