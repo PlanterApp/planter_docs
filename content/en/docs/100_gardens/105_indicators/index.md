@@ -28,6 +28,6 @@ Planter indicates how many plants should be planted per-square-foot by showing a
 #### Notes and events indicators
 If you added a note or an event to a plant in your garden, a **notes and events indicator** {{< mdi note-multiple "The garden Notes and Events icon" >}} will appear on that plant:<br /><br />
 {{< screenshot Notes-indicators1.jpg "Screenshot of a garden with notes indicators on plants" >}}<br /><br />
-{{< alert icon="💸" context="info" text="**notes and events** are Premium features" />}}
+{{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
 Notes and events for the entire garden can be viewed by selecting the **notes and events icon** {{< mdi note-multiple "The garden Notes and Events icon" >}} for the garden:<br /><br />
 {{< screenshot Garden-notes1.jpg "Screenshot of the garden Notes and Events icon in the Gardens view" >}}
