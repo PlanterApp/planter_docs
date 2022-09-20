@@ -8,7 +8,7 @@ url: "garden/customize"
 
 Customize your garden in Planter by adding raised beds, containers, mulch, and more!<br /><br />
 {{< screenshot Customized-garden.jpg "Screenshot of a customized garden in Planter" >}}
-{{< alert icon="💸" context="info" text="Customizing your garden is a Premium feature" />}}
+{{< alert icon="💸" context="info" text="Customizing your garden is a [**Premium feature**](../../account/premium-subscription)" />}}
 
 1. In the garden, long press on a single square to bring up **multi-select mode**, then select all the squares to be customized<br /><br />
 {{< screenshot Multiselect-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
