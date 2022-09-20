@@ -7,7 +7,7 @@ url: "getting-started/frost-dates"
 ---
 
 Be sure to set your frost dates in Planter, so the [**Growing Calendar**](../../growing-calendar/how-to-use) will show accurate information for your area.
-{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the **Growing Calendar** dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
+{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the [**Growing Calendar**](../../growing-calendar/how-to-use) dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
 #### Set using your location
 
@@ -17,7 +17,7 @@ Be sure to set your frost dates in Planter, so the [**Growing Calendar**](../../
 {{< screenshot Weather-station.jpg "Screenshot of the Weather Station option in Settings" >}}<br /><br />
 3. If prompted, allow Planter to access your location to set your frost dates automatically
 
-#### Manually select frost dates
+#### Set manually
 
 1. Search the internet for spring (last) and fall (first) frost dates for your area
 2. Select **Settings** from the menu bar<br /><br />
