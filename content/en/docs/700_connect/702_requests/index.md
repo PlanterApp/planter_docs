@@ -13,7 +13,7 @@ Use the [**feature requests tool**](https://planter.garden/requests) to request 
 - Check the **request list** before logging a new request, to see if the same request has already been logged by someone else
 - Upvote existing requests to have them prioritized sooner
 
-Looking to share feedback rather than logging a request? Use the **Send feedback** option in **Settings** to contact the Planter team:
+Looking to share feedback rather than logging a request? Use the [**Send feedback**](../contact-us/#send-feedback-contact-support) option in **Settings** to contact the Planter team:
 1. Select **Settings** from the menu bar<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Scroll down and select **Send feedback** (under the **Info** section)
