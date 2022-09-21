@@ -6,8 +6,7 @@ weight: 301
 url: "plant-information/how-to-grow"
 ---
 
-Yes! Planter has plant care information for many plants, and new plants are being added all the time!<br />
-Check out the **How to Grow** tab for lots of handy information.
+Planter has plant care information for many plants, and new plants are being added all the time! Check out the **How to Grow** tab for lots of handy info.
 {{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find the **How to Grow** information in Planter" />}}
 
 #### Description

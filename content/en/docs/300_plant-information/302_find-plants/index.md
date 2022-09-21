@@ -7,7 +7,7 @@ url: "plant-information/find-plants"
 ---
 
 Find plant care information on the **How to Grow** tab of each plant in Planter!
-{{< alert icon="🌿" context="info" text="See **Does Planter have plant care information?** to learn more about the **How to Grow** information in Planter." />}}
+{{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow)  to learn more about the **How to Grow** information in Planter." />}}
 
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
