@@ -2,7 +2,7 @@
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
     <article>
-      <h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ .Section | humanize }}{{ else }}{{ .Title }}{{ end }}</h1>
+      <h1 class="text-center">{{ if eq .CurrentSection .FirstSection }}{{ default (.Section | humanize) .Title }}{{ else }}{{ .Title }}{{ end }}</h1>
       <div class="text-center">{{ .Content }}</div>
 			<div class="card-list">
 				{{ $currentSection := .CurrentSection }}
@@ -10,11 +10,23 @@
 					{{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
 						<div class="card my-3">
 							<div class="card-body">
-								<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }} &rarr;</a>
-							</div>
+								<a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title | title }}</a>
+                <p>{{ .Params.description }}</p>
+              </div>
 						</div>
 					{{ end }}
 				{{ end }}
+
+        {{ with $currentSection }}
+          {{ range .Sections.ByWeight }}
+            <div class="card my-3">
+              <div class="card-body">
+                <a class="stretched-link" href="{{ .RelPermalink }}">{{ .Params.title }}</a>
+                <p>{{ .Params.description }}</p>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
 			</div>
     </article>
   </div>
