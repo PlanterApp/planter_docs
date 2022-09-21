@@ -12,7 +12,7 @@ Mark varieties as favorites to make them easier to find!
 {{< screenshot Varieties-tab2.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 2. **Find** the varieties(s) you want to mark as favorites
-{{< alert icon="🥕" context="info" text="Can't find the variety you are looking for? [**Submit (or upvote!) a variety request**](https://planter.garden/requests) or [**create a custom variety**](../create-varieties)" />}}
+{{< alert icon="🥕" context="info" text="Can't find the variety you are looking for? [**Submit (or upvote!) a variety request**](https://planter.garden/requests) or [**create a custom variety**](../custom-varieties)" />}}
 
 3. To see more varieties at once, **change the view** {{< mdi resize "Change view icon" >}} to **Dense**<br /><br />
 {{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
