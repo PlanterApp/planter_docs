@@ -25,7 +25,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 {{< screenshot Varieties-filter.jpg "Screenshot of variety filter options" >}}<br /><br />
 {{< screenshot Varieties-search-brandywine.jpg "Screenshot of variety search for brandywine tomatoes" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and be sure all **Sources** are selected to see all varieties." />}}
-{{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? **Submit (or upvote!) a variety request** or **create a custom variety**" />}}
+{{< alert icon="🌱" context="info" text="Can't find the variety you are looking for? [**Submit (or upvote!) a variety request**](https://planter.garden/requests) or [**create a custom variety**](../../plant-information/create-varieties)" />}}
 
 5. To see more varieties at once, **change the view** {{< mdi resize "Change view icon" >}} to **Dense**<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />

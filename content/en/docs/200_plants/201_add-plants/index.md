@@ -20,8 +20,8 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 3. **Long press** on the plant you want to add, then hold and drag it onto the desired garden square<br /><br />
 {{< screenshot Plant-carrot.jpg "Screenshot of carrots being added to a garden" >}}
-{{< alert icon="🥦" context="info" text="Quick-pressing on the plant will bring up the **How to Grow** information" />}}
-{{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? **Submit (or upvote!) a plant request** or **create a custom plant**" />}}
+{{< alert icon="🥦" context="info" text="Quick pressing on the plant will bring up the [**How to Grow**](../../plant-information/how-to-grow) information" />}}
+{{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../../plant-information/create-plants)" />}}
 
 4. To plant multiples of the same plant quickly, select the **quick plant icon** {{< mdi checkbox-multiple-blank-circle-outline "Quick Plant icon" >}} before adding plants<br /><br />
 {{< screenshot Quick-plant-mode2.jpg "Screenshot of Quick Plant mode being enabled" >}}<br /><br />

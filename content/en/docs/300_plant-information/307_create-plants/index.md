@@ -19,7 +19,7 @@ url: "plant-information/create-plants"
 {{< screenshot Change_icon1.jpg "Screenshot of the button to select a plant icon" >}}<br /><br />
 {{< screenshot Choose_icon.jpg "Screenshot of the menu to choose an icon source" >}}
 
-{{< alert icon="🌱" context="info" text="The plant icon appears in the **Plants** list and in your garden" />}}
+{{< alert icon="🌱" context="info" text="The plant icon appears in the **Plants** list and in the garden" />}}
 
 5. Select **Image** to chose a plant image (choose an image **From your device** or search for an image **On the web**, download it, then upload it **From your device**)<br /><br />
 {{< screenshot Change_image1.jpg "Screenshot of the button to select a plant image" >}}<br /><br />
