@@ -1,6 +1,6 @@
 ---
-title: "How can I report a bug or give feedback on Planter"
-description: "Learn how to contact Planter Support"
+title: "How can I report a bug or contact Planter support?"
+description: "Learn how to contact the Planter team"
 draft: false
 weight: 701
 url: "connect/contact-us"
@@ -17,7 +17,7 @@ Uncovered a bug in Planter? Have feedback you want to share? We appreciate you t
 
 {{< alert icon="🌱" context="info" text="If you are struggling with an issue specific to your Planter account, use the [**Send feedback**](#send-feedback) option in **Settings** to email the Planter team" />}}
 
-#### Send feedback
+#### Send feedback (contact support)
 1. Select **Settings** from the menu bar<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Scroll down and select **Send feedback** (under the **Info** section)
