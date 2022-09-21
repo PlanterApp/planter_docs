@@ -13,4 +13,4 @@ url: "account/login"
 3. Enter the email address and password for your Planter account, then select **Sign in** (or, log in using your Google or Facebook account)
 <br /><br />
 {{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}
-{{< alert icon="🍓" context="info" text="Having trouble logging in to your account? Use the [**Send feedback**](../../connect/contact-us/#send-feedback) option in **Settings** to email the Planter team"" />}}
+{{< alert icon="🍓" context="info" text="Having trouble logging in to your account? Use the [**Send feedback**](../../connect/contact-us/#send-feedback) option in **Settings** to email the Planter team" />}}
