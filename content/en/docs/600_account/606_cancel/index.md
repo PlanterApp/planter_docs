@@ -6,7 +6,7 @@ weight: 606
 url: "account/cancel"
 ---
 
-We’re sorry to see you go! If you’d like to share feedback on your experience with Planter Premium, please [**send us your feedback.**](../../connect/contact-us/#send-feedback)
+We’re sorry to see you go! If you’d like to share feedback on your experience with Planter Premium, please [**send us your feedback.**](../../connect/contact-us/#send-feedback-contact-support)
 
 - On Apple devices, cancel through the App Store
 - On Android devices, cancel through Google Play
