@@ -6,7 +6,14 @@ weight: 604
 url: "account/premium-subscription"
 ---
 
-Upgrade to a Planter Premium subscription to get access to all the **Premium features**
+Upgrade to a Planter Premium subscription to access all the **Premium features:**
+
+♾️ Unlimited gardens
+🚫 No ads
+📝 [**Notes and events:**](../../notes-and-events/how-to) Keep track of when you start seeds, water, fertilize, and more
+🎨 [**Custom backgrounds:**](../../gardens/customize) Mulch, trellises, and more
+💻 The [**Planter web app**](https://planter.garden/gardens)
+😊 A warm, fuzzy feeling for supporting the app developer
 
 #### Subscribe on Google Play
 1. Make sure you are signed into the Google Play store with the account you want to subscribe

@@ -23,4 +23,4 @@ To migrate your data to a new device:
 1. Follow the steps above to ensure you are logged in on your existing device
 2. On your new device, **download Planter** then follow the steps above to log in (your data will be synced to your new device automatically)
 
-{{< alert icon="🍓" context="info" text="Having trouble logging in or retrieving your data? **Contact Planter Support**" />}}
+{{< alert icon="🍓" context="info" text="Having trouble logging in or retrieving your data? Use the [**Send feedback**](../../connect/contact-us/#send-feedback) option in **Settings** to email the Planter team" />}}
