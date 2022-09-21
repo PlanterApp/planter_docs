@@ -14,4 +14,4 @@ Can’t find a particular plant in Planter?<br />
 {{< alert icon="🥒" context="info" text="Zucchini is a variety of **squash**" />}}
 {{< alert icon="🧄" context="info" text="Green onions are a variety of **onions**" />}}
 
-{{< alert icon="🧄" context="info" text="Still can't find the plant or variety you are looking for? [**Submit (or upvote!) a plant or variety request**](https://planter.garden/requests). In the meantime, you can [**create a custom plant**](../../plant-information/create-plants) or [**create a custom variety**](../../plant-information/create-varieties)." />}}
+{{< alert icon="🧄" context="info" text="Still can't find the plant or variety you are looking for? [**Submit (or upvote!) a plant or variety request**](https://planter.garden/requests). In the meantime, you can [**create a custom plant**](../create-plants) or [**create a custom variety**](../create-varieties)." />}}
