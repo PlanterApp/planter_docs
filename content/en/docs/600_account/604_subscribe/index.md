@@ -15,16 +15,27 @@ Upgrade to a Planter Premium subscription to access all the awesome **Premium fe
 💻 The [**Planter web app**](https://planter.garden/gardens)<br />
 😊 A warm, fuzzy feeling for supporting the app developer<br />
 
+{{< alert icon="🍓" context="info" text="Subscriptions work across all platforms, simply [**login**](../login) on each device to access premium features." />}}
+
 #### Subscribe on Google Play
 1. Make sure you are signed into the Google Play store with the account you want to subscribe
-2. Open the **Planter App**
-3. Select **Subscribe**, then select a subscription period: **Annual** or **Lifetime**
+2. Open the **Planter App** and open Settings
+3. Under "Unlock Everything", Select **Learn More**, then select a subscription period: **Annual** or **Lifetime**, and select **Continue**
 4. Select a method of payment
 5. Select **Subscribe**
 
 #### Subscribe on the Apple App Store
 1. Make sure you are signed into the App store with the account you want to subscribe
-2. Open the **Planter App**
-3. Select **Subscribe**, then select a subscription period: **Annual** or **Lifetime**
+2. Open the **Planter App** and open Settings
+3. Under "Unlock Everything", Select **Learn More**, then select a subscription period: **Annual** or **Lifetime**, and select **Continue**
 4. Select a method of payment
 5. Select **Subscribe**
+
+#### Subscribe on the web
+1. Open the **Planter Web App** and open Settings
+2. Under "Unlock Everything", Select **Learn More**, then select a subscription period: **Annual** or **Lifetime**, and select **Continue**
+3. If you aren't logged in, [**Login**](../login) or create an account
+4. Note: There may be a slight pause before the payment screen appears.
+5. Select a method of payment
+6. Select **Subscribe**
+
