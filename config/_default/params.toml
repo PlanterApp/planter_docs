@@ -98,6 +98,7 @@ lastMod = false
   flexSearch = true
   searchSectionsShow = []
   searchSectionsIndex = []
+  nextPrevNavigation = false
   darkMode = true
   bootStrapJs = true
   breadCrumb = false

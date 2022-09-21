@@ -1,13 +1,13 @@
 [[main]]
   name = "Docs"
-  url = "/getting-started"
+  url = ""
   weight = 10
 
 [[main]]
   name = "Getting Started"
   weight = 20
   identifier = "get-started"
-  url = "/quick-start"
+  url = "/getting-started"
 
 [[main]]
   name = "Blog"
