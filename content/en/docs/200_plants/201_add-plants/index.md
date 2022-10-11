@@ -8,6 +8,8 @@ url: "plants/add-plants"
 
 Ready to get planning? Planter makes it easy to find plants and add them to your garden!
 
+### Add a plant to a garden square
+
 1. In the garden, select the **+ Add Plants button**<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
@@ -23,10 +25,12 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 {{< alert icon="🥦" context="info" text="Quick pressing on the plant will bring up the [**How to Grow**](../../plant-information/how-to-grow) information" />}}
 {{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../../plant-information/create-plants)" />}}
 
-4. To plant multiples of the same plant quickly, select the **quick plant icon** {{< mdi checkbox-multiple-blank-circle-outline "Quick Plant icon" >}} before adding plants<br /><br />
+### Add a plant to multiple garden squares
+
+1. To quickly add the same plant to multiple garden squares, select the **quick plant icon** {{< mdi checkbox-multiple-blank-circle-outline "Quick Plant icon" >}} before adding plants<br /><br />
 {{< screenshot Quick-plant-mode2.jpg "Screenshot of Quick Plant mode being enabled" >}}<br /><br />
 
-5. Hold and drag the plant onto desired garden square, then continue selecting squares to add more of the same plant
+2. Hold and drag the plant onto desired garden square, then continue selecting squares to add more of the same plant
 
-6. Select {{< mdi close "Close icon" >}} to stop quick planting<br /><br />
+3. Select {{< mdi close "Close icon" >}} to stop quick planting<br /><br />
 {{< screenshot Exit-quick-plant1.jpg "Screenshot of the exit Quick Plant icon" >}}
