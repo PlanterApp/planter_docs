@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/985fa11c-afca-4fa7-ac9b-732f01bdc506/deploy-status)](https://app.netlify.com/sites/planter-docs/deploys)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/k95y.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 # Documentation site for [Planter](https://planter.garden)
 
