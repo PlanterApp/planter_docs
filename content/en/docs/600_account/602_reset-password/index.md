@@ -16,7 +16,7 @@ url: "account/password"
 {{< screenshot Logout-screen.jpg "Screenshot of the Logout option" >}}<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
 3. Enter the email address for your Planter account then select **?**<br /><br />
-{{< screenshot Login-screen1.jpg "Screenshot of the login screen" >}}<br /><br />
+{{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}<br /><br />
 4. Select **Send Reset Email**<br /><br />
 {{< screenshot Password-reset.jpg "Screenshot of the reset password window" >}}<br /><br />
 5. Open your email then open the link to reset your Password<br /><br />
