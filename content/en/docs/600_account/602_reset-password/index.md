@@ -9,11 +9,12 @@ url: "account/password"
 1. Select **Settings** from the menu bar<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Select **Login** (or if you're already logged in, select **Manage** then **Logout** then select **Login**)<br /><br />
-*Not logged in*
+*Not logged in*:<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
-*Already logged in*
+*Already logged in*:<br /><br />
 {{< screenshot Manage-account.jpg "Screenshot of the Manage Account option in settings" >}}<br /><br />
 {{< screenshot Logout-screen.jpg "Screenshot of the Logout option" >}}<br /><br />
+{{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
 3. Enter the email address for your Planter account, then select **?**<br /><br />
 {{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}
 4. Select **Send Reset Email**<br /><br />
