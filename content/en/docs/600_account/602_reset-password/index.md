@@ -12,14 +12,14 @@ url: "account/password"
 *Not logged in*:<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
 *Already logged in*:<br /><br />
-{{< screenshot Manage-account.jpg "Screenshot of the Manage Account option in settings" >}}<br /><br />
-{{< screenshot Logout-screen.jpg "Screenshot of the Logout option" >}}<br /><br />
+{{< screenshot Manage-account1.jpg "Screenshot of the Manage Account option in settings" >}}<br /><br />
+{{< screenshot Logout-screen1.jpg "Screenshot of the Logout option" >}}<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
-3. Enter the email address for your Planter account, then select **?**<br /><br />
-{{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}
+3. Enter the email address for your Planter account then select **?**<br /><br />
+{{< screenshot Login-screen1.jpg "Screenshot of the login screen" >}}
 4. Select **Send Reset Email**<br /><br />
 {{< screenshot Password-reset.jpg "Screenshot of the reset password window" >}}<br /><br />
-5. Open your email and open the link to reset your Password<br /><br />
+5. Open your email then open the link to reset your Password<br /><br />
 6. Enter a new password then select **Save**
 {{< screenshot New-password.jpg "Screenshot of the enter new password window" >}}<br /><br />
 {{< alert icon="🥕" context="info" text="Didn't receive a password reset email? Make sure you're using the correct email address associated with your Planter account" />}}
