@@ -22,7 +22,7 @@ url: "account/password"
 5. Open your email and open the link to reset your Password<br /><br />
 6. Enter a new password then select **Save**
 {{< screenshot New-password.jpg "Screenshot of the enter new password window" >}}<br /><br />
-{{< alert icon="🍓" context="info" text="Didn't receive a password reset email? Make sure you used the correct email address associated with your Planter account" />}}
+{{< alert icon="🥕" context="info" text="Didn't receive a password reset email? Make sure you're using the correct email address associated with your Planter account" />}}
 7. Return to Planter settings to log in with your new password<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the Login option in settings" >}}<br /><br />
 {{< alert icon="🍓" context="info" text="Having trouble resetting your password? Use the [**Send feedback**](../../connect/contact-us/#send-feedback-contact-support) option in **Settings** to email the Planter team" />}}
