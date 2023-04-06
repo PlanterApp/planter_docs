@@ -1,12 +1,14 @@
 ---
 title: "How do I hide and unhide plants?"
-description: "Learn how to hide and unhide plants"
+description: "Learn how to hide and unhide plants (and how to restore deleted public plants)"
 draft: false
 weight: 306
 url: "plant-information/hide-plants"
 ---
 
-Keep seeing plants you know you'll never grow?  Hide them from the Plants list in Planter!
+Keep seeing plants you know you'll never grow?  You can hide them from the Plants list in Planter!
+
+{{< alert icon="🥕" context="info" text="If you accidentally delete a public plant in Planter, to restore it follow the steps to [**Unhide a plant**](#unhide-a-plant)" />}}
 
 #### Hide a plant
 1. Select **Plants** from the menu bar<br /><br />
