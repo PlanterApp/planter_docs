@@ -50,7 +50,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 #### Check varieties in the garden
 1. Select the plant in your garden
 
-2. If a specific variety has been used, the **Selected Variety** section will appear on the **How to Grow** tab<br /><br />
+2. If a specific variety has been used in the garden, the **Selected Variety** section will appear for the selected plant<br /><br />
 {{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
 #### Change plant varieties
