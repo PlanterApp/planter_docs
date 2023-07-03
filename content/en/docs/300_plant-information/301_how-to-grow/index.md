@@ -10,11 +10,11 @@ Planter has plant care information for many plants, and new plants are being add
 {{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find plant care in Planter" />}}
 
 #### Category
-Which group the plant belongs to in Planter.<br /><br />
-{{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
+Which group the plant belongs to in Planter.
 
 #### Description
-A brief overview of the plant and tips to grow it successfully.
+A brief overview of the plant and tips to grow it successfully.<br /><br />
+{{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
 General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
