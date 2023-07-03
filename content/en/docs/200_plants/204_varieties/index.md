@@ -16,7 +16,7 @@ Use **plant varieties** in Planter to keep track of all the varieties in your ga
 2. **Find** the plant you are interested in adding<br /><br />
 {{< screenshot Tomatoes-search.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
-3. **Quick press** on the plant, then select **Varieties** {{< mdi sort "Varieties icon" >}}<br /><br />
+3. **Quick press** on the plant, then select **Varieties** {{< mdi varieties "Varieties icon" >}}<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 4. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of varieties, and **search** to find a specific variety<br /><br />
