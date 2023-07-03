@@ -6,15 +6,15 @@ weight: 301
 url: "plant-information/how-to-grow"
 ---
 
-Planter has plant care information for many plants, and new plants are being added all the time! Check out the **How to Grow** tab for lots of handy info.
-{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find the **How to Grow** tab in Planter" />}}
-
-#### Description
-A brief overview of the plant and tips to grow it successfully.
+Planter has plant care information for many plants, and new plants are being added all the time!
+{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find plant care in Planter" />}}
 
 #### Category
 Which group the plant belongs to in Planter.<br /><br />
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
+
+#### Description
+A brief overview of the plant and tips to grow it successfully.
 
 #### Quick Info
 General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
@@ -70,11 +70,14 @@ Select the combative plant cards to learn more about each combative plant.<br />
 {{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow compatibility indicator in the garden." />}}
 
 #### Pests
-Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
+Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants affected, Identification, Damage, prevention, Physical controls, and Chemical controls.
 
 #### Diseases
-Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls<br /><br />
-{{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests and Diseases" >}}
+Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls<br /><br />
+
+#### Beneficial Critters
+Insects and animals that offer benefits to the plant. Select the cards to learn more about each of the beneficial critters including: Common species, Why they're helpful, Identification, and How to attract them <br /><br />
+{{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests, Diseases, and Beneficial Critters" >}}
 
 #### Growing from Seed
 Notes whether gardeners typically grow the plant from seeds, and if so how to plant the seeds.
@@ -90,4 +93,8 @@ How to tell when the plant is ready to harvest and harvesting techniques.
 
 #### Storage
 Tips for storing and preserving the harvest.<br /><br />
-{{< screenshot Carrots-storage.jpg "Screenshot of carrots Storage information" >}}
+{{< screenshot Carrots-harvest.jpg "Screenshot of Growing, Planting, Feeding, and Harvest information for carrots" >}}
+
+#### Related Articles
+Links to Growing Guide articles related to the selected plant<br /><br />
+{{< screenshot Carrots-articles.jpg "Screenshot Growing Guide articles related to carrots" >}}
