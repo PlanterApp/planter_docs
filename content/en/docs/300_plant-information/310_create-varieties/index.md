@@ -1,6 +1,6 @@
 ---
-title: "How can I create new varieties?"
-description: "Learn how to create your own plant varieties"
+title: "How can I create custom varieties?"
+description: "Learn how to create your own custom plant varieties"
 weight: 310
 draft: false
 url: "plant-information/custom-varieties"
