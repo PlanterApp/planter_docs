@@ -14,3 +14,7 @@ url: "account/login"
 <br /><br />
 {{< screenshot Login-screen.jpg "Screenshot of the login screen" >}}
 {{< alert icon="🍓" context="info" text="Having trouble logging in to your account? Use the [**Send feedback**](../../connect/contact-us/#send-feedback-contact-support) option in **Settings** to email the Planter team" />}}
+
+#### "This sign-in method is not available on your device"
+
+Some sign-in methods are currently unavailable on certain devices (such as Google on MacOS). In these situations, add an email/password login to your account on a different device. Then login using that email/password on your new device.
