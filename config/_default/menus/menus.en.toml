@@ -44,7 +44,7 @@
   url = "https://tiktok.com/@planterapp"
   weight = 40
 
-[[footer]]
-  name = "Privacy"
-  url = "https://planter.garden/privacy"
-  weight = 10
+#[[footer]]
+#  name = "Privacy"
+#  url = "privacy"
+#  weight = 10
