@@ -13,7 +13,7 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 1. In the garden, select the **+ Add Plants button**<br /><br />
 {{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
-2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
+2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of plants, and use search to look for a specific plant<br /><br />
 {{< screenshot Plants-search-bar1.jpg "Screenshot of the plant search bar" >}}<br /><br />
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
@@ -22,8 +22,8 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 
 3. **Long press** on the plant you want to add, then hold and drag it onto the desired garden square<br /><br />
 {{< screenshot Plant-carrot.jpg "Screenshot of carrots being added to a garden" >}}
-{{< alert icon="🥦" context="info" text="Quick pressing on the plant will bring up the [**How to Grow**](../../plant-information/how-to-grow) information" />}}
-{{< alert icon="🥕️" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../../plant-information/create-plants)" />}}
+{{< alert icon="🥦" context="info" text="Search will find plants with common synonyms, such as squash, zucchini, and courgette" />}}
+{{< alert icon="🥕️" context="info" text="Still can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../../plant-information/create-plants)" />}}
 
 ### Add a plant to multiple garden squares
 
