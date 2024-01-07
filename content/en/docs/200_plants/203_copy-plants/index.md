@@ -8,7 +8,10 @@ url: "plants/copy-plants"
 
 1. In the garden, quick press on the plant you want to copy then select **Copy**<br /><br />
 {{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}<br /><br />
-2. If the plant has Notes or events attached, set the toggle on if you want them to be copied over
+2. If the plant has Notes or events attached, set the toggle on if you want them to be copied over<br /><br />
 {{< screenshot Paste-options.jpg "Screenshot of the information and options when pasting a plant" >}}<br /><br />
-3. Select a garden square to add a copy of that plant
+3. Select a garden square to add a copy of that plant<br /><br />
+{{< screenshot Copied-plant.jpg "Screenshot of a plant that was copied and pasted in the garden" >}}<br /><br />
 {{< alert icon="🥬" context="info" text="For multi-square plants, select where you want the top-left corner of the plant to be" />}}
+4. Select **X** to stop pasting<br /><br />
+{{< screenshot Paste-options.jpg "Screenshot of the information and options when pasting a plant" >}}
