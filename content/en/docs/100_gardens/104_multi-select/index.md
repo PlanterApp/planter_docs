@@ -22,4 +22,4 @@ url: "garden/multi-select"
 
 4. Select an action for the selected squares (add **notes and events**, **customize** the background, or **delete** plants)<br /><br />
 {{< screenshot Multi-action.jpg "Screenshot of icons for adding notes and events, customize the background, and remove plants " >}}
-{{< alert icon="🍅" context="info" text="You can also long-press on a garden square or plant to engage **multi-select** or **plant multi-select**" />}}
+{{< alert icon="🍅" context="info" text="You can also long press on a garden square or plant to engage **multi-select** or **plant multi-select**" />}}
