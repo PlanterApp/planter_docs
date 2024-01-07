@@ -19,10 +19,10 @@ Ready to get planning? Planter makes it easy to find plants and add them to your
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
 {{< screenshot Search-carrots1.jpg "Screenshot of plant search for carrots" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
+{{< alert icon="🥦" context="info" text="Search will find plants with common synonyms, such as squash, zucchini, and courgette" />}}
 
 3. **Long press** on the plant you want to add, then hold and drag it onto the desired garden square<br /><br />
 {{< screenshot Plant-carrot.jpg "Screenshot of carrots being added to a garden" >}}
-{{< alert icon="🥦" context="info" text="Search will find plants with common synonyms, such as squash, zucchini, and courgette" />}}
 {{< alert icon="🥕️" context="info" text="Still can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../../plant-information/create-plants)" />}}
 
 ### Add a plant to multiple garden squares
