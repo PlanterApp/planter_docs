@@ -16,5 +16,5 @@ url: "getting-started/create-garden"
 5. Select **Continue**<br /><br />
 {{< screenshot Garden-setup.jpg "Screenshot of the new garden setup screen" >}}
 {{< alert icon="🥕" context="info" text="You can change the garden dimensions to [**metric units**](../../getting-started/set-units) in **Settings**" />}}
-{{< alert icon="🫑" context="info" text="Garden size is restricted as very large gardens can cause poor performance" />}}
+{{< alert icon="🫑" context="info" text="Very large gardens may cause poor performance" />}}
 {{< screenshot New-garden.jpg "Screenshot of a newly created garden" >}}
