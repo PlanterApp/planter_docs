@@ -8,8 +8,8 @@ url: "plant-information/favorite-varieties"
 
 Mark varieties as favorites to make them easier to find!
 
-1. Select a plant, then select the **Varieties** tab<br /><br />
-{{< screenshot Varieties-tab2.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+1. Select a plant, then select **Varieties**<br /><br />
+{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 2. **Find** the varieties(s) you want to mark as favorites
 {{< alert icon="🥕" context="info" text="Can't find the variety you are looking for? [**Submit (or upvote!) a variety request**](https://planter.garden/requests) or [**create a custom variety**](../custom-varieties)" />}}
