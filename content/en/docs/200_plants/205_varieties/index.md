@@ -45,14 +45,14 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 {{< alert icon="🧄" context="info" text="Don't want to use a specific plant variety after all? Select **(no variety)**" />}}
 
 9. **Long press** on the plant to add it to your garden using the selected variety<br /><br />
-{{< screenshot Cherry-tomatoes.jpg "Screenshot of cherry tomatoes planted in a garden" >}}<br /><br />
+{{< screenshot Beefsteak-tomato.jpg "Screenshot of a beefsteak tomato in a garden plan" >}}<br /><br />
 
 #### Check varieties in the garden
 1. Quick press the plant in your garden then press **Info**<br /><br />
-{{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}
+{{< screenshot Plant-menu2.jpg "Screenshot of the plant pop-up menu options" >}}
 
 2. If a specific variety has been used in the garden, the **Selected Variety** section will appear for that plant<br /><br />
-{{< screenshot Tomatoes-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
+{{< screenshot Tomato-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
 #### Change plant varieties
 1. Select the plant in the garden
