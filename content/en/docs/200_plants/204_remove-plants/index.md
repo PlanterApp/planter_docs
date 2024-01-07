@@ -8,8 +8,10 @@ url: "plants/remove-plants"
 
 ### Delete single plants
 
-1. In the garden, long press on the plant you want to delete then hold and drag it up to the **garbage bin icon** {{< mdi delete "Garbage bin icon" >}}<br /><br />
-{{< screenshot Delete_plant1.jpg "Screenshot of carrots being deleted" >}}<br /><br />
+1. In the garden, quick press on the plant you want to copy then select **Compost**<br /><br />
+{{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}
+{{< alert icon="🥬" context="info" text="You can also long press on the plant then hold and drag it up to the compost bin" />}}
+
 
 ### Delete multiple plants
 
