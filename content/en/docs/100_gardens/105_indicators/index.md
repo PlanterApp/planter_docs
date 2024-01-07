@@ -11,8 +11,8 @@ Helpful garden indicators in Planter let you plan and manage your garden at a gl
 Compatibility indicators are the green and red circles (and quarter-circles) that sometimes appear between plants in your garden.
 
 {{< screenshot Compatibility-indicators.jpg "Screenshot of a garden with green, red, and yellow compatibility indicators" >}} <br /><br />
-- **Green circles** between plants means they are companions and work well planted next to each other
-- **Red circles** between plants means they are combative and shouldn't be planted next to each other
+- **Green circles** between plants means they are companions and may benefit each other when planted together
+- **Red circles** between plants means they are combative and may compete or share pests and diseases
 - **No circle** between plants means they are neutral - neither companions nor combative
 {{< alert icon="🍅" context="info" text="Red circles have a darker inner circle to help color-blind gardeners identify them" />}}
 
