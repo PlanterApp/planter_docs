@@ -39,13 +39,13 @@ General planting and care information. Many of the **quick info cards** display 
 {{< alert icon="🍅" context="info" text="Tomatoes don't have Sprout to Harvest days noted, because it varies significantly depending on the variety!" />}}
 
 #### Growing Calendar
-Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your [**frost date settings**](../../getting-started/frost-dates)
+Shows when to **Start Inside** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outside** (plant seeds directly outdoors), based on your [**frost date settings**](../../getting-started/frost-dates)
 
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
-- If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show
+- If the plant is typically grown by planting seeds directly outdoors, only the **Start Inside** dates will show
 
-- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br /><br />
+- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Inside** and **Transplant** dates will show. <br /><br />
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
