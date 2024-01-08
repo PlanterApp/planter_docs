@@ -11,7 +11,7 @@ Use the **Growing Calendar** in Planter to see which plants you can **Start Insi
 {{< alert icon="🌶️" context="warning" text="Be sure to [**set your frost dates**](../../getting-started/frost-dates) so the Growing Calendar will show accurate information for your area" />}}
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the **Growing Calendar** dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
-###Use the growing calendar
+#### Use the growing calendar
 1. Select **Calendar** from the menu bar<br /><br />
 {{< screenshot Menu-calendar.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
 
@@ -30,4 +30,16 @@ Use the **Growing Calendar** in Planter to see which plants you can **Start Insi
 {{< screenshot Calendar-search.jpg "Screenshot of searching for the growing calendar for raspberries" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show all** and de-select **Start inside now, Transplant now, and Sow outside now** to see all search results." />}}
 
-###Interpreting the growing calendar
+#### Interpreting the growing calendar
+
+- The solid black line indicates the current date
+- The blue areas show the time after your first frost date in fall and your last frost date in spring
+- The white area shows the time between your last frost date in spring and your first frost date in fall
+- The pink, purple, and yellow bars indicate when you can start seeds indoors, transplant plants outdoors, and sow seeds outdoors
+  - Darker shades indicate the typical timing
+  - Lighter shades indicate times where you may be able to still sow seeds or transplant, but it might be risky or require some extra care
+  - If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show
+  - If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br /><br />
+  {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
+
+  {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
