@@ -6,8 +6,8 @@ weight: 302
 url: "plant-information/find-plants"
 ---
 
-Find plant care information on the **How to Grow** tab of each plant in Planter!
-{{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow) to learn more about the information that is available on the **How to Grow** tab" />}}
+Learn where to find the plant care information in Planter!
+{{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow) to learn how to use the plant care information in Planter" />}}
 
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
@@ -19,6 +19,6 @@ Find plant care information on the **How to Grow** tab of each plant in Planter!
 {{< screenshot Search-carrots.jpg "Screenshot of plant search for carrots" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
 
-3. Select the plant to see the **How to Grow** information:<br /><br />
+3. Select the plant to see the plant care information:<br /><br />
 {{< screenshot Carrots-info.jpg "Screenshot of How to Grow information for carrots" >}}
 {{< alert icon="🥕" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../create-plants)"  />}}

@@ -7,7 +7,7 @@ url: "plant-information/how-to-grow"
 ---
 
 Planter has plant care information for many plants, and new plants are being added all the time!
-{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find plant care in Planter" />}}
+{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find this information in Planter" />}}
 
 #### Category
 Which group the plant belongs to in Planter.
@@ -20,15 +20,15 @@ A brief overview of the plant and tips to grow it successfully.<br /><br />
 General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
 {{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br />
 
-- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card
+- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card.
 
-- **Depth:** how deep to plant the seeds. For plants that are not recommended to be grown from seed, the Depth card does not appear
+- **Depth:** how deep to plant the seeds (not transplants). For plants that aren't typically grown from seed, the Depth card does not appear.
 
 - **Sun:** whether the plant prefers a **Full Sun** location (6 or more hours of sunlight per day), a **Part Sun** location (4-6 hours of sunlight per day), a **Full-Part Sun** location (4 or more hours of sunlight per day) or a location in the **Shade** (less than 4 hours of sunlight per day)
 
-- **Water:** how much water the plant needs in total per week. Some of this may come from rainfall, the rest should come from watering. If the plant does not typically need watering once it matures, the Water card will not appear
+- **Water:** how much water the plant needs in total per week. This can come from rainfall or supplemental watering. If the plant doesn't typically need watering once it matures, the **Water** card won't appear.
 
-- **Season:** whether the plant is a **Warm** season crop that grows best when daytime temperatures are above 70°F (21°C), a **Cool** season crop that stops producing when daytime temperatures reach 80°F (27°C), or a **Perennial** that comes back on its own each year, so long as it is hardy enough to withstand local winter conditions
+- **Season:** whether the plant is a **Warm** season crop that grows best when daytime temperatures are above 70°F (21°C), a **Cool** season crop that stops producing when daytime temperatures reach 80°F (27°C), or a **Perennial** that comes back each year, so long as it's hardy enough to withstand the local winter conditions
 
 - **Frost:** whether the plant is **Tolerant** of hard frosts with air temperatures are below 28°F (-2°C), **Semi-Tolerant** of light frosts with air temperatures are between 28°F and 32°F (-2°C and 0°C), or **Not Tolerant** of frost where any frost might kill the plant
 
@@ -39,7 +39,7 @@ General planting and care information. Many of the **Quick Info** cards display 
 {{< alert icon="🍅" context="info" text="Tomatoes don't have Sprout to Harvest days noted, because it varies significantly depending on the variety!" />}}
 
 #### Growing Calendar
-Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your frost date settings
+Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your frost date settings. ADD LINK
 
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
@@ -49,6 +49,8 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
+
+#### Varieties
 
 #### Companion Plants
 **Companion plants** are plants that complement each other when planted side-by-side
