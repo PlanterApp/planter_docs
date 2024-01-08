@@ -6,7 +6,7 @@ weight: 203
 url: "plants/copy-plants"
 ---
 
-1. In the garden, quick press on the plant you want to copy then select **Copy**<br /><br />
+1. In the garden, quick press on a plant then select **Copy**<br /><br />
 {{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}<br /><br />
 2. If the plant has notes or events attached, enable the toggle on if you want them copied over<br /><br />
 {{< screenshot Paste-options.jpg "Screenshot of the information and options when pasting a plant" >}}<br /><br />
