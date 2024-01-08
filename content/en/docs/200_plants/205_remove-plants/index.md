@@ -2,7 +2,7 @@
 title: "How do I delete plants from my garden?"
 description: "Learn how to remove plants from your garden"
 draft: false
-weight: 204
+weight: 205
 url: "plants/remove-plants"
 ---
 

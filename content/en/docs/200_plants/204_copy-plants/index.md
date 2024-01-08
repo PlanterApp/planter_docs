@@ -2,7 +2,7 @@
 title: "How do I copy plants my garden?"
 description: "Learn how to copy plants in your garden"
 draft: false
-weight: 203
+weight: 204
 url: "plants/copy-plants"
 ---
 
