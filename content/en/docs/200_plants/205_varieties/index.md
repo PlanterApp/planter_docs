@@ -11,7 +11,7 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 
 #### Add plant varieties
 1. In the garden, select the **+ Add Plants** button<br /><br />
-{{< screenshot Add_plants1.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
+{{< screenshot Add_plants.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
 2. **Find** the plant you are interested in adding<br /><br />
 {{< screenshot Tomatoes-search.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
@@ -39,7 +39,7 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 {{< screenshot Varieties-back-arrow.jpg "Screenshot of the back arrow to exit the varieties screen" >}}<br /><br />
 
 8. Select the **down arrow** {{< mdi menu-down "Dropdown arrow icon" >}} under the plant and select either a **Recently Selected** or **Favorite** variety, or **Choose** another variety<br /><br />
-{{< screenshot Plant-varieties-arrow1.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
+{{< screenshot Plant-varieties-arrow.jpg "Screenshot of the variety dropdown arrow underneath tomatoes" >}}<br /><br />
 {{< screenshot Plant-varieties-dropdown.jpg "Screenshot of a dropdown menu showing favorite and recently selected plant varieties" >}}
 
 {{< alert icon="🧄" context="info" text="Don't want to use a specific plant variety after all? Select **(no variety)**" />}}
@@ -60,4 +60,4 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 2. Select the **Varieties** tab
 
 3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
-{{< screenshot Selected-variety2.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
+{{< screenshot Selected-variety.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
