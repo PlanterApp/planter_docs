@@ -9,7 +9,7 @@ url: "garden/summary"
 1. In a garden, select the **three dots ⋮** icon then select **Garden summary**<br /><br />
 {{< screenshot Garden-list-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
-2. The garden summary provides an overview of the garden plan including
+2. The garden summary provides an overview of your garden plan including
 - The garden dimensions and number of squares
 - Garden notes and events
 - Quantities of plants and varieties in the garden- which comes in handy for starting seeds and buying plants!<br /><br />
