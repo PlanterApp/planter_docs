@@ -14,13 +14,15 @@ Keep seeing plants you know you'll never grow?  You can hide them from the Plant
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
 
-2. **Find** the plant you want to hide
+2. **Search** for the plant you want to hide<br /><br />
+{{< screenshot Rutabaga-search.jpg "Screenshot of a plant search for rutabaga" >}}<br /><br />
 
 3. **Long press** on the plant, then select **Hide**<br /><br />
 {{< screenshot Menu-hide.jpg "Screenshot of a dropdown menu with the option to Hide a plant" >}}<br /><br />
 
 #### Unhide a plant
 1. From the **Plants** list, **filter** {{< mdi filter "Filter icon" >}} for **Hidden plants**<br /><br />
+{{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br />
 {{< screenshot Hidden-plants.jpg "Screenshot of the Hidden Plants filter option" >}}<br /><br />
 
 2. Long press on the plant, then select **Un-hide**<br /><br />
