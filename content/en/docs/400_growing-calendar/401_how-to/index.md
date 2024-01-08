@@ -41,6 +41,6 @@ Use the **Growing Calendar** in Planter to see which plants you can **Start Insi
   - Darker shaded areas indicate the typical timing for sowing seeds and transplanting
   - Lighter shaded areas indicate times you may be able to sow seeds or transplant but the plants might need protection from the weather
   <br /><br />
-  {{< screenshot Tomatoes-growing-calendar.jpg "Screenshot of the growing calendar for tomatoes" >}}
+  {{< screenshot Tomatoes-calendar.jpg "Screenshot of the growing calendar for tomatoes" >}}
 
   {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
