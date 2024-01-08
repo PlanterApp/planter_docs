@@ -59,7 +59,8 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 {{< screenshot Tomato-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
 #### Change plant varieties
-1. Select the plant in the garden
+1. Quick press on a plant in your garden then press **Info**<br /><br />
+{{< screenshot Plant-menu2.jpg "Screenshot of the plant pop-up menu options" >}}
 
 2. Select **Varieties**
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
