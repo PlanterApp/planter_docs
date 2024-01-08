@@ -53,23 +53,24 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 #### Varieties
 
 #### Companion Plants
-**Companion plants** are plants that complement each other when planted side-by-side
+**Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together.
 
-- Companion plants will not compete intensely for the same resources and do not suffer from the same diseases and pests
+Toggle the grid icon to see more or less detail on the companion plant relationships and select the down arrow to expand the list of relationships.
+{{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}
 
-- Companion plants can offer added benefits such as repelling pests and attracting beneficial insects
-
-Select the companion plant cards to learn more about each companion plant.
+Select the relationship cards to see detailed information about potential benefits.<br /><br />
+{{< screenshot Companion-relationship.jpg "Screenshot of the carrot and onion companion relationship card" >}}<br /><br />
 
 #### Combative Plants
-**Combative plants** should not be planted side-by-side, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
+**Combative plants** may compete intensely for the same resources or suffer from the same diseases and pests if planted together.
 
-Select the combative plant cards to learn more about each combative plant.<br /><br />
-{{< screenshot Carrots-companions.jpg "Screenshot of carrots Companion Plants and Combative Plants" >}}
+Toggle the grid icon to see more or less detail on the combative plant relationships and select the down arrow to expand the list of relationships.
+{{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}
+
+Select the relationship cards to see detailed information about potential drawbacks.<br /><br />
+{{< screenshot Combative-relationship.jpg "Screenshot of the carrot and dill combative relationship card" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral" />}}
-
-{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow compatibility indicator in the garden." />}}
 
 #### Pests
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants affected, Identification, Damage, prevention, Physical controls, and Chemical controls.
