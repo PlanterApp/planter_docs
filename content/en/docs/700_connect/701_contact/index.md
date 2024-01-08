@@ -9,7 +9,8 @@ url: "connect/contact-us"
 Uncovered a bug in Planter? Have feedback you want to share? We appreciate you taking the time to let us know about your experience.
 
 #### Report a bug
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Scroll down and select **Report a bug** (under the **Info** section)<br /><br />
 {{< screenshot Settings-info.jpg "Screenshot of the Info section of the Settings screen with the Report a Bug option" >}}<br /><br />
@@ -18,7 +19,8 @@ Uncovered a bug in Planter? Have feedback you want to share? We appreciate you t
 {{< alert icon="🌱" context="info" text="If you are struggling with an issue specific to your Planter account, use the [**Send feedback**](#send-feedback-contact-support) option in **Settings** to email the Planter team" />}}
 
 #### Send feedback (contact support)
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Scroll down and select **Send feedback** (under the **Info** section)
 <br /><br />

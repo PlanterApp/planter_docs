@@ -10,7 +10,9 @@ Whenever you log in to your Planter account, your account data will be retrieved
 
 #### Planter data missing
 If your Planter data seems to be missing, double check whether you are logged in:
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
+{{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Validate that you are logged in to Planter with the correct email address; if not, select **Login**<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the login option in settings" >}}<br /><br />

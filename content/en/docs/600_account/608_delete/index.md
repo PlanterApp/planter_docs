@@ -6,7 +6,8 @@ weight: 608
 url: "account/delete"
 ---
 
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Select **Manage**<br /><br />
 {{< screenshot Settings-manage.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />

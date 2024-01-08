@@ -10,4 +10,4 @@ We’re sorry to see you go! If you’d like to share feedback on your experienc
 
 - On Apple devices, cancel through the App Store
 - On Android devices, cancel through Google Play
-- On the web, Select **Settings** from the menu bar in Planter then select **Manage Subscription**
+- On the web, select **More** then **Settings** from the menu bar in Planter then select **Manage Subscription**
