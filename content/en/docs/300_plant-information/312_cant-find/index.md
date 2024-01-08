@@ -2,7 +2,7 @@
 title: "Where can I find {plant name} or {variety name}?"
 description: "Learn where to find commonly requested plants and varieties"
 draft: false
-weight: 313
+weight: 312
 url: "plant-information/cant-find"
 ---
 

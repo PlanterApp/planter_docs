@@ -7,7 +7,7 @@ url: "plant-information/customize-plants"
 ---
 
 #### Quickly customize plant spacing
-1. Select a plant to edit, then select the **Spacing** card under **Quick Info**<br /><br />
+1. Select a plant, then select the **Spacing** card under **Quick Info**<br /><br />
 {{< screenshot Beets-spacing1.jpg "Screenshot of Spacing Quick Info card for beets" >}}<br /><br />
 
 2. Tap the **pencil icon** {{< mdi pencil "Pencil icon" >}}<br /><br />
