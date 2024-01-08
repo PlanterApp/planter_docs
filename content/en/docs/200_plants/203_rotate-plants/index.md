@@ -12,3 +12,7 @@ Plants that take up 1 square by 2 squares can be rotated to fit perfectly in you
 {{< screenshot Plant-rotate.jpg "Screenshot of the plant pop-up menu with the rotate option" >}}<br /><br />
 
 {{< alert icon="🌶️" context="warning" text="If you rotate a plant on top of another plant, it will replace that plant" />}}
+
+To avoid losing notes when you replace plants, select the **three dots icon ⋮** then toggle off **Remove notes**<br /><br />
+{{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
+{{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
