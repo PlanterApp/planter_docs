@@ -21,12 +21,13 @@ url: "plant-information/customize-plants"
 
 {{< alert icon="🥕" context="info" text="If you set custom variety spacing, it will override plant spacing when you use that variety" />}}
 
-#### Customize How to Grow information
+#### Customize plant care information
 
 1. Select **Plants** from the menu bar<br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
 
-2. **Find** the plant you want to edit
+2. **Search** for the plant you want to customize<br /><br />
+{{< screenshot Beets-search.jpg "Screenshot of a plant search for beets" >}}<br /><br />
 
 3. **Long press** on the plant, then select, **Edit**<br /><br />
 {{< screenshot Menu-edit.jpg "Screenshot of a dropdown menu with the option to Edit a plant" >}}<br /><br />
