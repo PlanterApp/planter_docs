@@ -6,15 +6,13 @@ draft: false
 url: "growing-calendar/how-to-use"
 ---
 
-Use the **Growing Calendar** in Planter to time your garden plantings!
+Use the **Growing Calendar** in Planter to see which plants you can **Start Inside**, **Transplant**, or **Sow Outside** at any point in your local growing season.
 
-Check which plants you can **Start Inside**, **Transplant**, or **Sow Outside** at any point in your local growing season.
-
-{{< alert icon="🌶️" context="warning" text="Be sure to [**set your frost dates**](../../getting-started/frost-dates) so the Growing Calendar will show the correct timings for your area" />}}
+{{< alert icon="🌶️" context="warning" text="Be sure to [**set your frost dates**](../../getting-started/frost-dates) so the Growing Calendar will show accurate information for your area" />}}
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the **Growing Calendar** dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
 1. Select **Calendar** from the menu bar<br /><br />
-{{< screenshot Menu-calendar1.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
+{{< screenshot Menu-calendar.jpg "Screenshot of Planter menu with Calendar selected" >}}<br /><br />
 
 2. Select the **sort icon** {{< mdi sort "Sort icon" >}} to change the sorting<br /><br />
 {{< screenshot Calendar-search-bar.jpg "Screenshot of the growing calendar search bar" >}}<br /><br />

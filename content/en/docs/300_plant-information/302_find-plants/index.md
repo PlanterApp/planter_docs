@@ -1,5 +1,5 @@
 ---
-title: "How can I find plants in Planter?"
+title: "How do I find plants in Planter?"
 description: "How to find plants and plant care information in Planter"
 draft: false
 weight: 302

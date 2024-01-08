@@ -7,7 +7,7 @@ url: "plant-information/how-to-grow"
 ---
 
 Planter has plant care information for many plants, and new plants are being added all the time!
-{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find the plant care in Planter" />}}
+{{< alert icon="🌿" context="info" text="See [**How do I find plants in Planter?**](../find-plants) to learn where to find the plant care in Planter" />}}
 
 #### Category
 Which group the plant belongs to in Planter.

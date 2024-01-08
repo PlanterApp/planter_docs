@@ -9,7 +9,7 @@ url: "plant-information/cant-find"
 Can’t find a particular plant in Planter?<br />
 
 - Try **searching and filtering** to locate the plant
-{{< alert icon="🫛" context="info" text="To learn how to find Plants in Planter see [**How can I find plants in Planter?**](../find-plants)"/>}}
+{{< alert icon="🫛" context="info" text="To learn how to find Plants in Planter see [**How do I find plants in Planter?**](../find-plants)"/>}}
 
 - Select a related plant and try searching for specific **varieties** of that plant
   - Zucchini is a variety of **squash**<br /><br />
