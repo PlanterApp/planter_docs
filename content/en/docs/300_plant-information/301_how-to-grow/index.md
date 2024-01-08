@@ -7,7 +7,7 @@ url: "plant-information/how-to-grow"
 ---
 
 Planter has plant care information for many plants, and new plants are being added all the time!
-{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find this information in Planter" />}}
+{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find the plant care in Planter" />}}
 
 #### Category
 Which group the plant belongs to in Planter.
@@ -17,10 +17,10 @@ A brief overview of the plant and tips to grow it successfully.<br /><br />
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
+General planting and care information. Many of the **quick info cards** display additional details when selected:<br /><br />
 {{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br />
 
-- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card.
+- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by selecting this card.
 
 - **Depth:** how deep to plant the seeds (not transplants). For plants that aren't typically grown from seed, the Depth card does not appear.
 
@@ -51,23 +51,29 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
 
 #### Varieties
+Displays a list of recently used and favorite varieties. If there are no recently used or favorite varieties, other common varieties will appear.<br /><br />
+
+Select **View All Varieties** to see the full list of varieties for the plant<br /><br />
+
+Select **View All (#) Varieties** to see a full list of recently used, favorite, and common varieties<br /><br />
+{{< screenshot Carrots-varieties.jpg "Screenshot of the carrot varieties list" >}}<br /><br />
 
 #### Companion Plants
 **Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together.
 
-Toggle the grid icon to see more or less detail on the companion plant relationships and select the down arrow to expand the list of relationships.
+Toggle the **grid icon** to see more or less detail on the companion plant relationships and select the **down arrow** to expand the list of relationships
 {{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}
 
-Select the relationship cards to see detailed information about potential benefits.<br /><br />
+Select the **relationship cards** to see detailed information about potential benefits.<br /><br />
 {{< screenshot Companion-relationship.jpg "Screenshot of the carrot and onion companion relationship card" >}}<br /><br />
 
 #### Combative Plants
-**Combative plants** may compete intensely for the same resources or suffer from the same diseases and pests if planted together.
+**Combative plants** may compete intensely for the same resources or suffer from the same diseases and pests if planted together
 
-Toggle the grid icon to see more or less detail on the combative plant relationships and select the down arrow to expand the list of relationships.
+Toggle the **grid icon** to see more or less detail on the combative plant relationships and select the **down arrow** to expand the list of relationships
 {{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}
 
-Select the relationship cards to see detailed information about potential drawbacks.<br /><br />
+Select the **relationship cards** to see detailed information about potential drawbacks.<br /><br />
 {{< screenshot Combative-relationship.jpg "Screenshot of the carrot and dill combative relationship card" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral" />}}
@@ -76,7 +82,7 @@ Select the relationship cards to see detailed information about potential drawba
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants affected, Identification, Damage, prevention, Physical controls, and Chemical controls.
 
 #### Diseases
-Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls<br /><br />
+Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls
 
 #### Beneficial Critters
 Insects and animals that offer benefits to the plant. Select the cards to learn more about each of the beneficial critters including: Common species, Why they're helpful, Identification, and How to attract them <br /><br />
