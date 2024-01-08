@@ -39,7 +39,7 @@ General planting and care information. Many of the **quick info cards** display 
 {{< alert icon="🍅" context="info" text="Tomatoes don't have Sprout to Harvest days noted, because it varies significantly depending on the variety!" />}}
 
 #### Growing Calendar
-Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your [frost date settings](../../getting-started/frost-dates).
+Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your [**frost date settings**](../../getting-started/frost-dates)
 
 {{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
 
@@ -52,8 +52,8 @@ Shows when to **Start Indoors** (start growing seeds indoors), when to **Transpl
 
 #### Varieties
 Displays a list of recently used and favorite varieties. If there are no recently used or favorite varieties, other common varieties will appear.
-- Select **View All Varieties** to see the full list of varieties for the plant
-- Select **View All (#) Varieties** to see a full list of recently used, favorite, and common varieties<br /><br />
+- Select **View All Varieties** at the top to see the full list of varieties for the plant<br /><br />
+- Select **View All (#) Varieties** at the bottom to see a full list of recently used, favorite, and common varieties<br /><br />
 {{< screenshot Carrots-varieties.jpg "Screenshot of the carrot varieties list" >}}<br /><br />
 
 #### Companion Plants

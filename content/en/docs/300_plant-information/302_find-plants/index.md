@@ -16,7 +16,7 @@ Learn where to find the plant care information in Planter!
 {{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br />
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
-{{< screenshot Search-carrots.jpg "Screenshot of plant search for carrots" >}}
+{{< screenshot Search-carrots.jpg "Screenshot of a plant search for carrots" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
 
 3. Select the plant to see the plant care information:<br /><br />
