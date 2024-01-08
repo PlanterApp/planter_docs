@@ -9,7 +9,7 @@ url: "plant-information/custom-varieties"
 1. Select a plant, then select **Varieties**<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Select the **+ button**<br /><br />
+2. Select the green **+ button**<br /><br />
 {{< screenshot Add-variety-button.jpg "Screenshot of the button to add a new variety" >}}<br /><br />
 
 3. Enter the variety **Name**<br /><br />

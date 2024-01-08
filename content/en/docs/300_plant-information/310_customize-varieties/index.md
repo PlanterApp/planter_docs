@@ -23,11 +23,12 @@ url: "plant-information/customize-varieties"
 {{< alert icon="️🍅" context="info" text="Customized variety spacing will override **plant spacing** when you use that variety" />}}
 
 #### Edit a custom variety
-{{< alert icon="️🥕" context="info" text="You can edit information for custom varieties, but not existing varieties. Only spacing can be customized for existing varieties." />}}
+{{< alert icon="️🥕" context="info" text="You can edit information for custom varieties, but not public varieties. Only spacing can be customized for public varieties." />}}
 1. Select a plant, then select the **Varieties** tab<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 2. **Filter** {{< mdi filter "Filter icon" >}} varieties to only see **My Varieties** (de-select **Common Varieties** and **Burpee**)<br /><br />
+{{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
 {{< screenshot My-varieties.jpg "Screenshot of the varieties filter with My Varieties selected" >}}<br /><br />
 
 {{< alert icon="️🥦" context="info" text="You might need to re-select **Common Varieties** and **Burpee** as sources the next time you want to look through all varieties" />}}
