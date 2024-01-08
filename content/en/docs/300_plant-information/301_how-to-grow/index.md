@@ -59,8 +59,8 @@ Displays a list of recently used and favorite varieties. If there are no recentl
 #### Companion Plants
 **Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together.
 
-Toggle the **grid icon** to see more or less detail on the companion plant relationships and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships
-{{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}
+Toggle the **grid icon** to see more or less detail on the companion plant relationships and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
+{{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}<br /><br />
 
 Select the **relationship cards** to see detailed information about potential benefits.<br /><br />
 {{< screenshot Companion-relationship.jpg "Screenshot of the carrot and onion companion relationship card" >}}<br /><br />
@@ -68,8 +68,8 @@ Select the **relationship cards** to see detailed information about potential be
 #### Combative Plants
 **Combative plants** may compete intensely for the same resources or suffer from the same diseases and pests if planted together
 
-Toggle the **grid icon** to see more or less detail on the combative plant relationships and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships
-{{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}
+Toggle the **grid icon** to see more or less detail on the combative plant relationships and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
+{{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}<br /><br />
 
 Select the **relationship cards** to see detailed information about potential drawbacks.<br /><br />
 {{< screenshot Combative-relationship.jpg "Screenshot of the carrot and dill combative relationship card" >}}

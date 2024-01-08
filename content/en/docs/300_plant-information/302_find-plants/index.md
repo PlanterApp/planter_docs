@@ -1,13 +1,13 @@
 ---
-title: "Where can I find plant care information in Planter?"
-description: "How to find plant care information in Planter"
+title: "How can I find plants in Planter?"
+description: "How to find plants and plant care information in Planter"
 draft: false
 weight: 302
 url: "plant-information/find-plants"
 ---
 
-Learn where to find the plant care information in Planter!
-{{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow) to learn how to use the plant care information in Planter" />}}
+Learn how to find plants in Planter!
+{{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow) to learn more about the plant care information available in Planter" />}}
 
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
@@ -19,6 +19,6 @@ Learn where to find the plant care information in Planter!
 {{< screenshot Search-carrots.jpg "Screenshot of a plant search for carrots" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
 
-3. Select the plant to see the plant care information:<br /><br />
+3. Select the plant to see detailed plant care information:<br /><br />
 {{< screenshot Carrots-info.jpg "Screenshot of How to Grow information for carrots" >}}
 {{< alert icon="🥕" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../create-plants)"  />}}

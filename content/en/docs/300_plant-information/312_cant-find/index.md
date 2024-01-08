@@ -9,9 +9,13 @@ url: "plant-information/cant-find"
 Can’t find a particular plant in Planter?<br />
 
 - Try **searching and filtering** to locate the plant
-- Try looking for **varieties** of related plants
+{{< alert icon="🫛" context="info" text="To learn how to find Plants in Planter see [**How can I find plants in Planter?**](../find-plants)"/>}}
 
-{{< alert icon="🥒" context="info" text="Zucchini is a variety of **squash**" />}}
-{{< alert icon="🧄" context="info" text="Green onions are a variety of **onions**" />}}
+- Select a related plant and try searching for specific **varieties** of that plant
+  - Zucchini is a variety of **squash**<br /><br />
+  {{< screenshot Squash-varieties.jpg "Screenshot of zucchini as a variety of squash" >}}<br /><br />
 
-{{< alert icon="🧄" context="info" text="Still can't find the plant or variety you are looking for? [**Submit (or upvote!) a plant or variety request.**](https://planter.garden/requests) In the meantime, you can [**create a custom plant**](../create-plants) or [**create a custom variety.**](../custom-varieties)" />}}
+  - Green onion is a variety of **onions**<br /><br />
+  {{< screenshot Onions-varieties.jpg "Screenshot of green onions as a variety of onions" >}}<br /><br />
+
+{{< alert icon="🥕" context="info" text="Still can't find the plant or variety you are looking for? [**Submit (or upvote!) a plant or variety request.**](https://planter.garden/requests) In the meantime, you can [**create a custom plant**](../create-plants) or [**create a custom variety.**](../custom-varieties)" />}}
