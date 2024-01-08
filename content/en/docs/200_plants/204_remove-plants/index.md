@@ -15,6 +15,6 @@ url: "plants/remove-plants"
 
 ### Delete multiple plants
 
-1. To delete multiple plants at once, **long press** on a plant to use **multi-select**
+1. To delete multiple plants at once, **long press** on a plant then release to engage **multi-select**
 2. Select the plants to be removed then select the **garbage bin icon** {{< mdi trash-can-outline "Garbage bin icon" >}}<br /><br />
-{{< screenshot Multi-delete1.jpg "Screenshot of multiple plantings of carrots being deleted" >}}
+{{< screenshot Multi-delete.jpg "Screenshot of multiple plantings of carrots being deleted" >}}

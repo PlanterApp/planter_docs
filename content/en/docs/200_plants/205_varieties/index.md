@@ -13,7 +13,7 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 1. In the garden, select the **+ Add Plants** button<br /><br />
 {{< screenshot Add_plants.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
-2. **Find** the plant you are interested in adding<br /><br />
+2. **Search** for the plant you are interested in adding<br /><br />
 {{< screenshot Tomatoes-search.jpg "Screenshot of a garden with the Add Plants button" >}}<br /><br />
 
 3. **Quick press** on the plant, then select **Varieties**<br /><br />
@@ -29,8 +29,8 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 
 5. To see more varieties at once, **change the view** {{< mdi resize "Change view icon" >}} to **Dense**<br /><br />
 {{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
-{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view" >}}
-{{< alert icon="🍅" context="info" text="Found a plant variety you have to have in your garden? Select the **Down arrow** under the variety- many varieties have the option to **Buy Seeds**" />}}
+{{< screenshot Varieties-dense-view.jpg "Screenshot of the Dense variety view option" >}}
+{{< alert icon="🍅" context="info" text="Many varieties have the option to **Buy Seeds**. Select the **Down arrow** under the variety to see if seeds are available!" />}}
 
 6. Add favorite varieties by selecting the **heart icon** {{< mdi heart-outline "Heart icon" >}} and select a default variety to plant by selecting the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
 {{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
@@ -44,14 +44,18 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 
 {{< alert icon="🧄" context="info" text="Don't want to use a specific plant variety after all? Select **(no variety)**" />}}
 
-9. **Long press** on the plant to add it to your garden using the selected variety<br /><br />
+9. **Long press** and drag to add the plant variety in your garden<br /><br />
 {{< screenshot Beefsteak-tomato.jpg "Screenshot of a beefsteak tomato in a garden plan" >}}<br /><br />
 
 #### Check varieties in the garden
-1. Quick press the plant in your garden then press **Info**<br /><br />
+1. In the garden, select **three dots icon ⋮** then select **Show variety names** to see abbreviated variety names in your garden plan
+{{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
+{{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
+
+2. Quick press on a plant in your garden then press **Info**<br /><br />
 {{< screenshot Plant-menu2.jpg "Screenshot of the plant pop-up menu options" >}}
 
-2. If a specific variety has been used in the garden, the **Selected Variety** section will appear for that plant<br /><br />
+3. If a specific variety has been used the **Selected Variety** section will appear<br /><br />
 {{< screenshot Tomato-selected-variety.jpg "Screenshot showing cherry tomatoes as the selected tomato variety" >}}<br /><br />
 
 #### Change plant varieties
