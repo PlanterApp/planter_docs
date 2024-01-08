@@ -60,9 +60,9 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 
 #### Change plant varieties
 1. Quick press on a plant in your garden then press **Info**<br /><br />
-{{< screenshot Plant-menu2.jpg "Screenshot of the plant pop-up menu options" >}}
+{{< screenshot Plant-menu2.jpg "Screenshot of the plant pop-up menu options" >}}<br /><br />
 
-2. Select **Varieties**
+2. Select **Varieties**<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
 3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
