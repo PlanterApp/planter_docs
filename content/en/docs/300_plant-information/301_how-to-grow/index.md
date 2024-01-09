@@ -41,7 +41,7 @@ General planting and care information. Many of the **quick info cards** display 
 #### Growing Calendar
 Shows when to **Start Inside** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outside** (plant seeds directly outdoors), based on your [**frost date settings**](../../getting-started/frost-dates)
 
-{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [Growing Veggies in Subtropical and Tropical climates](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
+{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [**Growing Veggies in Subtropical and Tropical climates**](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
 
 - If the plant is typically grown by planting seeds directly outdoors, only the **Start Inside** dates will show
 

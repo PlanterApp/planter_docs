@@ -8,6 +8,8 @@ url: "plant-information/pests-beneficials"
 
 Use Planter to learn about pests and diseases that can afflict your plants and beneficial critters that can help your plants thrive!
 
+{{< alert icon="🐛" context="info" text="Pest, disease and beneficial critter information cannot be customized (yet!)" />}}
+
 #### Diseases
 1. Select **More** from the menu bar then select **Diseases**<br /><br />
 {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />

@@ -6,8 +6,8 @@ weight: 3
 url: "getting-started/frost-dates"
 ---
 
-Be sure to set your frost dates in Planter, so the [**Growing Calendar**](../../growing-calendar/how-to-use) will show accurate information for your area.
-{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [Growing Veggies in Subtropical and Tropical climates](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
+Be sure to set your frost dates in Planter, so the [Growing Calendar](../../growing-calendar/how-to-use) will show accurate information for your area.
+{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [**Growing Veggies in Subtropical and Tropical climates**](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
 
 #### Set frost dates automatically
 
