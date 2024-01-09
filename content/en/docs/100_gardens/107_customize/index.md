@@ -26,6 +26,8 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 To reset your garden background:
 
 1. Select the square(s) to be changed
-2. Select the **palette icon** {{< mdi palette "Palette icon" >}}
-3. Choose a new background and foreground, or leave the background and foreground empty to clear all customizations
-{{< alert icon="🌶️" context="warning" text="You can’t clear just the foreground or just the background - clear all customizations first then select a new background and foreground" />}}
+2. Select the **palette icon** {{< mdi palette "Palette icon" >}}<br /><br />
+{{< screenshot Palette.jpg "Screenshot of the palette icon in the Gardens view" >}}<br /><br />
+3. Choose a new background and/or foreground, or select **X** beside the background and/or foreground to clear customizations<br /><br />
+4. Select **Ok**
+{{< screenshot Customize-background.jpg "Screenshot of background and foreground customization selectors" >}}
