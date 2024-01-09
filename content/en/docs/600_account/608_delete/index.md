@@ -12,7 +12,7 @@ url: "account/delete"
 2. Select **Manage**<br /><br />
 {{< screenshot Settings-manage.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />
 3. Select **Delete account**<br /><br />
-{{< screenshot Delete-account1.jpg "Screenshot of the Delete account option in Manage Account" >}}<br /><br />
+{{< screenshot Manage-menu.jpg "Screenshot of the Delete account option in Manage menu" >}}<br /><br />
 4. Type **delete** then select **Delete Account** to confirm the deletion
 
 {{< alert icon="🌶️" context="info" text="Deleting your account permanently deletes all your Planter data including your gardens" />}}
