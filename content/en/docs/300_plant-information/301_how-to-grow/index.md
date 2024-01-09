@@ -57,7 +57,7 @@ Displays a list of recently used and favorite varieties. If there are no recentl
 {{< screenshot Carrots-varieties.jpg "Screenshot of the carrot varieties list" >}}<br /><br />
 
 #### Companion Plants
-**Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together.
+**Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together
 
 Toggle the **grid icon** {{< mdi view-module-outline "Grid icon" >}} to the **list icon** {{< mdi view-list-outline "List icon" >}} (and vice-versa) to see less or more detail and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
 {{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}<br /><br />
