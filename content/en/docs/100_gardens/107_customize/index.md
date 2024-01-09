@@ -10,7 +10,7 @@ Customize your garden in Planter by adding raised beds, containers, mulch, and m
 {{< screenshot Customized-garden.jpg "Screenshot of a customized garden in Planter" >}}
 {{< alert icon="💸" context="info" text="Customizing your garden is a [**Premium feature**](../../account/premium-subscription)" />}}
 
-1. In the garden, long press on a single square to engage **multi-select**, then select all the squares to be customized<br /><br />
+1. In the garden, long press and release on a garden square to engage **multi-select**, then select all the squares to be customized<br /><br />
 {{< screenshot Multiselect-squares.jpg "Screenshot of a garden with multiple squares selected" >}}<br /><br />
 2. With the squares selected, select the **palette icon** {{< mdi palette "Palette icon" >}} to customize the background (grass, stone, mulch) and foreground (raised bed edging, containers, hoses)
 {{< alert icon="🥕" context="info" text="Customizations in Planter are visuals- they do not change plant spacings or compatibility indicators" />}}

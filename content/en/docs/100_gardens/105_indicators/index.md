@@ -16,7 +16,7 @@ Compatibility indicators are the green and red circles (and quarter-circles) tha
 - **No circle** between plants means they are neutral - neither companions nor combative
 {{< alert icon="🍅" context="info" text="Red circles have a darker inner circle to help color-blind gardeners identify them" />}}
 
-To toggle compatibility indicators on or off select the  **three dots icon ⋮** then select **Show companion info**<br /><br />
+To toggle compatibility indicators on or off select the  **three dots icon ⋮** then select or de-select **Show companion info**<br /><br />
 {{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
 
@@ -32,6 +32,6 @@ If you added a note or an event to a plant in your garden, a **notes and events 
 {{< screenshot Notes-indicators.jpg "Screenshot of a garden with notes indicators on plants" >}}<br /><br />
 {{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
 
-To toggle notes and events indicators on or off select the  **three dots icon ⋮** then select **Show notes**<br /><br />
+To toggle notes and events indicators on or off select the  **three dots icon ⋮** then select or de-select **Show notes**<br /><br />
 {{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />

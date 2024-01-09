@@ -17,7 +17,7 @@ url: "plants/remove-plants"
 
 ### Delete multiple plants
 
-1. 1. Optional: if you want to keep your plant notes when you replace plants, select the **three dots icon ⋮** then toggle off **Remove notes**<br /><br />
+1. Optional: if you want to keep your plant notes when you replace plants, select the **three dots icon ⋮** then toggle off **Remove notes**<br /><br />
 {{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
 

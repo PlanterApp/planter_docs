@@ -19,6 +19,6 @@ Learn how to find plants in Planter!
 {{< screenshot Search-carrots.jpg "Screenshot of a plant search for carrots" >}}
 {{< alert icon="🌶️" context="warning" text="Filters also apply to search results. Select **Show All** to see all search results." />}}
 
-3. Select the plant to see detailed plant care information:<br /><br />
+3. Select the plant to see detailed plant care information<br /><br />
 {{< screenshot Carrots-info.jpg "Screenshot of How to Grow information for carrots" >}}
 {{< alert icon="🥕" context="info" text="Can't find the plant you are looking for? [**Submit (or upvote!) a plant request**](https://planter.garden/requests) or [**create a custom plant**](../create-plants)"  />}}

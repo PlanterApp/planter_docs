@@ -6,9 +6,9 @@ weight: 501
 url: "notes-and-events/how-to"
 ---
 
-Notes and Events can be added to a garden or to specific plants.
-- Use **notes** to record details about your plants and your observations in the garden.<br /><br />
-- Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more!
+Notes and Events can be added to a garden or to specific plants
+- Use **notes** to record details about your plants and your observations in the garden
+- Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more
 
 {{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
 

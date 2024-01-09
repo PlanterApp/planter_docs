@@ -34,12 +34,12 @@ Use the **Growing Calendar** in Planter to see which plants you can start inside
 
 - The solid black line indicates the current date
 - The blue areas show the time from your first frost date in fall to your last frost date in spring
-- The white area shows the time from your last frost date in spring to your first frost date in fall (the 'growing season')
+- The white area shows the time from your last frost date in spring to your first frost date in fall (your 'growing season')
 - The pink, yellow, and purple bars indicate when you can start seeds indoors, transplant plants outdoors, and sow seeds outdoors
   - If the plant is typically grown by planting seeds directly outdoors, only the **Start Outside** dates will show
   - If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Inside** and **Transplant** dates will show
   - Darker shaded areas indicate the typical timing for sowing seeds and transplanting
-  - Lighter shaded areas indicate times you may be able to sow seeds or transplant but the plants might need protection from the weather
+  - Lighter shaded areas indicate times you may be able to sow seeds or transplant but the plants might need protection from unfavorable weather
   <br /><br />
   {{< screenshot Tomatoes-calendar.jpg "Screenshot of the growing calendar for tomatoes" >}}
 
