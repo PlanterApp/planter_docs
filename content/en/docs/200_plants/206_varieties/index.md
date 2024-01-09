@@ -48,7 +48,7 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 {{< screenshot Beefsteak-tomato.jpg "Screenshot of a beefsteak tomato in a garden plan" >}}<br /><br />
 
 #### Check varieties in the garden
-1. In the garden, select **three dots icon ⋮** then select **Show variety names** to see abbreviated variety names in your garden plan
+1. In the garden, select **three dots icon ⋮** then select **Show variety names** to see abbreviated variety names in your garden plan<br /><br />
 {{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
 

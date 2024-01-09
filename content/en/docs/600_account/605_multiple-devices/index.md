@@ -12,7 +12,6 @@ To use your Planter account on more than one device, start by verifying whether 
 1. Select **More** from the menu bar then select **Settings**<br /><br />
 {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
-{{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 3. Validate that you are logged in to Planter with the correct email address; if not, select **Login**<br /><br />
 {{< screenshot Settings-login.jpg "Screenshot of the login option in settings" >}}<br /><br />
 4. Enter the email address and password for your Planter account, then select **Sign in** (or, login using your Google or Facebook account)

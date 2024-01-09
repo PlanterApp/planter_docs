@@ -9,7 +9,7 @@ url: "plant-information/custom-varieties"
 1. Select a plant, then select **Varieties**<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-2. Select the green **+** button<br /><br />
+2. Select the **green +** button<br /><br />
 {{< screenshot Add-variety-button.jpg "Screenshot of the button to add a new variety" >}}<br /><br />
 
 3. Enter the variety **Name**<br /><br />
@@ -31,5 +31,4 @@ url: "plant-information/custom-varieties"
 {{< alert icon="🍅" context="info" text="The variety image appears on the **Varieties** tab and in the **Selected Variety** section (when the variety is used in the garden)" />}}
 
 7. Select **Save**<br /><br />
-{{< screenshot Variety-save.jpg "Screenshot of the button to save a newly created variety" >}}<br /><br />
-{{< screenshot New-variety.jpg "Screenshot of a newly created tomato variety" >}}
+{{< screenshot Variety-save.jpg "Screenshot of the button to save a newly created variety" >}}

@@ -6,7 +6,7 @@ weight: 111
 url: "garden/summary"
 ---
 
-1. In a garden, select the **three dots ⋮** icon then select **Garden summary**<br /><br />
+1. In a garden, select the **three dots ⋮** icon then select **Garden summary** <br /><br />
 {{< screenshot Garden-list-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 {{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
 2. The garden summary provides an overview of your garden plan including

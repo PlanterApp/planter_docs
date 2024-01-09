@@ -17,10 +17,9 @@ url: "plant-information/customize-varieties"
 {{< screenshot Variety-spacing-icon.jpg "Screenshot of the pencil icon to edit variety spacing" >}}<br /><br />
 
 4. Drag the slider to increase or decrease the per-square-foot spacing for that variety, then select **Okay**<br /><br />
-{{< screenshot Adjust-variety-spacing.jpg "Screenshot of slider to adjust variety spacing and Okay button" >}}<br /><br />
-{{< screenshot Custom-variety-spacing.jpg "Screenshot of a variety with custom spacing" >}}
+{{< screenshot Adjust-variety-spacing.jpg "Screenshot of slider to adjust variety spacing and Okay button" >}}
 
-{{< alert icon="️🍅" context="info" text="Customized variety spacing will override **plant spacing** when you use that variety" />}}
+{{< alert icon="️🍅" context="info" text="Variety spacing will override **plant spacing** when you use that variety in the garden" />}}
 
 #### Edit a custom variety
 {{< alert icon="️🥕" context="info" text="You can edit information for custom varieties, but not public varieties. Only spacing can be customized for public varieties." />}}

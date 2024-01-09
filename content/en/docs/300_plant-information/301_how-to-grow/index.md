@@ -80,10 +80,10 @@ Select the **relationship cards** to see detailed information about potential dr
 Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants affected, Identification, Damage, prevention, Physical controls, and Chemical controls.
 
 #### Diseases
-Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls
+Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls.
 
 #### Beneficial Critters
-Insects and animals that offer benefits to the plant. Select the cards to learn more about each of the beneficial critters including: Common species, Why they're helpful, Identification, and How to attract them <br /><br />
+Insects and animals that offer benefits to the plant. Select the cards to learn more about each of the beneficial critters including: Common species, Why they're helpful, Identification, and How to attract them. <br /><br />
 {{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests, Diseases, and Beneficial Critters" >}}
 
 #### Growing from Seed
