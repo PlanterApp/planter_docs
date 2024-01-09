@@ -11,6 +11,6 @@ url: "account/connect-accounts"
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Select **Manage**<br /><br />
 {{< screenshot Settings-manage.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />
-3. Select **Add email address** and follow the steps to set-up an email address and password login
+3. Select **Add email address** and follow the steps to set-up an email address and password login<br /><br />
 4. To view additional details about a sign-in method, such as the email address used, long press (hover on web) on the apple, google, facebook, or email icon<br /><br />
 {{< screenshot Account-details.jpg "Screenshot of the account details pop-up" >}}<br /><br />

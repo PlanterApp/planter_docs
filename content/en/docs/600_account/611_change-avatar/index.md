@@ -1,5 +1,5 @@
 ---
-title: "How do I change my Planter account avatar"
+title: "How do I change my Planter account avatar?"
 description: "Learn how to change your Planter account avatar"
 draft: false
 weight: 611

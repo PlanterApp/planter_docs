@@ -12,5 +12,6 @@ url: "account/change-email"
 2. Select **Manage**<br /><br />
 {{< screenshot Settings-manage.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />
 3. Select **Update email address**<br /><br />
+{{< screenshot Manage-menu.jpg "Screenshot of the Update email address option in Manage menu" >}}
 4. Enter a new email address then select **Update Email**<br /><br />
-{{< screenshot Manage-menu.jpg "Screenshot of the Delete account option in Manage menu" >}}
+{{< screenshot Email-update.jpg "Screenshot of the Update email address window" >}}
