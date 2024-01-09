@@ -62,7 +62,7 @@ Displays a list of recently used and favorite varieties. If there are no recentl
 Toggle the **grid icon** {{< mdi view-module-outline "Grid icon" >}} to the **list icon** {{< mdi view-list-outline "List icon" >}} (and vice-versa) to see less or more detail and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
 {{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}<br /><br />
 
-Select the **relationship cards** to see detailed information about potential benefits.<br /><br />
+Select the **relationship cards** to see detailed information about potential benefits<br /><br />
 {{< screenshot Companion-relationship.jpg "Screenshot of the carrot and onion companion relationship card" >}}<br /><br />
 
 #### Combative Plants
@@ -71,7 +71,7 @@ Select the **relationship cards** to see detailed information about potential be
 Toggle the **grid icon** {{< mdi view-module-outline "Grid icon" >}} to the **list icon** {{< mdi view-list-outline "List icon" >}} (and vice-versa) to see less or more detail and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
 {{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}<br /><br />
 
-Select the **relationship cards** to see detailed information about potential drawbacks.<br /><br />
+Select the **relationship cards** to see detailed information about potential drawbacks<br /><br />
 {{< screenshot Combative-relationship.jpg "Screenshot of the carrot and dill combative relationship card" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral" />}}
