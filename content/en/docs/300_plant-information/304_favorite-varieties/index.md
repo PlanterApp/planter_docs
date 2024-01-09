@@ -26,3 +26,7 @@ Mark varieties as favorites to make them easier to find!
 
 6. Add favorite varieties by selecting the **heart icon** {{< mdi heart-outline "Heart icon" >}}<br /><br />
 {{< screenshot Varieties-favorites.jpg "Screenshot of the heart icon and the default icon for varieties" >}}<br /><br />
+
+7. **Filter** {{< mdi filter "Filter icon" >}} for **Favorites** to see the varieties you have favorited<br /><br />
+{{< screenshot Varieties-search-bar.jpg "Screenshot of the varieties search bar" >}}<br /><br />
+{{< screenshot Filter-favorites.jpg "Screenshot of the variety filter with Favorites selected" >}}
