@@ -1,12 +1,12 @@
 ---
-title: "How do I find plants in Planter?"
+title: "How do I find plant information in Planter?"
 description: "How to find plants and plant care information in Planter"
 draft: false
 weight: 302
 url: "plant-information/find-plants"
 ---
 
-Learn how to find plants in Planter!
+Learn how to find plant information in Planter!
 {{< alert icon="🌿" context="info" text="See [**Does Planter have plant care information?**](../how-to-grow) to learn more about the plant care information available in Planter" />}}
 
 1. Select **Plants** from the menu bar<br /><br />
