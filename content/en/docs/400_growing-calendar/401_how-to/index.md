@@ -9,7 +9,7 @@ url: "growing-calendar/how-to-use"
 Use the **Growing Calendar** in Planter to see which plants you can start inside, transplant, or sow outside at any point in your local growing season.
 
 {{< alert icon="🌶️" context="warning" text="Be sure to [**set your frost dates**](../../getting-started/frost-dates) so the Growing Calendar will show accurate information for your area" />}}
-{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the **Growing Calendar** dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
+{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [Growing Veggies in Subtropical and Tropical climates](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
 
 #### Use the growing calendar
 1. Select **Calendar** from the menu bar<br /><br />

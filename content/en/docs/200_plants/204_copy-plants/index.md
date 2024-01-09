@@ -1,5 +1,5 @@
 ---
-title: "How do I copy plants my garden?"
+title: "How do I copy plants in my garden?"
 description: "Learn how to copy plants in your garden"
 draft: false
 weight: 204

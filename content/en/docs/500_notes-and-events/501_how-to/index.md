@@ -13,7 +13,7 @@ Notes and Events can be added to a garden or to specific plants
 {{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
 
 #### Garden notes and events
-1. In your garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
+1. In the garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
 {{< screenshot Notes-and-events-garden.jpg "Screenshot of the Notes and Events icon for the garden" >}}<br /><br />
 2. Select the green **+** button<br /><br />
 {{< screenshot Plus-sign-garden.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
@@ -44,7 +44,7 @@ Notes and Events can be added to a garden or to specific plants
 
 {{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
 
-3. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type, there is no quantity)
+3. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type there is no quantity)
 4. Enter additional details under **Note**, if desired
 5. Select the related **Date** and time
 6. Select **Save**<br /><br />
