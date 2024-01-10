@@ -1,6 +1,6 @@
 ---
-title: "Add Plants"
-description: "Add plants to your garden; create custom plants and plant varieties"
+title: "Add Plants and Varieties"
+description: "Add plants and varieties into your garden plan"
 weight: 200
 url: "plants"
 ---

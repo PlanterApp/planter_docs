@@ -8,26 +8,30 @@ url: "garden/indicators"
 Helpful garden indicators in Planter let you plan and manage your garden at a glance!
 
 #### Compatibility indicators
-Compatibility indicators are the green, red, and yellow circles (and quarter-circles) that sometimes appear between plants in your garden.
+Compatibility indicators are the green and red circles (and quarter-circles) that sometimes appear between plants in your garden.
 
 {{< screenshot Compatibility-indicators.jpg "Screenshot of a garden with green, red, and yellow compatibility indicators" >}} <br /><br />
-- **Green circles** between plants means they are companions and work well planted next to each other
-- **Red circles** between plants means they are combative and shouldn't be planted next to each other
-- **Yellow circles** mean that some varieties of the plants are companions while others are combative
+- **Green circles** between plants means they are companions and may benefit each other when planted together
+- **Red circles** between plants means they are combative and may compete or share pests and diseases
 - **No circle** between plants means they are neutral - neither companions nor combative
 {{< alert icon="🍅" context="info" text="Red circles have a darker inner circle to help color-blind gardeners identify them" />}}
-{{< alert icon="🥕" context="info" text="If you see a yellow circle, you may want to research whether the varieties you plan to plant side-by-side are compatible" />}}
+
+To toggle compatibility indicators on or off select the  **three dots icon ⋮** then select or de-select **Show companion info**<br /><br />
+{{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
+{{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />
 
 #### Plant spacing indicators
 Planter indicates how many plants should be planted per-square-foot by showing a number with an **X** and a white circle around it:<br /><br />
 {{< screenshot Spacing-indicators.jpg "Screenshot of a garden with plant spacing indicators" >}}<br /><br />
 - **4x** means 4 plants can be planted within one square foot of garden space
 - Plants that need a square foot of space or more per plant do not have a spacing indicator - the size of the plant icon in the garden shows how many square feet the plant needs
-{{< alert icon="🌱" context="info" text="If you change Planter to [**metric units**,](../../getting-started/set-units) plant spacings remain the same- Planter indicates how many plants can be planted in roughly 1/10m²" />}}
+{{< alert icon="🌱" context="info" text="If you change Planter to [**metric units**](../../getting-started/set-units) plant spacings remain the same. Planter indicates how many plants can be planted per square foot (roughly 30cm x 30cm)." />}}
 
 #### Notes and events indicators
 If you added a note or an event to a plant in your garden, a **notes and events indicator** {{< mdi note-multiple "The garden Notes and Events icon" >}} will appear on that plant:<br /><br />
-{{< screenshot Notes-indicators1.jpg "Screenshot of a garden with notes indicators on plants" >}}<br /><br />
+{{< screenshot Notes-indicators.jpg "Screenshot of a garden with notes indicators on plants" >}}<br /><br />
 {{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
-Notes and events for the entire garden can be viewed by selecting the **notes and events icon** {{< mdi note-multiple "The garden Notes and Events icon" >}} for the garden:<br /><br />
-{{< screenshot Garden-notes1.jpg "Screenshot of the garden Notes and Events icon in the Gardens view" >}}
+
+To toggle notes and events indicators on or off select the  **three dots icon ⋮** then select or de-select **Show notes**<br /><br />
+{{< screenshot Garden-three-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
+{{< screenshot Garden-menu.jpg "Screenshot of the thee dots dropdown menu" >}}<br /><br />

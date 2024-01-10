@@ -10,15 +10,15 @@ The following instructions apply whether you're in the app or on the web app. To
 
 {{< alert icon="🌶️" context="info" text="Deleting your account permanently deletes all your Planter data including your gardens" />}}
 
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. If you're logged in, select **Manage**. If you're not logged in, scroll to the bottom of the screen.<br /><br />
 {{< screenshot Settings-manage.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />
 {{< screenshot Not-logged-in.jpg "Screenshot of the Manage option in Settings" >}}<br /><br />
 3. Select **Delete account**<br /><br />
-{{< screenshot Delete-account1.jpg "Screenshot of the Delete account option in Manage Account" >}}<br /><br />
-4. Type "DELETE" and select **Delete Account** to confirm the deletion
+{{< screenshot Manage-menu.jpg "Screenshot of the Delete account option in Manage menu" >}}<br /><br />
+4. Type **delete** then select **Delete account** to confirm the deletion
+
 
 {{< screenshot Delete-confirm.jpg "Screenshot of the confirm account deletion window" >}}
-
-###

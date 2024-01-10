@@ -6,29 +6,29 @@ weight: 301
 url: "plant-information/how-to-grow"
 ---
 
-Planter has plant care information for many plants, and new plants are being added all the time! Check out the **How to Grow** tab for lots of handy info.
-{{< alert icon="🌿" context="info" text="See [**Where can I find plant care information?**](../find-plants) to learn where to find the **How to Grow** tab in Planter" />}}
-
-#### Description
-A brief overview of the plant and tips to grow it successfully.
+Planter has plant care information for many plants, and new plants are being added all the time!
+{{< alert icon="🌿" context="info" text="See [**How do I find plants in Planter?**](../find-plants) to learn where to find the plant care in Planter" />}}
 
 #### Category
-Which group the plant belongs to in Planter.<br /><br />
+Which group the plant belongs to in Planter.
+
+#### Description
+A brief overview of the plant and tips to grow it successfully.<br /><br />
 {{< screenshot Carrots-description.jpg "Screenshot of carrots description" >}}
 
 #### Quick Info
-General planting and care information. Many of the **Quick Info** cards display additional details when selected:<br /><br />
+General planting and care information. Many of the **quick info cards** display additional details when selected:<br /><br />
 {{< screenshot Carrots-quick-info.jpg "Screenshot of carrots Quick Info cards" >}}<br /><br />
 
-- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by tapping on this card
+- **Spacing:** how many plants fit within a square foot. The plant spacing per square foot can be customized by selecting this card.
 
-- **Depth:** how deep to plant the seeds. For plants that are not recommended to be grown from seed, the Depth card does not appear
+- **Depth:** how deep to plant the seeds (not transplants). For plants that aren't typically grown from seed, the Depth card does not appear.
 
 - **Sun:** whether the plant prefers a **Full Sun** location (6 or more hours of sunlight per day), a **Part Sun** location (4-6 hours of sunlight per day), a **Full-Part Sun** location (4 or more hours of sunlight per day) or a location in the **Shade** (less than 4 hours of sunlight per day)
 
-- **Water:** how much water the plant needs in total per week. Some of this may come from rainfall, the rest should come from watering. If the plant does not typically need watering once it matures, the Water card will not appear
+- **Water:** how much water the plant needs in total per week. This can come from rainfall or supplemental watering. If the plant doesn't typically need watering once it matures, the **Water** card won't appear.
 
-- **Season:** whether the plant is a **Warm** season crop that grows best when daytime temperatures are above 70°F (21°C), a **Cool** season crop that stops producing when daytime temperatures reach 80°F (27°C), or a **Perennial** that comes back on its own each year, so long as it is hardy enough to withstand local winter conditions
+- **Season:** whether the plant is a **Warm** season crop that grows best when daytime temperatures are above 70°F (21°C), a **Cool** season crop that stops producing when daytime temperatures reach 80°F (27°C), or a **Perennial** that comes back each year, so long as it's hardy enough to withstand the local winter conditions
 
 - **Frost:** whether the plant is **Tolerant** of hard frosts with air temperatures are below 28°F (-2°C), **Semi-Tolerant** of light frosts with air temperatures are between 28°F and 32°F (-2°C and 0°C), or **Not Tolerant** of frost where any frost might kill the plant
 
@@ -39,42 +39,54 @@ General planting and care information. Many of the **Quick Info** cards display 
 {{< alert icon="🍅" context="info" text="Tomatoes don't have Sprout to Harvest days noted, because it varies significantly depending on the variety!" />}}
 
 #### Growing Calendar
-Shows when to **Start Indoors** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outdoors** (plant seeds directly outdoors), based on your frost date settings
+Shows when to **Start Inside** (start growing seeds indoors), when to **Transplant** (plant already-growing plants outdoors), and when to **Start Outside** (plant seeds directly outdoors), based on your [**frost date settings**](../../getting-started/frost-dates)
 
-{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. Plant cool season crops in your cooler season and plant heat-loving crops in your warmer season." />}}
+{{< alert icon="🌴" context="info" text="If you don't have frost or freezing temperatures in your area, ignore the Growing Calendar dates. See our post [**Growing Veggies in Subtropical and Tropical climates**](https://blog.planter.garden/posts/growing-veggies-in-subtropical-and-tropical-climates/) to learn about growing in warmer areas of the world!" />}}
 
-- If the plant is typically grown by planting seeds directly outdoors, only the **Start Outdoors** dates will show
+- If the plant is typically grown by planting seeds directly outdoors, only the **Start Inside** dates will show
 
-- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Indoors** and **Transplant** dates will show. <br /><br />
+- If the plant is typically grown by starting seeds indoors then transplanting outside, only the **Start Inside** and **Transplant** dates will show. <br /><br />
 {{< screenshot Carrots-growing-calendar.jpg "Screenshot of carrots Growing Calendar" >}}
 
 {{< alert icon="❄️" context="warning" text="Pay attention to the weather forecast before planting outdoors to make sure there is no extreme weather coming that could harm your plants!" />}}
 
+{{< alert icon="🍓" context="info" text="For more information on how to interpret the growing calendar, see [**Interpret the growing calendar**](../../growing-calendar/how-to-use/#interpret-the-growing-calendar)" />}}
+
+#### Varieties
+Displays a list of recently used and favorite varieties. If there are no recently used or favorite varieties, other common varieties will appear.
+- Select **View All Varieties** at the top to see the full list of varieties for the plant<br /><br />
+- Select **View All (#) Varieties** at the bottom to see a full list of recently used, favorite, and common varieties<br /><br />
+{{< screenshot Carrots-varieties.jpg "Screenshot of the carrot varieties list" >}}<br /><br />
+
 #### Companion Plants
-**Companion plants** are plants that complement each other when planted side-by-side
+**Companion plants** may offer benefits such as repelling pests and attracting beneficial insects when planted together
 
-- Companion plants will not compete intensely for the same resources and do not suffer from the same diseases and pests
+Toggle the **grid icon** {{< mdi view-module-outline "Grid icon" >}} to the **list icon** {{< mdi view-list-outline "List icon" >}} (and vice-versa) to see less or more detail and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
+{{< screenshot Companion-plants.jpg "Screenshot of carrots Companion Plants collapsed list" >}}<br /><br />
 
-- Companion plants can offer added benefits such as repelling pests and attracting beneficial insects
-
-Select the companion plant cards to learn more about each companion plant.
+Select the **relationship cards** to see detailed information about potential benefits<br /><br />
+{{< screenshot Companion-relationship.jpg "Screenshot of the carrot and onion companion relationship card" >}}<br /><br />
 
 #### Combative Plants
-**Combative plants** should not be planted side-by-side, as they can compete intensely for the same resources, or suffer from the same diseases and pests.
+**Combative plants** may compete intensely for the same resources or suffer from the same diseases and pests if planted together
 
-Select the combative plant cards to learn more about each combative plant.<br /><br />
-{{< screenshot Carrots-companions.jpg "Screenshot of carrots Companion Plants and Combative Plants" >}}
+Toggle the **grid icon** {{< mdi view-module-outline "Grid icon" >}} to the **list icon** {{< mdi view-list-outline "List icon" >}} (and vice-versa) to see less or more detail and select the **down arrow** {{< mdi chevron-down "Down arrow" >}}to expand the list of relationships<br /><br />
+{{< screenshot Combative-plants.jpg "Screenshot of carrots Combative Plants collapsed list" >}}<br /><br />
+
+Select the **relationship cards** to see detailed information about potential drawbacks<br /><br />
+{{< screenshot Combative-relationship.jpg "Screenshot of the carrot and dill combative relationship card" >}}
 
 {{< alert icon="🌱" context="info" text="Plants that are neither companions nor combative are neutral" />}}
 
-{{< alert icon="🌿" context="info" text="Some plants can be companions and combative, depending on the variety. An example of this is pole beans and bush beans. For these plants, Planter recommends all potential companions and warns of all potentially combative plants. These plants have a yellow compatibility indicator in the garden." />}}
-
 #### Pests
-Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls.
+Pests that the plant tends to suffer from. Select the cards to learn more about each of the pests including: Plants affected, Identification, Damage, prevention, Physical controls, and Chemical controls.
 
 #### Diseases
-Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants Affected, Identification, Damage, Prevention, Physical Controls, and Chemical Controls<br /><br />
-{{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests and Diseases" >}}
+Diseases that the plant tends to suffer from. Select the cards to learn more about each of the diseases including: Plants affected, Identification, Damage, Prevention, Physical controls, and Chemical controls.
+
+#### Beneficial Critters
+Insects and animals that offer benefits to the plant. Select the cards to learn more about each of the beneficial critters including: Common species, Why they're helpful, Identification, and How to attract them. <br /><br />
+{{< screenshot Carrots-pests.jpg "Screenshot of carrot Pests, Diseases, and Beneficial Critters" >}}
 
 #### Growing from Seed
 Notes whether gardeners typically grow the plant from seeds, and if so how to plant the seeds.
@@ -90,4 +102,8 @@ How to tell when the plant is ready to harvest and harvesting techniques.
 
 #### Storage
 Tips for storing and preserving the harvest.<br /><br />
-{{< screenshot Carrots-storage.jpg "Screenshot of carrots Storage information" >}}
+{{< screenshot Carrots-harvest.jpg "Screenshot of Growing, Planting, Feeding, and Harvest information for carrots" >}}
+
+#### Related Articles
+Links to Growing Guide articles related to the selected plant<br /><br />
+{{< screenshot Carrots-articles.jpg "Screenshot Growing Guide articles related to carrots" >}}

@@ -6,7 +6,8 @@ weight: 602
 url: "account/password"
 ---
 
-1. Select **Settings** from the menu bar<br /><br />
+1. Select **More** from the menu bar then select **Settings**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Select **Login** (or if you're already logged in, select **Manage** then **Logout** then **Login**)<br /><br />
 *Not logged in*:<br /><br />
