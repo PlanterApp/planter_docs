@@ -24,11 +24,11 @@ twitterCreator = "@planterapp"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Percula"
+schemaName = "Planter"
 schemaAuthor = "Peter Keefe"
 schemaAuthorTwitter = "https://twitter.com/planterapp"
-schemaAuthorLinkedIn = "https://www.linkedin.com/company/percula-creative/"
-schemaAuthorGitHub = "https://github.com/percula"
+schemaAuthorLinkedIn = "https://www.linkedin.com/company/planterapp/"
+schemaAuthorGitHub = "https://github.com/planterapp"
 schemaLocale = "en-US"
 schemaLogo = "icon.png"
 schemaLogoWidth = 512
@@ -38,14 +38,14 @@ schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/planterapp"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/percula"
+schemaGitHub = "https://github.com/planterapp"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#43a047"
 
 # Images
 quality = 85
@@ -70,7 +70,7 @@ fillImage = "1270x740 Center" # normalize image size
 footer = ""
 
 # Feed
-copyRight = "Percula LLC"
+copyRight = "Planter LLC"
 
 # Alert
 alert = false
@@ -82,7 +82,7 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/percula/planter_docs"
+docsRepo = "https://github.com/PlanterApp/planter_docs"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
@@ -101,14 +101,14 @@ lastMod = false
   nextPrevNavigation = false
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   multilingualMode = false
   docsVersioning = false
   fullWidth = false
   navbarSticky = true
-  toTopButton = false
+  toTopButton = true
   scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
 
 [menu]
