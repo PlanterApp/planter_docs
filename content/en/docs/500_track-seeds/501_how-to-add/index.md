@@ -6,6 +6,10 @@ weight: 501
 url: "track-seeds/how-to-add"
 ---
 
+There are 3 ways you can add seed packets:
+- [Import Favorites](#import-favorites)
+- [From the Seed Box](#from-the-seed-box)
+- [From the Varieties View](#from-the-varieties-view)
 
 #### Import Favorites
 1. Select **More** from the menu bar then select **Seed Box**<br /><br />
