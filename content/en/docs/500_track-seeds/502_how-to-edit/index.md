@@ -6,8 +6,8 @@ weight: 502
 url: "track-seeds/how-to-edit"
 ---
 
-1. From the **Seed Box**, select a packet of seeds you want to edit
-2. Select **Open Here**
-3. Edit the information as needed then select **Save**
-
-**add seed packet** icon{{< screenshot Add-packet-icon.jpg "Screenshot of the add seed packet icon" >}}
+1. From the **Seed Box**, select the packet of seeds you want to edit
+2. Select **Open Here**<br /><br />
+{{< screenshot Seed-packet.jpg "Screenshot of the seed packet view with the Open Here button" >}}<br /><br />
+3. Edit the information as needed then select **Save**<br /><br />
+{{< screenshot Edit-packet.jpg "Screenshot of the seed packet editing view" >}}
