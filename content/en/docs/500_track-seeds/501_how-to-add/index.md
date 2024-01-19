@@ -8,8 +8,8 @@ url: "track-seeds/how-to-add"
 
 There are 3 ways you can add seed packets:
 - [Import Favorites](#import-favorites)
-- [From the Seed Box](#from-the-seed-box)
 - [From the Varieties View](#from-the-varieties-view)
+- [From the Seed Box](#from-the-seed-box)
 
 #### Import Favorites
 1. Select **More** from the menu bar then select **Seed Box**<br /><br />
@@ -26,6 +26,22 @@ There are 3 ways you can add seed packets:
 - Add any notes
 5. Select **Save** then repeat steps 4-5 for each seed packet<br /><br />
 {{< screenshot Packet-info.jpg "Screenshot of the editable seed packet information box" >}}<br /><br />
+
+#### From the Varieties view
+1. Select a plant, then select **Varieties**<br /><br />
+   {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
+2. Search to find the variety
+3. Select the **add seed packet icon** {{< screenshot Add-packet-icon.jpg "Screenshot of the add seed packet icon" >}}<br /><br />
+   {{< screenshot Varieties-tab-search.jpg "Screenshot of the Varieties tab search bar with grape added" >}}
+   {{< alert icon="️🍅" context="info" text="The seed packet icon will appear green if that variety is already in your seed box. To add more than one packet of the same variety add it [**From the Seed Box**.](../../track-seeds/how-to-add/#from-the-seed-box)" />}}
+4. Complete the information for the seed packet
+- Select the year the seeds were purchased or saved
+- Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
+- Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
+- Add any notes
+7. Select **Save**<br /><br />
+   {{< screenshot Packet-info3.jpg "Screenshot of the editable seed packet information box" >}}
+
 
 #### From the Seed Box
 1. Select the **green +** button<br /><br />
@@ -48,17 +64,3 @@ There are 3 ways you can add seed packets:
 7. Select **Save**<br /><br />
 {{< screenshot Packet-info2.jpg "Screenshot of the editable seed packet information box" >}}
 
-#### From the Varieties view
-1. Select a plant, then select **Varieties**<br /><br />
-{{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
-2. Search to find the variety
-3. Select the **add seed packet icon** {{< screenshot Add-packet-icon.jpg "Screenshot of the add seed packet icon" >}}<br /><br />
-{{< screenshot Varieties-tab-search.jpg "Screenshot of the Varieties tab search bar with grape added" >}}
-{{< alert icon="️🍅" context="info" text="The seed packet icon will appear green if that variety is already in your seed box. To add more than one packet of the same variety add it [**From the Seed Box**.](../../track-seeds/how-to-add/#from-the-seed-box)" />}}
-4. Complete the information for the seed packet
-- Select the year the seeds were purchased or saved
-- Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
-- Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
-- Add any notes
-7. Select **Save**<br /><br />
-{{< screenshot Packet-info3.jpg "Screenshot of the editable seed packet information box" >}}
