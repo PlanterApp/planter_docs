@@ -51,7 +51,7 @@ url: "track-seeds/how-to-add"
 2. Search to find the variety
 3. Select the **add seed packet** icon{{< screenshot Add-packet-icon.jpg "Screenshot of the add seed packet icon" >}}<br /><br />
 {{< screenshot Varieties-tab-search.jpg "Screenshot of the Varieties tab search bar with grape added" >}}
-{{< alert icon="️🍅" context="info" text="The seed packet icon will appear green if that variety is already in your seed box. To add more than one packet of the same variety add it [**From the Seed Box**.](/.../.../.../#From-the-seed-box)" />}}
+{{< alert icon="️🍅" context="info" text="The seed packet icon will appear green if that variety is already in your seed box. To add more than one packet of the same variety add it [**From the Seed Box**.](../../../#From-the-seed-box)" />}}
 4. Complete the information for the seed packet
 - Select the year the seeds were purchased or saved
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
