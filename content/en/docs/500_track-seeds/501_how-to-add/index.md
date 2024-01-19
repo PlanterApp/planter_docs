@@ -13,7 +13,7 @@ url: "track-seeds/how-to-add"
 {{< screenshot Menu-bar-seedbox.jpg "Screenshot of the Seed Box menu option" >}}<br /><br />
 2. Select **Import Favorites** {{< mdi heart-plus "Import favorites icon" >}}<br /><br />
 {{< screenshot Import-favorites.jpg "Screenshot of the Import Favorites button" >}}<br /><br />
-3. Select the **checkbox** beside the varieties you want to add to your Seed Box then select the **check mark**<br /><br />
+3. Select the **checkbox** beside the varieties you want to add to your **Seed Box** then select the **check mark** (in the header)<br /><br />
 {{< screenshot Selected-varieties.jpg "Screenshot of the varieties selected for import" >}}<br /><br />
 {{< screenshot Import-checkmark.jpg "Screenshot of the checkmark button to import varieties" >}}<br /><br />
 4. Complete the information for the seed packet
@@ -23,7 +23,6 @@ url: "track-seeds/how-to-add"
 - Add any notes
 5. Select **Save** then repeat steps 4-5 for each seed packet<br /><br />
 {{< screenshot Packet-info.jpg "Screenshot of the editable seed packet information box" >}}<br /><br />
-
 
 #### From the Seed Box
 1. Select the **green +** button<br /><br />
@@ -36,16 +35,15 @@ url: "track-seeds/how-to-add"
 4. Optionally, select the **pencil icon** {{< mdi pencil "Pencil icon" >}} beside **Select variety** then search to find the variety<br /><br />
 {{< screenshot Add-packet2.jpg "Screenshot of the Add Seed Packet screen with a plant already selected" >}}<br /><br />
 {{< screenshot Variety-search.jpg "Screenshot of the variety search bar with cucamelon entered" >}}<br /><br />
-5. Select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}} beside the variety then select the **check mark**<br /><br />
+5. Select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}} beside the variety then select the **check mark** (in the header)<br /><br />
 {{< screenshot Variety-selected.jpg "Screenshot of cucamelons as the selected variety" >}}<br /><br />
 6. Complete the information for the seed packet
 - Select the year the seeds were purchased or saved
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
 - Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
-- Add any notes<br /><br />
-7. Select **Save**
-{{< screenshot Packet-info2.jpg "Screenshot of the editable seed packet information box" >}}<br /><br />
-
+- Add any notes
+7. Select **Save**<br /><br />
+{{< screenshot Packet-info2.jpg "Screenshot of the editable seed packet information box" >}}
 
 #### From the Varieties view
 1. Select a plant, then select **Varieties**<br /><br />
