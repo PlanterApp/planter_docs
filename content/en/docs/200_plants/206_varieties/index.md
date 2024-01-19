@@ -65,5 +65,5 @@ Use **varieties** in Planter to keep track of the different plant varieties in y
 2. Select **Varieties**<br /><br />
 {{< screenshot Varieties-tab.jpg "Screenshot of the Varieties tab for tomatoes" >}}<br /><br />
 
-3. Find the variety you want to use, then select the **circle icon** to switch varieties {{< mdi checkbox-blank-circle-outline "Circle icon" >}}<br /><br />
+3. Find the variety you want to use, then select the **circle icon** {{< mdi checkbox-blank-circle-outline "Circle icon" >}} to switch varieties<br /><br />
 {{< screenshot Selected-variety.jpg "Screenshot showing Roma tomatoes as the selected variety" >}}
