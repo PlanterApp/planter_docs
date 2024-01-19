@@ -15,7 +15,7 @@ Notes and Events can be added to a garden or to specific plants
 #### Garden notes and events
 1. In the garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
 {{< screenshot Notes-and-events-garden.jpg "Screenshot of the Notes and Events icon for the garden" >}}<br /><br />
-2. Select the green **+** button<br /><br />
+2. Select the **green +** button<br /><br />
 {{< screenshot Plus-sign-garden.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
 3. Select an **Event Type** from the dropdown
 
