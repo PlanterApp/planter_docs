@@ -1,6 +1,6 @@
 ---
-title: "Use Notes and Events"
-description: "How to use the Notes and Events Premium features"
+title: "Track Your Seeds"
+description: "How to use the Seed Box feature to track your seeds"
 weight: 500
-url: "notes-and-events"
+url: "track-seeds"
 ---
