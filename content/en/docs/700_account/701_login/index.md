@@ -18,4 +18,4 @@ url: "account/login"
 
 #### "This sign-in method is not available on your device"
 
-Some sign-in methods are currently unavailable on certain devices (such as Google on MacOS). In these situations, add an email/password login to your account on a different device. Then login using that email/password on your new device.
+Some sign-in methods are currently unavailable on certain devices (such as Apple on Android). In these situations, [add an email/password login](/account/connect-accounts) to your account on a different device. Then login using that email/password on your new device.
