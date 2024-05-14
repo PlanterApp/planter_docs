@@ -6,6 +6,8 @@ weight: 2
 url: "getting-started/download"
 ---
 
+{{< screenshot android_apple.webp "Planter plays nice on all your devices!">}}
+
 Download the Planter app from:
 
 - **[Apple App Store](https://apps.apple.com/us/app/planter-garden-planner/id1542642210)** for Apple devices (iPhone, iPad, and Mac).
