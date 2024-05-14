@@ -36,7 +36,7 @@
 
 {{ $showFlexSearch := .Site.Params.options.flexSearch }}
 
-{{ if $showFlexSearch -}}
+{{ if (and $showFlexSearch false) -}}
   {{ $flexSearch := resources.Get "js/vendor/flexsearch/dist/flexsearch.bundle.js" -}}
   {{ $slice = $slice | append $flexSearch -}}
   {{ if and (isset .Site.Params.options "searchsectionsshow") (not (eq .Site.Params.options.searchSectionsShow "ALL")) -}}
