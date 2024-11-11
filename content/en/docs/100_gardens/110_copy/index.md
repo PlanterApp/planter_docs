@@ -6,7 +6,7 @@ weight: 110
 url: "garden/copy"
 ---
 
-1. From the Gardens list, select the **three dots icon ⋮** beside the garden you want to delete<br /><br />
+1. From the Gardens list, select the **three dots icon ⋮** beside the garden you want to copy<br /><br />
 {{< screenshot Garden-list-dot.jpg "Screenshot of the three dots icon" >}}<br /><br />
 2. Select **Copy** from the drop-down menu<br /><br />
 {{< screenshot Garden-dropdown.jpg "Screenshot of the copy option in the drop-down menu" >}}<br /><br />
