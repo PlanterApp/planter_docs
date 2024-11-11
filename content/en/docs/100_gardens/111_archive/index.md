@@ -13,7 +13,7 @@ url: "garden/archive"
 {{< screenshot Garden-dropdown.jpg "Screenshot of the archive option in the drop-down menu" >}}<br /><br />
 
 #### Unarchive a garden
-1. From the Gardens view, select the **filter icon** {{< mdi filter "Filter icon" >}}<br /><br />
+1. From the Gardens view, select the **filter icon** {{< mdi filter "Filter icon" >}} <br /><br />
 {{< screenshot Garden-filter.jpg "Screenshot of the garden filter icon" >}}<br /><br />
 2. Check **Show Archived**<br /><br />
 {{< screenshot Garden-show-archived.jpg "Screenshot of the Show Archived checkbox" >}}<br /><br />
