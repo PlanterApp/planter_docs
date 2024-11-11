@@ -2,7 +2,7 @@
 title: "How do I delete a garden?"
 description: "Learn how to delete a garden"
 draft: false
-weight: 110
+weight: 112
 url: "garden/delete"
 ---
 
@@ -11,4 +11,4 @@ url: "garden/delete"
 2. Select **Delete** from the drop-down menu<br /><br />
 {{< screenshot Garden-dropdown.jpg "Screenshot of the delete option in the drop-down menu" >}}<br /><br />
 3. Select **Delete** in the pop-up window to confirm the deletion<br /><br />
-{{< screenshot Delete-confirm.jpg "Screenshot of delete confirmation window" >}}<br /><br />
+{{< screenshot Delete-confirm.jpg "Screenshot of delete confirmation window" >}}
