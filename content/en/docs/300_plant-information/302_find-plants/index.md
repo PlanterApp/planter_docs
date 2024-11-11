@@ -12,7 +12,7 @@ Learn how to find plant information in Planter!
 1. Select **Plants** from the menu bar<br /><br />
 {{< screenshot Menu-plants.jpg "Screenshot of Planter menu with Plants selected" >}}<br /><br />
 
-2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
+2. **Sort** {{< mdi sort "Sort icon" >}} and **filter** {{< mdi filter "Filter icon" >}} to organize and narrow down the list of plants, and use search to find a specific plant<br /><br />
 {{< screenshot Plants-search-bar.jpg "Screenshot of the plant search bar" >}}<br /><br />
 {{< screenshot Plants-sort.jpg "Screenshot of plant sorting options" >}}<br /><br />
 {{< screenshot Plants-filter.jpg "Screenshot of plant filter options" >}}<br /><br />
