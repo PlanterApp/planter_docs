@@ -2,7 +2,7 @@
 title: "How do I delete a garden?"
 description: "Learn how to delete a garden"
 draft: false
-weight: 110
+weight: 112
 url: "garden/delete"
 ---
 

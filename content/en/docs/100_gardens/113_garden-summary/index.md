@@ -2,7 +2,7 @@
 title: "What is the garden summary?"
 description: "Learn about the garden summary view and where to find it"
 draft: false
-weight: 111
+weight: 113
 url: "garden/summary"
 ---
 
