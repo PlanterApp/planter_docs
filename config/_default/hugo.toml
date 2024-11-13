@@ -1,74 +1,55 @@
-title = "Planter Docs"
-baseurl = "https://info.planter.garden/"
+title = "My Docs"
+baseurl = "http://localhost/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
+# disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 enableRobotsTXT = true
-paginate = 10
+languageCode = "en-US"
+pagerSize = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
 
 # Multilingual
-languageCode = "en-US"
 defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2024 Planter LLC"
+copyRight = "Copyright (c) 2020-2024 Thulite"
 
 [build.buildStats]
-enable = true
+  enable = true
 
-# add redirects/headers
 [outputs]
-home = ["HTML", "RSS", "searchIndex", "REDIRECTS", "HEADERS"]
-section = ["HTML", "RSS", "SITEMAP"]
-
-# remove .{ext} from text/netlify
-[mediaTypes."text/netlify"]
-suffixes = [""]
-delimiter = ""
-
-# add output format for netlify _redirects
-[outputFormats.REDIRECTS]
-mediaType = "text/netlify"
-baseName = "_redirects"
-isPlainText = true
-notAlternative = true
-
-# add output format for netlify _headers
-[outputFormats.HEADERS]
-mediaType = "text/netlify"
-baseName = "_headers"
-isPlainText = true
-notAlternative = true
+  home = ["HTML", "RSS", "searchIndex"]
+  section = ["HTML", "RSS", "SITEMAP"]
 
 [outputFormats.searchIndex]
-mediaType = "application/json"
-baseName = "search-index"
-isPlainText = true
-notAlternative = true
+  mediaType = "application/json"
+  baseName = "search-index"
+  isPlainText = true
+  notAlternative = true
 
-# add output format for section sitemap.xml
+# Add output format for section sitemap.xml
 [outputFormats.SITEMAP]
-mediaType = "application/xml"
-baseName = "sitemap"
-isHTML = false
-isPlainText = true
-noUgly = true
-rel  = "sitemap"
+  mediaType = "application/xml"
+  baseName = "sitemap"
+  isHTML = false
+  isPlainText = true
+  noUgly = true
+  rel  = "sitemap"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [caches]
   [caches.getjson]
     dir = ":cacheDir/:project"
-    maxAge = "10s"
-
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
+    maxAge = -1 # "30m"
 
 [taxonomies]
   contributor = "contributors"
@@ -76,9 +57,9 @@ rel  = "sitemap"
   tag = "tags"
 
 [permalinks]
-  blog = "/blog/:title/"
+  blog = "/blog/:slug/"
   docs = "/docs/:sections[1:]/:slug/"
-# docs = "/docs/1.0/:sections[1:]/:title/"
+# docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]
   keepWhitespace = false
@@ -88,14 +69,14 @@ rel  = "sitemap"
   includeNewer = true
   toLower = false
     [[related.indices]]
-    name = "categories"
-    weight = 100
+      name = "categories"
+      weight = 100
     [[related.indices]]
-    name = "tags"
-    weight = 80
+      name = "tags"
+      weight = 80
     [[related.indices]]
-    name = "date"
-    weight = 10
+      name = "date"
+      weight = 10
 
 [imaging]
   anchor = "Center"

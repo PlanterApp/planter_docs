@@ -1,7 +1,0 @@
-<span class="mdi">
-    {{- $fname:=print "/node_modules/@mdi/svg/svg/" ( .Get 0 ) ".svg" -}}
-    {{- $description:= (.Get 1) | default (.Get 0) -}}
-    {{- $path:="<path" -}}
-    {{- $fill:=print "<title>" $description "</title><path fill=\"currentColor\"" -}}
-    {{ replace (readFile $fname) $path $fill | safeHTML }}
-</span>

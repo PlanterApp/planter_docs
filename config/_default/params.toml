@@ -1,124 +1,15 @@
-# Meta Data for SEO
+# Hugo
+title = "My Docs"
+description = "Congrats on setting up a new Doks project!"
+images = ["cover.png"]
 
-## Homepage
-title = "Planter"
-titleSeparator = "-"
-titleAddition = "Documentation"
-description = "Need help using Planter? You've come to the right place."
-logo = "<svg width=\"113\" height=\"22\" viewBox=\"0 0 59.8 11.64\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke-width=\".19\" aria-label=\"Planter\" fill=\"currentColor\"><path d=\"M29.04 12.97v6.106h-3.571V1.746h6.761q1.952 0 3.428.714 1.488.714 2.285 2.035.797 1.31.797 2.988 0 2.547-1.75 4.023-1.738 1.464-4.82 1.464zm0-2.892h3.19q1.416 0 2.154-.667.75-.666.75-1.904 0-1.274-.75-2.059-.75-.785-2.071-.809H29.04zM44.59 19.08h-3.452V.8h3.452zM54.89 19.08q-.238-.464-.345-1.155-1.25 1.393-3.25 1.393-1.892 0-3.141-1.095-1.238-1.095-1.238-2.761 0-2.047 1.512-3.142 1.524-1.095 4.392-1.107h1.583v-.738q0-.893-.464-1.428-.453-.536-1.44-.536-.87 0-1.37.417-.487.417-.487 1.143h-3.44q0-1.119.69-2.071.69-.952 1.952-1.488 1.262-.547 2.833-.547 2.381 0 3.773 1.202 1.405 1.19 1.405 3.357v5.582q.012 1.833.512 2.773v.202zm-2.845-2.392q.762 0 1.405-.333.643-.346.952-.917v-2.214h-1.286q-2.583 0-2.75 1.785l-.012.202q0 .643.453 1.06t1.238.416zM63.69 6.198l.107 1.488Q65.178 5.96 67.5 5.96q2.047 0 3.047 1.202t1.024 3.595v8.32h-3.44V10.84q0-1.095-.476-1.583-.476-.5-1.583-.5-1.452 0-2.178 1.238v9.082h-3.44V6.197zM78.31 3.031v3.166h2.202V8.72H78.31v6.428q0 .714.274 1.024.274.31 1.047.31.571 0 1.012-.084v2.607q-1.012.31-2.083.31-3.618 0-3.69-3.654V8.72h-1.881V6.2h1.88V3.033zM88.35 19.31q-2.833 0-4.618-1.738-1.774-1.738-1.774-4.63v-.333q0-1.94.75-3.464.75-1.535 2.119-2.357 1.38-.834 3.142-.834 2.642 0 4.154 1.667 1.524 1.665 1.524 4.724v1.405h-8.201q.166 1.262 1 2.023.845.762 2.13.762 1.989 0 3.108-1.44l1.69 1.893q-.774 1.095-2.095 1.714-1.321.607-2.928.607zm-.393-10.57q-1.024 0-1.666.69-.63.69-.81 1.976h4.786v-.273q-.024-1.143-.62-1.762-.594-.631-1.69-.631zM102.9 9.423q-.702-.095-1.238-.095-1.952 0-2.559 1.32v8.428h-3.44V6.196h3.249l.095 1.535q1.036-1.774 2.87-1.774.57 0 1.07.154z\" style=\"font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal\" transform=\"scale(.5789)\"/></g><g fill=\"currentColor\"><g fill-rule=\"evenodd\"><path d=\"M9.889 6.081s-3.779-.26-3.795 2.784c-.002.38.378.76.758.762 3.298.02 3.037-3.547 3.037-3.547zM.02 6.081s3.779-.26 3.795 2.784c.002.38-.378.76-.758.762C-.24 9.647.02 6.08.02 6.08zM4.961.006s-4.564 3.539-.513 6.96c.333.28.694.268 1.011 0 4.05-3.421-.497-6.96-.497-6.96z\"/></g><path d=\"M4.584 7.737h.76v3.924h-.76z\"/></g></svg>"
-logoUrl = "https://planter.garden"
+# mainSections
+mainSections = ["docs"]
 
-## Documentation
-# docsVersion = "0.3"
+[social]
+  twitter = "getdoks"
 
-## Open Graph
-images = ["planter.png"]
-ogLocale = "en_US"
-domainTLD = "info.planter.garden"
-titleHome = "Planter Documentation"
-
-## Twitter Cards
-twitterSite = "@planterapp"
-twitterCreator = "@planterapp"
-
-## JSON-LD
-# schemaType = "Person"
-schemaType = "Organization"
-schemaName = "Planter"
-schemaAuthor = "Peter Keefe"
-schemaAuthorTwitter = "https://twitter.com/planterapp"
-schemaAuthorLinkedIn = "https://www.linkedin.com/company/planterapp/"
-schemaAuthorGitHub = "https://github.com/planterapp"
-schemaLocale = "en-US"
-schemaLogo = "icon.png"
-schemaLogoWidth = 512
-schemaLogoHeight = 512
-schemaImage = "planter.png"
-schemaImageWidth = 1280
-schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/planterapp"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/planterapp"
-schemaSection = "blog"
-
-## Sitelinks Search Box
-siteLinksSearchBox = false
-
-## Chrome Browser
-themeColor = "#43a047"
-
-# Images
-quality = 85
-bgColor = "#fff"
-landscapePhotoWidths = [900, 800, 700, 600, 500]
-portraitPhotoWidths = [800, 700, 600, 500]
-lqipWidth = "20x"
-smallLimit = "300"
-
-# Images
-imageResponsive = true
-imageConvertTo = "webp"
-imageImageSizes = ["480","720","1080","1280","1600","2048"]
-singleSize = false
-imageAddClass = "img-fluid lazyload blur-up"
-
-### Image template
-defaultImage = "default-image.png" # put in `./assets/images/`
-fillImage = "1270x740 Center" # normalize image size
-
-# Footer
-footer = ""
-
-# Feed
-copyRight = "Planter LLC"
-
-# Alert
-alert = false
-alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
-
-# Edit Page
-# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
-repoHost = "GitHub"
-#repoHost = "Gitea"
-docsRepo = "https://github.com/PlanterApp/planter_docs"
-docsRepoBranch = "master"
-docsRepoSubPath = ""
-editPage = false
-lastMod = false
-
-[sections]
-  sectionNav = ["docs", "guides"]
-
-[options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
-  flexSearch = true
-  searchSectionsShow = []
-  searchSectionsIndex = []
-  nextPrevNavigation = false
-  darkMode = true
-  bootStrapJs = true
-  breadCrumb = true
-  highLight = true
-  kaTex = false
-  multilingualMode = false
-  docsVersioning = false
-  fullWidth = false
-  navbarSticky = true
-  toTopButton = true
-  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
-
-[menu]
-collapsibleSidebar = true
-
-[menu.section]
-auto = true
-collapsibleSidebar = true
-
-# Doks (@hyas/doks-core)
+# Doks (@thulite/doks-core)
 [doks]
   # Color mode
   colorMode = "auto" # auto (default), light or dark
@@ -209,22 +100,22 @@ collapsibleSidebar = true
   errorLevel = 'ignore' # ignore (default), warning, or error (fails the build)
   highlightBroken = false # true or false (default)
 
-# Images (@hyas/images)
-[hyas_images]
-  [hyas_images.defaults]
-  decoding = "async" # sync, async, or auto (default)
-  fetchpriority = "auto" # high, low, or auto (default)
-  loading = "lazy" # eager or lazy (default)
-  widths = [480, 576, 768, 1025, 1200, 1440] # [640, 768, 1024, 1366, 1600, 1920] for example
-  sizes = "auto" # 100vw (default), 75vw, or auto for example
-  process = "" # "fill 1600x900" or "fill 2100x900" for example
-  lqip = "16x webp q20" # "16x webp q20" or "21x webp q20" for example
+# Images (@thulite/images)
+[thulite_images]
+  [thulite_images.defaults]
+    decoding = "async" # sync, async, or auto (default)
+    fetchpriority = "auto" # high, low, or auto (default)
+    loading = "lazy" # eager or lazy (default)
+    widths = [480, 576, 768, 1025, 1200, 1440] # [640, 768, 1024, 1366, 1600, 1920] for example
+    sizes = "auto" # 100vw (default), 75vw, or auto for example
+    process = "" # "fill 1600x900" or "fill 2100x900" for example
+    lqip = "16x webp q20" # "16x webp q20" or "21x webp q20" for example
 
-# Inline SVG (@hyas/inline-svg)
+# Inline SVG (@thulite/inline-svg)
 [inline_svg]
   iconSetDir = "tabler-icons" # "tabler-icons" (default)
 
-# SEO (@hyas/seo)
+# SEO (@thulite/seo)
 [seo]
   [seo.title]
     separator = " | "
@@ -238,8 +129,8 @@ collapsibleSidebar = true
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
-    name = "Hyas" # Name of Organization or Person
-    sameAs = [] # E.g. ["https://github.com/gethyas/hyas", "https://fosstodon.org/@hyas"]
+    name = "Thulite" # Name of Organization or Person
+    sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
     images = ["cover.png"] # ["cover.png"] (default)
     article = [] # Article sections
     newsArticle = [] # NewsArticle sections
