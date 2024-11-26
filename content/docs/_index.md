@@ -1,6 +1,6 @@
 ---
 title: "All Docs"
-description: Planter how-to articles
+description: "Planter how-to articles"
 url: "docs"
 toc: true
 ---
