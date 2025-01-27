@@ -24,6 +24,7 @@ There are 3 ways you can add seed packets:
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
 - Start typing the name of the seed **Source** then select a source from the drop-down (or type the name of a custom source)
 - Add any notes
+{{< alert icon="️🥕" context="info" text="When you type in the name of a custom seed source it will appear in the dropdown for future seed packets." />}}
 5. Select **Save** then repeat steps 4-5 for each seed packet<br /><br />
 {{< screenshot Packet-info.jpg "Screenshot of the editable seed packet information box" >}}<br /><br />
 
@@ -37,7 +38,7 @@ There are 3 ways you can add seed packets:
 4. Complete the information for the seed packet
 - Select the year the seeds were purchased or saved
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
-- Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
+- Start typing the name of the seed **Source** then select a source from the dropdown (or type the name of a custom source)
 - Add any notes
 {{< alert icon="️🥕" context="info" text="When you type in the name of a custom seed source it will appear in the dropdown for future seed packets." />}}
 7. Select **Save**<br /><br />
@@ -60,7 +61,8 @@ There are 3 ways you can add seed packets:
 6. Complete the information for the seed packet
 - Select the year the seeds were purchased or saved
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
-- Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
+- Start typing the name of the seed **Source** then select a source from the dropdown (or type the name of a custom source)
 - Add any notes
+{{< alert icon="️🥕" context="info" text="When you type in the name of a custom seed source it will appear in the dropdown for future seed packets." />}}
 7. Select **Save**<br /><br />
 {{< screenshot Packet-info2.jpg "Screenshot of the editable seed packet information box" >}}
