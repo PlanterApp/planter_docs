@@ -3,8 +3,7 @@
   functions = "functions"
 
 [build.environment]
-  NODE_VERSION = "16.16.0"
-  NPM_VERSION = "8.11.0"
+  HUGO_VERSION = "0.126.1"
 
 [context.production]
   command = "npm run build"
@@ -25,12 +24,11 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://doks.netlify.app/"
+    baseUrl = "https://info.planter.garden/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
-      "google",
-      "yandex"
+      "google"
     ]
 
 [dev]
