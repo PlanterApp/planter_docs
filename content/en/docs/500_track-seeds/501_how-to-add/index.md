@@ -1,6 +1,6 @@
 ---
 title: "How do I add seed packets to my Seed Box?"
-description: "Learn how to add seed packets to your Seed Box"
+description: "Learn how to add seed packet and seed source information to the Seed Box"
 draft: false
 weight: 501
 url: "track-seeds/how-to-add"
@@ -22,7 +22,7 @@ There are 3 ways you can add seed packets:
 4. Complete the information for the seed packet
 - Select the year the seeds were purchased or saved
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
-- Start typing the name of the seed **Source** then select a source from the drop-down (or enter your own)
+- Start typing the name of the seed **Source** then select a source from the drop-down (or type the name of a custom source)
 - Add any notes
 5. Select **Save** then repeat steps 4-5 for each seed packet<br /><br />
 {{< screenshot Packet-info.jpg "Screenshot of the editable seed packet information box" >}}<br /><br />
