@@ -39,6 +39,7 @@ There are 3 ways you can add seed packets:
 - Select how full the seed packet is (estimate as **Full**, **Mostly Full**, **Nearly Empty** or **Empty**)
 - Start typing the name of the seed **Source** then select a source from the dropdown (or enter your own)
 - Add any notes
+{{< alert icon="️🥕" context="info" text="When you type in the name of a custom seed source it will appear in the dropdown for future seed packets." />}}
 7. Select **Save**<br /><br />
    {{< screenshot Packet-info3.jpg "Screenshot of the editable seed packet information box" >}}
 
@@ -63,4 +64,3 @@ There are 3 ways you can add seed packets:
 - Add any notes
 7. Select **Save**<br /><br />
 {{< screenshot Packet-info2.jpg "Screenshot of the editable seed packet information box" >}}
-
