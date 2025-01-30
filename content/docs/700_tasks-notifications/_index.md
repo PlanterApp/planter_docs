@@ -1,6 +1,6 @@
 ---
-title: "Use Notes and Events"
-description: "How to use the Notes and Events Premium features"
+title: "Use Tasks and Notifications"
+description: "How to use Tasks in Planter and set your notification preferences"
 weight: 700
 url: "notes-and-events"
 ---

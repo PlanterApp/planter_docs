@@ -6,51 +6,19 @@ weight: 702
 url: "tasks-notifications/add-tasks"
 ---
 
-Notes and Events can be added to a garden or to specific plants
-- Use **notes** to record details about your plants and your observations in the garden
-- Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more
+1. Select **More** from the menu bar then select **Tasks**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
+{{< screenshot Menu-bar-tasks.jpg "Screenshot of the Tasks menu option" >}}<br /><br />
 
-{{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
+2. Select **Plant Tasks**<br /><br />
+{{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-#### Garden notes and events
-1. In the garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
-{{< screenshot Notes-and-events-garden.jpg "Screenshot of the Notes and Events icon for the garden" >}}<br /><br />
-2. Select the **green +** button<br /><br />
-{{< screenshot Plus-sign-garden.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
-3. Select an **Event Type** from the dropdown
+3. Expand the Bulk Actions dropdown
 
-{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
-{{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
+4. To add tasks for the plants in your garden(s) select "Do it"
+{{< alert icon="🥬" context="info" text="Tasks will not be added for plants that are only in archived garden plans" />}}
+{{< alert icon="🥬" context="info" text="If you have applied filters on the plant tasks view those will apply when adding plant tasks from your garden" />}}
 
-{{< alert icon="🌱" context="info" text="Each of the event types, other than **Note**, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
+5. To add tasks for all the plants currently in the view first filter to find applicable plants then select the **Start Indoors**, **Transplant**, **Sow Outside**, or **Harvest** buttons to add those tasks to the plants in the view
 
-{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
-
-4. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type there is no quantity)
-5. Enter additional details under **Note**, if desired
-6. Select the related **Date** and time
-7. Select **Save**<br /><br />
-{{< screenshot Garden-event.jpg "Screenshot of a garden event" >}}<br /><br />
-
-#### Plant notes and events
-1. In the garden, quick press on a plant then select **Add Note**<br /><br />
-{{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}<br /><br />
-{{< alert icon="🥬" context="info" text="**Multi-select** plants to add notes or events to multiple plants at once" />}}
-2. Select an **Event Type** from the dropdown<br /><br />
-{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
-{{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}
-
-{{< alert icon="🌱" context="info" text="Each of the event types, other than notes, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
-
-{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
-
-3. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type there is no quantity)
-4. Enter additional details under **Note**, if desired
-5. Select the related **Date** and time
-6. Select **Save**<br /><br />
-{{< screenshot Plant-event.jpg "Screenshot of a plant event" >}}<br /><br />
-
-#### Delete notes and events
-1. **Long press** on the note or event you want to delete
-2. Select **Delete**<br /><br />
-{{< screenshot Delete-event1.jpg "Screenshot of an Event being deleted" >}}
+6. To add tasks for individual plants use the search bar to find the applicable plant then select the **Start Indoors**, **Transplant**, **Sow Outside**, or **Harvest** buttons to add those tasks for that plant
