@@ -31,5 +31,5 @@ url: "tasks-notifications/add-tasks"
 7. Select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under **Bulk Actions** to add tasks for all listed plants<br /><br />
 {{< screenshot Bulk-task-buttons.jpg "Screenshot of the bulk action task buttons" >}}<br /><br />
 
-8. To add tasks for plants one-by-one use the search bar to find a plant then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons underneath the plant<br /><br />
+8. To add tasks for plants one-by-one use the search bar to find a plant then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant<br /><br />
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
