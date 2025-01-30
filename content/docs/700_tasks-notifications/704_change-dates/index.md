@@ -12,7 +12,7 @@ url: "tasks-notifications/task-dates"
 {{< screenshot Task-three-dots.jpg "Screenshot of the three dots icon for a task" >}}<br /><br />
 {{< screenshot Task-due-date.jpg "Screenshot of the edit due date option for a task" >}}<br /><br />
 
-3. Select the new due date then press OK<br /><br />
+3. Select the new due date then select OK<br /><br />
 {{< screenshot Task-calendar.jpg "Screenshot of the task due date calendar" >}}<br /><br />
 
 ### To change a task completion date
@@ -22,5 +22,5 @@ url: "tasks-notifications/task-dates"
 {{< screenshot Task-three-dots.jpg "Screenshot of the three dots icon for a task" >}}<br /><br />
 {{< screenshot Task-completion-date.jpg "Screenshot of the edit completion date for a completed task" >}}<br /><br />
 
-3. Select the new completion date then press OK<br /><br />
+3. Select the new completion date then select OK<br /><br />
 {{< screenshot Task-calendar.jpg "Screenshot of the task completion date calendar" >}}
