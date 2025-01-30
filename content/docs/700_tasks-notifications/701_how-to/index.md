@@ -1,56 +1,21 @@
 ---
-title: "How do I use tasks and notifications in Planter?"
-description: "Learn how to use tasks and notifications"
+title: "How do I set my notification preferences?"
+description: "Learn how to set your notification preferences for new growing guides, frost alerts, and planting dates"
 draft: false
 weight: 701
-url: "tasks-notifications/how-to"
+url: "tasks-notifications/set-preferences"
 ---
 
-Notes and Events can be added to a garden or to specific plants
-- Use **notes** to record details about your plants and your observations in the garden
-- Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more
+1. Select **More** from the menu bar then select **Tasks**<br /><br />
+{{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
+{{< screenshot Menu-bar-tasks.jpg "Screenshot of the Tasks menu option" >}}<br /><br />
 
-{{< alert icon="💸" context="info" text="Notes and events are [**Premium features**](../../account/premium-subscription)" />}}
+2. Select **Settings**<br /><br />
+{{< screenshot Notification-settings.jpg "Screenshot of the notification Settings option" >}}<br /><br />
 
-#### Garden notes and events
-1. In the garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />
-{{< screenshot Notes-and-events-garden.jpg "Screenshot of the Notes and Events icon for the garden" >}}<br /><br />
-2. Select the **green +** button<br /><br />
-{{< screenshot Plus-sign-garden.jpg "Screenshot of the plus sign button for adding notes to a garden" >}}<br /><br />
-3. Select an **Event Type** from the dropdown
-
-{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
-{{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}<br /><br />
-
-{{< alert icon="🌱" context="info" text="Each of the event types, other than **Note**, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
-
-{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
-
-4. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type there is no quantity)
-5. Enter additional details under **Note**, if desired
-6. Select the related **Date** and time
-7. Select **Save**<br /><br />
-{{< screenshot Garden-event.jpg "Screenshot of a garden event" >}}<br /><br />
-
-#### Plant notes and events
-1. In the garden, quick press on a plant then select **Add Note**<br /><br />
-{{< screenshot Plant-menu.jpg "Screenshot of the plant pop-up menu options" >}}<br /><br />
-{{< alert icon="🥬" context="info" text="**Multi-select** plants to add notes or events to multiple plants at once" />}}
-2. Select an **Event Type** from the dropdown<br /><br />
-{{< screenshot Event-type-dropdown.jpg "Screenshot of the Event Type dropdown menu" >}}<br /><br />
-{{< screenshot Event-types.jpg "Screenshot of the Event Type dropdown menu options" >}}
-
-{{< alert icon="🌱" context="info" text="Each of the event types, other than notes, have a quantity associated with them (e.g., lbs, mins, ft²)" />}}
-
-{{< alert icon="🌿" context="info" text="The **Other** event type lets you select any quantity unit" />}}
-
-3. Enter the applicable quantity under **Value** then select the related **Units** (if you used the **Note** event type there is no quantity)
-4. Enter additional details under **Note**, if desired
-5. Select the related **Date** and time
-6. Select **Save**<br /><br />
-{{< screenshot Plant-event.jpg "Screenshot of a plant event" >}}<br /><br />
-
-#### Delete notes and events
-1. **Long press** on the note or event you want to delete
-2. Select **Delete**<br /><br />
-{{< screenshot Delete-event1.jpg "Screenshot of an Event being deleted" >}}
+3. Toggle notifications for the **Growing Guide**, **Frost Alerts**, and **Planting Dates** on or off as you prefer:
+- Device notifications will push a notification to your phone/tablet, mac, or web browser (if using the web app)
+- In-app notifications will show you notifications only when you open up Planter
+- Email notifications will send notifications to the email address you use for your Planter login (one email per task)
+{{< alert icon="🥬" context="info" text="Be sure your device settings are also set to allow notifications from Planter" />}}
+{{< screenshot Notification-toggles.jpg "Screenshot of the notification settings toggles" >}}
