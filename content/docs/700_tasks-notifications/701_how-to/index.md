@@ -18,4 +18,4 @@ url: "tasks-notifications/set-preferences"
 - **In-app notifications** will show you notifications only when you open up Planter
 - **Email notifications** will send notifications to the email address you use for your Planter login (one email per task)<br /><br />
 {{< screenshot Notification-toggles.jpg "Screenshot of the notification settings toggles" >}}
-{{< alert icon="🥬" context="info" text="Be sure your device settings are also set to allow notifications from Planter" />}}
+{{< alert icon="🥬" context="info" text="Be sure your device settings are set to allow notifications from Planter" />}}

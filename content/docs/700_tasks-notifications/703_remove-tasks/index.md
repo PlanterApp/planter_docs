@@ -6,24 +6,26 @@ weight: 703
 url: "tasks-notifications/remove-tasks"
 ---
 
-### To delete a specific task
+### Delete a specific task
 1. In the **Tasks** list, scroll up or down to locate the task to delete
 
-2. Select the **three dots** icon then select **Delete**<br /><br />
+2. Select the **three dots** icon under the task then select **Delete**<br /><br />
 {{< screenshot Task-three-dots.jpg "Screenshot of the three dots icon for a task" >}}<br /><br />
 {{< screenshot Task-delete.jpg "Screenshot of the delete option for a task" >}}<br /><br />
 
-### To remove multiple tasks
+### Remove multiple tasks
 1. In the **Tasks** list, select **Plant Tasks**<br /><br />
 {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-2. **Filter** for applicable plants
+2. **Filter** for applicable plants<br /><br />
+{{< screenshot Plant-tasks-filter.jpg "Screenshot of the filter option in the Plant Tasks view" >}}<br /><br />
 
-3. Expand the **Bulk Actions dropdown**
+3. Expand the **Bulk Actions dropdown**<br /><br />
+{{< screenshot Bulk-actions.jpg "Screenshot of the bulk actions dropdown" >}}<br /><br />
 
 4. De-select the **Start Indoors**, **Transplant**, **Sow Outside**, or **Harvest** buttons under **Bulk Actions** to remove those tasks from the listed plants<br /><br />
-{{< screenshot Bulk-task-buttons.jpg "Screenshot of the bulk action task buttons" >}}<br /><br />
-{{< alert icon="🥬" context="info" text="Removing tasks from the Plant Tasks view will not remove previously completed tasks" />}}
+{{< screenshot Bulk-task-deselect.jpg "Screenshot of the bulk action task buttons deselected" >}}<br /><br />
+{{< alert icon="🥬" context="info" text="Removing tasks from the Plant Tasks view will not delete completed tasks" />}}
 
-4. To remove upcoming tasks for specific plants, use the search bar to find the applicable plant then de-select the **Start Indoors**, **Transplant**, **Sow Outside**, or **Harvest** buttons underneath the plant<br /><br />
-{{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
+4. To remove upcoming tasks for plants one-by-one, use the search bar to find a plant then de-select the **Start Indoors**, **Transplant**, **Sow Outside**, or **Harvest** buttons underneath the plant<br /><br />
+{{< screenshot Tomato-task-deselect.jpg "Screenshot of the task buttons for tomatoes deselected" >}}
