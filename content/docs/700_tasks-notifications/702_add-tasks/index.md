@@ -20,7 +20,7 @@ url: "tasks-notifications/add-tasks"
 {{< screenshot Garden-tasks.jpg "Screenshot of the button to add tasks for all garden plants" >}}
 
 {{< alert icon="🧄" context="info" text="Tasks will not be added for plants that are only in archived garden plans" />}}
-{{< alert icon="🫑" context="info" text="If you have already applied a filter on the **Plant Tasks** view it will also filter out plants when adding tasks from your garden" />}}
+{{< alert icon="🫑" context="info" text="If a filter is applied on the **Plant Tasks** view it will also apply when adding tasks for plants in your garden" />}}
 
 5. To add tasks for all plants in the **Plant Tasks** view, first **Filter** for the desired plants<br /><br />
 {{< screenshot Plant-tasks-filter.jpg "Screenshot of the filter option in the Plant Tasks view" >}}<br /><br />
