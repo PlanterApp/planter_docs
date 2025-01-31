@@ -19,7 +19,7 @@ url: "tasks-notifications/task-dates"
 1. In the **Tasks** list, scroll up or down to locate the completed task to update
 
 2. Select the **three dots** icon under the completed task then select **Edit completion date**<br /><br />
-{{< screenshot Task-three-dots.jpg "Screenshot of the three dots icon for a task" >}}<br /><br />
+{{< screenshot Task-three-dots2.jpg "Screenshot of the three dots icon for a completed task" >}}<br /><br />
 {{< screenshot Task-completion-date.jpg "Screenshot of the edit completion date for a completed task" >}}<br /><br />
 
 3. Select the new completion date then select OK<br /><br />
