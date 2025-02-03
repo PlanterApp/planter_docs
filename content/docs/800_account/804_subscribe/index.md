@@ -12,7 +12,7 @@ Upgrade to a Planter Premium subscription to access all the awesome **Premium fe
 💻 The [**Planter web app**](https://planter.garden/gardens)<br />
 🎨 [**Custom backgrounds:**](../../garden/customize) Mulch, trellises, walkways and more<br />
 📝 [**Notes and events:**](../../notes-events/how-to) Keep a log of when you start seeds, water, fertilize, and more<br />
-📆 [**Tasks and Notifications:**](../../tasks-notifications/how-to) Track your garden tasks and be notified of upcoming tasks and key dates<br />
+📆 [**Tasks and Notifications:**](../../tasks-notifications/add-tasks) Track and be notified of your garden tasks and key dates<br />
 🚫 No ads<br />
 😊 A warm, fuzzy feeling for supporting the app developer<br />
 
