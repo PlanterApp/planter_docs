@@ -6,6 +6,8 @@ weight: 703
 url: "tasks-notifications/remove-tasks"
 ---
 
+{{< alert icon="💸" context="info" text="Tasks and Notifications are [**Premium features**](../../account/premium-subscription)" />}}
+
 ### Delete a specific task
 1. In the **Tasks** list, scroll up or down to locate the task to delete
 

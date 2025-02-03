@@ -9,10 +9,11 @@ url: "account/premium-subscription"
 Upgrade to a Planter Premium subscription to access all the awesome **Premium features:**
 
 ♾️ Unlimited gardens<br />
-🚫 No ads<br />
-📝 [**Notes and events:**](../../notes-and-events/how-to) Keep track of when you start seeds, water, fertilize, and more<br />
-🎨 [**Custom backgrounds:**](../../garden/customize) Mulch, trellises, and more<br />
 💻 The [**Planter web app**](https://planter.garden/gardens)<br />
+🎨 [**Custom backgrounds:**](../../garden/customize) Mulch, trellises, walkways and more<br />
+📝 [**Notes and events:**](../../notes-events/how-to) Keep a log of when you start seeds, water, fertilize, and more<br />
+📆 [**Tasks and Notifications:**](../../tasks-notifications/how-to) Track your garden tasks and be notified of upcoming tasks and key dates<br />
+🚫 No ads<br />
 😊 A warm, fuzzy feeling for supporting the app developer<br />
 
 {{< alert icon="🍓" context="info" text="Subscriptions work across all platforms, simply [**login**](../login) on each device to access premium features." />}}
