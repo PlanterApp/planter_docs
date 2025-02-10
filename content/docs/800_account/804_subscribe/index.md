@@ -34,7 +34,7 @@ Upgrade to a Planter Premium subscription to access all the awesome **Premium fe
 
 #### Subscribe on the web
 
-{{< alert icon="🥝" context="info" text="Web payments are currently only supported in the **USA, Australia, New Zealand, and Israel**. Not in one of those countries? Subscribe on iOS or Android and [**sync your subscription**](../multiple-devices) across devices." />}}
+{{< alert icon="🥝" context="info" text="Web payments are currently only supported in the **USA, Canada (excluding BC, MB, SK), Australia, New Zealand, and Israel**. Not in one of those countries? Subscribe on iOS or Android and [**sync your subscription**](../multiple-devices) across devices." />}}
 
 1. Open the **Planter Web App** and open Settings
 2. Under "Unlock Everything", Select **Learn More**, then select a subscription period: **Annual** or **Lifetime**, and select **Continue**
