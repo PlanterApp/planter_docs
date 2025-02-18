@@ -24,7 +24,7 @@ Plant tasks are automatically added to your task list when you drag and drop pla
 
 
 ## Add tasks in bulk
-{{< alert icon="🧄" context="info" text="Tasks come pre-loaded for the plants in your garden plan. You should only need add tasks in bulk if you've deleted tasks in error or have unarchived a garden plan." />}}
+{{< alert icon="🥦" context="info" text="Tasks come pre-loaded for the plants in your garden plan. You should only need add bulk tasks if you've deleted tasks in error or have unarchived a previous garden plan." />}}
 
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
 {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
