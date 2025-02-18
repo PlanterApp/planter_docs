@@ -8,7 +8,7 @@ url: "tasks/task-dates"
 
 {{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
-{{< alert icon="🍎" context="info" text="To be reminded of multiple plantings for the same plant adjust task due dates as the dates come up. Support for succession planting is coming!" />}}
+{{< alert icon="🍎" context="info" text="If you have more than one planting of the same plant [**adjust task due dates**](../../../change-Dates) as the dates come up. Support for succession planting is coming!" />}}
 
 ### To change a task due date
 1. In the **Tasks** list, scroll up or down to locate the task to update
