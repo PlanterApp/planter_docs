@@ -8,9 +8,9 @@ url: "tasks/add-tasks"
 
 {{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
-Plant tasks are automatically added to your task list when you drag and drop plants into your garden plans. You can customize this behavior in the Plant Tasks screen by following the steps below:
+## Add individual tasks
 
-## Add or customize individual tasks
+{{< alert icon="🍎" context="info" text="Plant tasks are pre-loaded from pre-existing garden plans and new tasks are automatically added when you add plants to your plans." />}}
 
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
    {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
@@ -19,7 +19,7 @@ Plant tasks are automatically added to your task list when you drag and drop pla
 2. Select **Plant Tasks**<br /><br />
    {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-3. To add or edit tasks for plants one-by-one use the search bar to find a plant then select or de-select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant<br /><br />
+3. Filter and Search to find the desired plants then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant<br /><br />
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
 
 
