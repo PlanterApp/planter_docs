@@ -9,7 +9,7 @@ url: "tasks/add-tasks"
 {{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
 ## Add individual tasks
-{{< alert icon="🍎" context="info" text="Tasks are pre-loaded for plants in existing garden plans. New tasks are also automatically added as you add plants to your plans. You should only need to add tasks for plants not in your plans or if you have removed a task in error." />}}
+{{< alert icon="🍎" context="info" text="Tasks are pre-loaded for plants in existing garden plans. New tasks are also automatically added as you add plants to your plans. You should only need to add tasks for plants not in your plans, or if you've removed a task in error." />}}
 
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
    {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
@@ -19,11 +19,12 @@ url: "tasks/add-tasks"
    {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
 3. **Filter** and **Search** to find the desired plants then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
+{{< screenshot Plant-tasks-filter.jpg "Screenshot of the search and filter bar for plant tasks" >}}<br /><br />
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
 
 
 ## Add tasks in bulk
-{{< alert icon="🥦" context="info" text="You should only need add bulk tasks if you've removed tasks in error or have unarchived a previous garden plan and want to add tasks for those plants in bulk." />}}
+{{< alert icon="🥦" context="info" text="You should only need add tasks in bulk if you've removed tasks in error or have unarchived a previous garden plan and want to add tasks for those plants" />}}
 
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
 {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
