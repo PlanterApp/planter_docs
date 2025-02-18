@@ -6,7 +6,7 @@ weight: 703
 url: "tasks/task-dates"
 ---
 
-{{< alert icon="💸" context="info" text="Tasks and Notifications are [**Premium features**](../../account/premium-subscription)" />}}
+{{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
 ### To change a task due date
 1. In the **Tasks** list, scroll up or down to locate the task to update
