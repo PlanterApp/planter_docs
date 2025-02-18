@@ -15,6 +15,6 @@ url: "tasks/notifications"
 {{< screenshot Notification-settings.jpg "Screenshot of the notification Settings option" >}}<br /><br />
 
 3. Toggle device notifications on or off for **Growing Guides**, **Frost Alerts**, and **Planting Dates**:
-{{< alert icon="🥬" context="info" text="Be sure your device settings are set to allow notifications from Planter" />}}
+{{< alert icon="🥬" context="info" text="Be sure your device settings are set to allow notifications from Planter. This can be changed in your device's operating system." />}}
 
 {{< screenshot Notification-toggles.jpg "Screenshot of the notification settings toggles" >}}

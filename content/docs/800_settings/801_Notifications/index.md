@@ -11,7 +11,7 @@ url: "settings/notifications"
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 
 2. Select **More notification settings**
-{{< alert icon="🥬" context="info" text="Be sure your device settings are set to allow notifications from Planter" />}}
+{{< alert icon="🥬" context="info" text="Be sure your device settings are set to allow notifications from Planter. This can be changed in your device's operating system." />}}
 {{< screenshot More-notification-settings.jpg "Screenshot of the More notification settings option" >}}<br /><br />
 
 3. Toggle **Device notifications** on or off for **Growing Guides**, **Frost Alerts**, and **Planting Dates**:

@@ -22,7 +22,7 @@ url: "tasks/add-tasks"
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
 
 
-## Add tasks in bulk
+## Add tasks in bulk (from your garden plans)
 {{< alert icon="🥦" context="info" text="You should only need add tasks in bulk if you've removed tasks in error or have unarchived a previous garden plan and want to add tasks for those plants" />}}
 
 {{< alert icon="🌽" context="info" text="If you've applied filters on the plants in Plant Tasks they will also apply when adding tasks in bulk" />}}
