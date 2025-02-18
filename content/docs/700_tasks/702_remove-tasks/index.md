@@ -2,7 +2,7 @@
 title: "How can I remove or delete tasks"
 description: "Learn how to remove or delete tasks from your task list"
 draft: false
-weight: 703
+weight: 702
 url: "tasks/remove-tasks"
 ---
 

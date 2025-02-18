@@ -2,7 +2,7 @@
 title: "How do I add tasks to my task list?"
 description: "Learn how to add new tasks to your task list"
 draft: false
-weight: 702
+weight: 701
 url: "tasks/add-tasks"
 ---
 

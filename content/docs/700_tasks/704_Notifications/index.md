@@ -1,6 +1,6 @@
 ---
-title: "How do I set my Task Notification preferences?"
-description: "Learn how to set Notification preferences in Task Settings"
+title: "How do I set my task notification preferences?"
+description: "Learn how to set notification preferences in Task Settings"
 draft: false
 weight: 704
 url: "tasks/notifications"
