@@ -18,7 +18,7 @@ url: "tasks/add-tasks"
 2. Select **Plant Tasks**<br /><br />
    {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-3. **Search** or **Filter** to find the desired plants then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
+3. **Search** or **Filter** to find the desired plant(s) then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
 
 
