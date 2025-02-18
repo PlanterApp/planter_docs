@@ -6,11 +6,11 @@ weight: 601
 url: "notes-events/how-to"
 ---
 
+{{< alert icon="💸" context="info" text="Notes and Events are [**Premium features**](../../account/premium-subscription)" />}}
+
 Notes and Events can be added to a garden or to specific plants
 - Use **notes** to record details about your plants and your observations in the garden
 - Use **events** to keep track of garden happenings and to-dos: watering, weeding, harvesting, and more
-
-{{< alert icon="💸" context="info" text="Notes and Events are [**Premium features**](../../account/premium-subscription)" />}}
 
 #### Garden notes and events
 1. In the garden, select the **notes and events icon** {{< mdi note-multiple "Notes and Events icon" >}}<br /><br />

@@ -18,13 +18,14 @@ url: "tasks/add-tasks"
 2. Select **Plant Tasks**<br /><br />
    {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-3. **Filter** and **Search** to find the desired plants then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
-{{< screenshot Plant-tasks-filter.jpg "Screenshot of the search and filter bar for plant tasks" >}}<br /><br />
+3. **Search** or **Filter** to find the desired plants then select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
 {{< screenshot Tomato-task-buttons.jpg "Screenshot of the task buttons for tomatoes" >}}
 
 
 ## Add tasks in bulk
 {{< alert icon="🥦" context="info" text="You should only need add tasks in bulk if you've removed tasks in error or have unarchived a previous garden plan and want to add tasks for those plants" />}}
+
+{{< alert icon="🌽" context="info" text="If you've applied filters on the plants in Plant Tasks they will also apply when adding tasks in bulk" />}}
 
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
 {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
