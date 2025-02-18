@@ -16,7 +16,7 @@ url: "tasks/remove-tasks"
 2. Select **Plant Tasks**<br /><br />
    {{< screenshot Plant-tasks.jpg "Screenshot of the plant tasks button" >}}<br /><br />
 
-3. **Search** and **Filter** to find the desired plants then de-select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant<br /><br />
+3. **Search** and **Filter** to find the desired plant(s) then de-select the **Start Inside**, **Transplant**, **Sow Outside**, or **Harvest** buttons under the plant(s)<br /><br />
 {{< screenshot Tomato-task-deselect.jpg "Screenshot of the task buttons deselected for tomatoes" >}}
 
 {{< alert icon="🫛" context="info" text="Removing tasks this way does not delete previously completed tasks" />}}
