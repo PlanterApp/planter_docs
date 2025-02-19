@@ -21,6 +21,8 @@ url: "tasks/task-dates"
 {{< screenshot Task-calendar.jpg "Screenshot of the task due date calendar" >}}<br /><br />
 
 ### To change a task completion date
+When you mark a task as completed, the completion date is set to the current date. If you need to change the completion date, follow these steps:
+
 1. In the **Tasks** list, scroll up or down to locate the completed task to update
 
 2. Select the **three dots** icon under the completed task then select **Edit completion date**<br /><br />
