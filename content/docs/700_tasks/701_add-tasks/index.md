@@ -9,7 +9,7 @@ url: "tasks/add-tasks"
 {{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
 ## Frost Tasks
-Frost tasks remind you when your frost dates are coming so you can protect your plants in the fall or get ready to plant in spring! We'll remind you 2 weeks before your frost dates. Simply [**set your frost dates**](../../getting-started/frost-dates/) to get these reminders.
+Frost tasks remind you when your frost dates are coming so you can protect your plants in the fall or get ready to plant in spring! Planter will remind you 2 weeks before your frost dates. Be sure to [**set your frost dates**](../../getting-started/frost-dates/) to get these reminders.
 
 ## Plant Tasks
  Plant tasks are a great way to keep track of when to start seeds, transplant, or harvest plants.
