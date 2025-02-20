@@ -8,6 +8,8 @@ url: "tasks/remove-tasks"
 
 {{< alert icon="💸" context="info" text="Tasks and Task Notifications are [**Premium features**](../../account/premium-subscription)" />}}
 
+{{< alert icon="🥦" context="info" text="Tasks are pre-loaded for plants in existing garden plans. New tasks are also automatically added as you add plants to your plans. The following steps can be used to customize which tasks you want to keep for each plant. For example, if you always start broccoli seeds inside then transplant, remove the **Sow Outside** task for broccoli." />}}
+
 ### Remove upcoming plant tasks
 1. Select **More** from the menu bar then select **Tasks**<br /><br />
    {{< screenshot Menu-bar-more.jpg "Screenshot of the More menu option" >}}<br /><br />
