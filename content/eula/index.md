@@ -1,5 +1,5 @@
 ---
-title: "End User License Agreement"
+title: "End User License Agreement (Terms of Service)"
 description: Planter EULA (aka Terms of Service)
 url: "eula"
 ---
