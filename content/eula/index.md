@@ -1,6 +1,6 @@
 ---
 title: "End User License Agreement"
-description: Planter EULA
+description: Planter EULA (aka Terms of Service)
 url: "eula"
 ---
 
@@ -32,12 +32,14 @@ Please read this End User License Agreement (“EULA”) carefully before downlo
 
 10. Subscriptions and payments. Subscriptions and payments may be available in the App that add additional features. There is no warranty for these additional features. Access to additional features is subject to the terms and duration of the subscription.
 
-11.  Intellectual Property Rights. In the event of a third party claim that the App, or Your possession and use of the App, infringes third party’s intellectual property rights, Planter will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+11. Refunds. Planter reserves the right to issue or refuse refunds at our discretion for any reason. Refunds are processed through the platform that the purchase was made on, according to the terms of service of the purchase platform. Planter is not responsible for any refunds for purchases that are not processed through our approved platforms, which currently include the Apple App Store, Google Play Store, Amazon App Store, Stripe (for web payments), and Paddle (for web payments). Refund requests can be sent  via email by opening the app and selecting "Send Feedback" in Planter's settings menu.
 
-12. Legal Compliance. You represent and warrant that: (a) You are not located in a country that is subject to a United States Government embargo, or that is on Title 15, Part 740 Supplement 1 Country Group E of the United States Code of Federal Regulations; (b) You are not located in a country that has been designated by the United States Government as a “terrorist supporting” country; and (c) You are not listed on any U.S. Government list of prohibited or restricted parties. You further agree not to transport the App to or use the App in any such country.
+12. Intellectual Property Rights. In the event of a third party claim that the App, or Your possession and use of the App, infringes third party’s intellectual property rights, Planter will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
 
-13. Governing Law. This EULA shall be governed by and construed in accordance with the laws governing Your Terms of Use.
+13. Legal Compliance. You represent and warrant that: (a) You are not located in a country that is subject to a United States Government embargo, or that is on Title 15, Part 740 Supplement 1 Country Group E of the United States Code of Federal Regulations; (b) You are not located in a country that has been designated by the United States Government as a “terrorist supporting” country; and (c) You are not listed on any U.S. Government list of prohibited or restricted parties. You further agree not to transport the App to or use the App in any such country.
 
-14. Contact Information. If You have any questions regarding this EULA, please contact Planter by email at legal@planter.dev.
+14. Governing Law. This EULA shall be governed by and construed in accordance with the laws governing Your Terms of Use.
 
-15. Third Party Beneficiaries. This EULA is executed between You and Planter and not between you and any other party, including Apple for iOS users and Google for Android users. You agree that any claims brought by You arising out of this EULA or Your use of the App will not be made against Apple or Google, as applicable. Notwithstanding the foregoing, upon Your acceptance of this EULA, allows Apple or Google, as applicable, to enforce this EULA against You as a third party beneficiary thereof. Planter is not responsible for any applicable third-party agreement between You and any third-party, including your wireless provider or internet service provider.
+15. Contact Information. If You have any questions regarding this EULA, please contact Planter by email at legal@planter.dev.
+
+16. Third Party Beneficiaries. This EULA is executed between You and Planter and not between you and any other party, including Apple for iOS users and Google for Android users. You agree that any claims brought by You arising out of this EULA or Your use of the App will not be made against Apple or Google, as applicable. Notwithstanding the foregoing, upon Your acceptance of this EULA, allows Apple or Google, as applicable, to enforce this EULA against You as a third party beneficiary thereof. Planter is not responsible for any applicable third-party agreement between You and any third-party, including your wireless provider or internet service provider.
