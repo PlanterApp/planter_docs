@@ -14,7 +14,7 @@ Uncovered a bug in Planter? Have feedback you want to share? We appreciate you t
 {{< screenshot Menu-bar-settings.jpg "Screenshot of the Settings menu option" >}}<br /><br />
 2. Scroll down and select **Report a bug** (under the **Info** section)<br /><br />
 {{< screenshot Settings-info.jpg "Screenshot of the Info section of the Settings screen with the Report a Bug option" >}}<br /><br />
-3. Follow the steps in the **Report a bug** wizard- write a brief description of the issue, include a screenshot (optional), and sign up for email updates on the issue (optional)
+3. Follow the steps in the **Report a bug** wizard- write a brief description of the issue, include a screenshot (optional), and enter your email for updates on the issue
 
 {{< alert icon="🌱" context="info" text="If you are struggling with an issue specific to your Planter account, use the [**Send feedback**](#send-feedback-contact-support) option in **Settings** to email the Planter team" />}}
 
