@@ -1,11 +1,36 @@
-<div class="ratio ratio-{{ with .Get "ratio" }}{{.}}{{ end }}">
-  <video{{ with .Get "attributes" }} {{ . | safeHTMLAttr }}{{ end }}>
-    {{ with .Get "webm-src" -}}
-    <source src="{{ . | relURL }}" type="video/webm">
-    {{ end -}}
-    {{ with .Get "mp4-src" -}}
-    <source src="{{ . | relURL }}" type="video/mp4">
-    {{ end -}}
+{{/* Self-hosted <video>. Resolves mp4-src/webm-src as page-bundle resources
+     (falling back to a site-relative URL for external/absolute paths).
+     With a `ratio` (e.g. 16x9) it uses Bootstrap's ratio box; without one it
+     renders at the screenshot width (max 400px) — right for portrait phone
+     recordings, which have no standard Bootstrap ratio class. */}}
+
+{{- $mp4 := "" -}}
+{{- with .Get "mp4-src" -}}
+  {{- $res := $.Page.Resources.GetMatch . -}}
+  {{- if $res }}{{ $mp4 = $res.RelPermalink }}{{ else }}{{ $mp4 = (. | relURL) }}{{ end -}}
+{{- end -}}
+
+{{- $webm := "" -}}
+{{- with .Get "webm-src" -}}
+  {{- $res := $.Page.Resources.GetMatch . -}}
+  {{- if $res }}{{ $webm = $res.RelPermalink }}{{ else }}{{ $webm = (. | relURL) }}{{ end -}}
+{{- end -}}
+
+{{- $attrs := .Get "attributes" -}}
+{{- $ratio := .Get "ratio" -}}
+
+{{ if $ratio -}}
+<div class="ratio ratio-{{ $ratio }}">
+  <video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>
+    {{ with $webm }}<source src="{{ . }}" type="video/webm">{{ end }}
+    {{ with $mp4 }}<source src="{{ . }}" type="video/mp4">{{ end }}
     Sorry, your browser doesn't support embedded videos.
   </video>
 </div>
+{{- else -}}
+<video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }} style="max-width:400px;width:100%;height:auto">
+  {{ with $webm }}<source src="{{ . }}" type="video/webm">{{ end }}
+  {{ with $mp4 }}<source src="{{ . }}" type="video/mp4">{{ end }}
+  Sorry, your browser doesn't support embedded videos.
+</video>
+{{- end -}}
