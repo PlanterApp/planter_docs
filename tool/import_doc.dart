@@ -27,24 +27,36 @@
 // Usage:  dart run tool/import_doc.dart "3. Combine Multiple Garden Beds.md"
 //         dart run tool/import_doc.dart doc.md --docx doc.docx
 //
-// Requires `cwebp` (brew install webp) and `unzip` on PATH. No package deps.
+// The recording (<<EMBED RECORDING>>) can be self-hosted: select a downloaded
+// video at the prompt and it's transcoded to a small .mp4 (see video.dart);
+// otherwise you can paste a YouTube id, or leave a TODO.
+//
+// Requires `cwebp` (brew install webp), `tar` (or `unzip`), and — only when you
+// self-host a recording — `ffmpeg`/`ffprobe`. Runs on macOS and Windows.
 
 import 'dart:convert';
 import 'dart:io';
 
+import 'video.dart';
+
 void main(List<String> args) {
   if (args.isEmpty) {
-    stderr.writeln('Usage: dart run tool/import_doc.dart "<exported>.md" [--docx <file>]');
+    stderr.writeln('Usage: dart run tool/import_doc.dart "<exported>.md" '
+        '[--docx <file>] [--video <file>]');
     exit(64);
   }
 
-  // Parse args: first non-flag positional = the .md; --docx <path> = images.
+  // Parse args: first non-flag positional = the .md; --docx <path> = images;
+  // --video <path> = the recording (skips the interactive picker).
   String? srcPath;
   String? docxArg;
+  String? videoArg;
   for (var i = 0; i < args.length; i++) {
     final a = args[i];
     if (a == '--docx') {
       docxArg = (i + 1 < args.length) ? args[++i] : null;
+    } else if (a == '--video') {
+      videoArg = (i + 1 < args.length) ? args[++i] : null;
     } else if (srcPath == null) {
       srcPath = a;
     }
@@ -66,7 +78,7 @@ void main(List<String> args) {
         'Run this from the repo root — content/docs not found from ${Directory.current.path}');
     exit(66);
   }
-  if (!_hasCommand('cwebp')) {
+  if (!hasCommand('cwebp')) {
     stderr.writeln('`cwebp` not found on PATH. Install it: brew install webp');
     exit(69);
   }
@@ -84,8 +96,8 @@ void main(List<String> args) {
     final sibling = File(srcPath.replaceFirst(RegExp(r'\.md$', caseSensitive: false), '.docx'));
     if (sibling.path != srcPath && sibling.existsSync()) docxFile = sibling;
   }
-  if (docxFile != null && !_hasCommand('unzip')) {
-    stderr.writeln('`unzip` not found on PATH but needed to read the .docx.');
+  if (docxFile != null && !hasCommand('tar') && !hasCommand('unzip')) {
+    stderr.writeln('Neither `tar` nor `unzip` found on PATH — needed to read the .docx.');
     exit(69);
   }
 
@@ -181,7 +193,28 @@ void main(List<String> args) {
   final defaultUrl = sectionUrl.isEmpty ? slug : '$sectionUrl/$slug';
   final url = _ask('URL', defaultUrl);
   final description = _ask('Description', title.replaceAll(RegExp(r'[?.!]+$'), ''));
-  final youtubeId = _ask('YouTube video id for <<EMBED RECORDING>> (blank = TODO)', '');
+
+  // Recording: only ask when the doc has the <<EMBED RECORDING>> placeholder.
+  // Offer to self-host a downloaded video; if skipped, fall back to a YouTube id
+  // (and a TODO if that's blank too).
+  final hasRecording = RegExp(r'EMBED\s+RECORDING').hasMatch(raw);
+  String? videoSrc;
+  var youtubeId = '';
+  if (hasRecording) {
+    if (videoArg != null) {
+      if (File(videoArg).existsSync()) {
+        videoSrc = videoArg;
+      } else {
+        stderr.writeln('--video file not found: $videoArg');
+        exit(66);
+      }
+    } else {
+      videoSrc = pickVideoFile(prompt: 'Select the screen recording to self-host');
+    }
+    if (videoSrc == null) {
+      youtubeId = _ask('YouTube video id for <<EMBED RECORDING>> (blank = TODO)', '');
+    }
+  }
 
   final bundleName = '${prefix}_$slug';
   final bundleDir = Directory('${sectionDir.path}/$bundleName');
@@ -247,6 +280,26 @@ void main(List<String> args) {
     }
   }
 
+  // 5b. Decide what replaces <<EMBED RECORDING>>: a self-hosted (transcoded)
+  //     video, else a YouTube embed, else a TODO.
+  var recordingEmbed =
+      '<!-- TODO: embed the screen recording, e.g. {{< youtube VIDEO_ID >}} -->';
+  if (videoSrc != null) {
+    bundleDir.createSync(recursive: true);
+    stdout.writeln('Converting recording (this can take a moment)…');
+    final result =
+        transcodeToWebMp4(videoSrc, '${bundleDir.path}/recording.mp4');
+    if (result != null) {
+      stdout.writeln('  recording.mp4  ${result.summary}');
+      recordingEmbed = '{{< video mp4-src="recording.mp4" '
+          'attributes="controls muted playsinline preload=metadata" >}}';
+    } else {
+      stderr.writeln('  ! video conversion failed — leaving a TODO');
+    }
+  } else if (youtubeId.isNotEmpty) {
+    recordingEmbed = '{{< youtube $youtubeId >}}';
+  }
+
   // 6. Rewrite pass: replace image usages + the recording placeholder, and
   //    strip Google-Docs escaping from prose lines.
   final embedRe = RegExp(r'EMBED\s+RECORDING');
@@ -254,9 +307,7 @@ void main(List<String> args) {
   String? stepTitle;
   for (var line in bodyLines) {
     if (embedRe.hasMatch(line)) {
-      out.writeln(youtubeId.isEmpty
-          ? '<!-- TODO: embed the screen recording, e.g. {{< youtube VIDEO_ID >}} -->'
-          : '{{< youtube $youtubeId >}}');
+      out.writeln(recordingEmbed);
       continue;
     }
 
@@ -311,14 +362,16 @@ void main(List<String> args) {
 
   stdout.writeln('\n✅ Wrote ${indexFile.path}');
   stdout.writeln('   ${order.length} image(s) → ${bundleDir.path}');
-  if (youtubeId.isEmpty && embedRe.hasMatch(raw)) {
-    stdout.writeln('   ⚠️  recording left as a TODO — add a {{< youtube ID >}} when ready');
+  if (videoSrc != null && File('${bundleDir.path}/recording.mp4').existsSync()) {
+    stdout.writeln('   recording.mp4 self-hosted via {{< video >}}');
+  } else if (hasRecording && recordingEmbed.contains('TODO')) {
+    stdout.writeln('   ⚠️  recording left as a TODO — add a video or {{< youtube ID >}} when ready');
   }
   stdout.writeln('   Preview: npm run dev  →  /$url');
 
   // 8. Optionally stage the new bundle (and any folders the insert/replace step
   //    renamed or deleted) with git.
-  if (_hasCommand('git')) {
+  if (hasCommand('git')) {
     final addGit = _ask('\nStage the created files with git add? [y/N]', 'n');
     if (addGit.toLowerCase().startsWith('y')) {
       final paths = {bundleDir.path, ...touchedPaths}.toList();
@@ -362,7 +415,7 @@ int _nextPrefix(Directory sectionDir) {
   return max + 1;
 }
 
-String _baseName(String path) => path.split(Platform.pathSeparator).last;
+String _baseName(String path) => path.split(RegExp(r'[/\\]')).last;
 
 /// The leading NNN_ number of a bundle folder, or null if it has none.
 int? _prefixOf(Directory d) {
@@ -484,12 +537,17 @@ int _pickIndex(List<String> options, int initial) {
           idx = (idx - 1 + options.length) % options.length;
         case 0x6A: // j
           idx = (idx + 1) % options.length;
-        case 0x1B: // ESC — start of an arrow-key sequence "ESC [ A/B"
+        case 0x1B: // ESC — Unix arrow sequence "ESC [ A/B"
           if (stdin.readByteSync() == 0x5B) {
             final code = stdin.readByteSync();
             if (code == 0x41) idx = (idx - 1 + options.length) % options.length;
             if (code == 0x42) idx = (idx + 1) % options.length;
           }
+        case 0x00: // Windows console arrow: 0x00/0xE0 prefix, then 0x48/0x50
+        case 0xE0:
+          final code = stdin.readByteSync();
+          if (code == 0x48) idx = (idx - 1 + options.length) % options.length;
+          if (code == 0x50) idx = (idx + 1) % options.length;
       }
       _drawMenu(options, idx, redraw: true);
     }
@@ -512,14 +570,6 @@ void _drawMenu(List<String> options, int idx, {required bool redraw}) {
   }
 }
 
-bool _hasCommand(String cmd) {
-  try {
-    return Process.runSync('which', [cmd]).exitCode == 0;
-  } catch (_) {
-    return false;
-  }
-}
-
 /// Extract a .docx's embedded images and return their on-disk paths in
 /// document order, de-duplicated by first appearance (a screenshot reused in
 /// the Doc yields one file, matching how the MD reuses a single ref).
@@ -531,10 +581,13 @@ bool _hasCommand(String cmd) {
 List<String> _docxImagesInOrder(File docx, String tmpDir) {
   final dest = Directory('$tmpDir/docx');
   dest.createSync(recursive: true);
-  final unzip =
-      Process.runSync('unzip', ['-o', '-q', docx.path, '-d', dest.path]);
-  if (unzip.exitCode != 0) {
-    stderr.writeln('  ! unzip failed for ${docx.path}: ${unzip.stderr}');
+  // Prefer `tar` (bsdtar ships on macOS and Windows 10+ and reads the .docx zip
+  // container); fall back to `unzip`.
+  final extract = hasCommand('tar')
+      ? Process.runSync('tar', ['-xf', docx.path, '-C', dest.path])
+      : Process.runSync('unzip', ['-o', '-q', docx.path, '-d', dest.path]);
+  if (extract.exitCode != 0) {
+    stderr.writeln('  ! could not extract ${docx.path}: ${extract.stderr}');
     return const [];
   }
 
