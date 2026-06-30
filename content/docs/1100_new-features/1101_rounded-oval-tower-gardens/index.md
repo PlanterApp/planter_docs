@@ -3,7 +3,7 @@ title: "How Can I Create a Rounded, Oval, or Tower Garden?"
 description: "Learn how to create new rounded, oval, or tower garden shapes in Planter."
 draft: false
 weight: 1101
-url: "garden/1101_rounded-gardens"
+url: "new-features/rounded-oval-tower-gardens"
 ---
 
 
