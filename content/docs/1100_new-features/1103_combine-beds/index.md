@@ -13,8 +13,6 @@ Note: The ability to create multiple garden beds is a Planter Premium feature.
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
-<hr>
-
 1. **Create a New Garden**
 
    {{< screenshot 01-initiate-new-garden-creation.webp "Initiate New Garden Creation" >}}
@@ -80,8 +78,8 @@ Note: The ability to create multiple garden beds is a Planter Premium feature.
 
     To move a bed in the combined garden view, long-press on the bed then select ‘Move’. Drag the sliders to the new row and column position then tap ‘Move garden bed’.
 
-13. **Remove a Bed**
+**13. Remove a Bed**
 
-    {{< screenshot 12-move-a-bed.webp "Remove a Bed" >}}
+{{< screenshot 12-move-a-bed.webp "Remove a Bed" >}}
 
-    To remove a bed from the combined garden view, long-press on the bed then select “Remove from garden”. The garden bed will still be visible in the Gardens list as an individual bed.
+To remove a bed from the combined garden view, long-press on the bed then select “Remove from garden”. The garden bed will still be visible in the Gardens list as an individual bed.

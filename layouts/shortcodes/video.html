@@ -1,8 +1,4 @@
-{{/* Self-hosted <video>. Resolves mp4-src/webm-src as page-bundle resources
-     (falling back to a site-relative URL for external/absolute paths).
-     With a `ratio` (e.g. 16x9) it uses Bootstrap's ratio box; without one it
-     renders at the screenshot width (max 400px) — right for portrait phone
-     recordings, which have no standard Bootstrap ratio class. */}}
+{{/* Self-hosted video shortcode. Resolves mp4-src and webm-src as page-bundle resources. */}}
 
 {{- $mp4 := "" -}}
 {{- with .Get "mp4-src" -}}
@@ -19,20 +15,20 @@
 {{- $attrs := .Get "attributes" -}}
 {{- $ratio := .Get "ratio" -}}
 
-<div class="mb-4">
-{{ if $ratio -}}
-<div class="ratio ratio-{{ $ratio }}">
-  <video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>
-    {{ with $webm }}<source src="{{ . }}" type="video/webm">{{ end }}
-    {{ with $mp4 }}<source src="{{ . }}" type="video/mp4">{{ end }}
-    Sorry, your browser doesn't support embedded videos.
-  </video>
-</div>
-{{- else -}}
-<video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }} class="d-block img-fluid" style="max-width:400px;width:100%;height:auto">
-  {{ with $webm }}<source src="{{ . }}" type="video/webm">{{ end }}
-  {{ with $mp4 }}<source src="{{ . }}" type="video/mp4">{{ end }}
-  Sorry, your browser doesn't support embedded videos.
-</video>
-{{- end -}}
+<div class="video-container mb-4" style="max-width: 400px;">
+  {{- if $ratio -}}
+    <div class="ratio ratio-{{ $ratio }}">
+      <video {{ with $attrs }}{{ . | safeHTMLAttr }}{{ end }} style="max-height: 70vh; object-fit: contain;">
+        {{ if $webm }}<source src="{{ $webm | safeURL }}" type="video/webm">{{ end }}
+        {{ if $mp4 }}<source src="{{ $mp4 | safeURL }}" type="video/mp4">{{ end }}
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  {{- else -}}
+    <video {{ with $attrs }}{{ . | safeHTMLAttr }}{{ end }} class="img-fluid d-block" style="width: 100%; height: auto; max-height: 70vh; object-fit: contain;">
+      {{ if $webm }}<source src="{{ $webm | safeURL }}" type="video/webm">{{ end }}
+      {{ if $mp4 }}<source src="{{ $mp4 | safeURL }}" type="video/mp4">{{ end }}
+      Your browser does not support the video tag.
+    </video>
+  {{- end -}}
 </div>

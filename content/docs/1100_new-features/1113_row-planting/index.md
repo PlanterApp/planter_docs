@@ -11,8 +11,6 @@ Planter now supports row spacing and “triangular” spacing, in addition to pe
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
-<hr>
-
 1. **Select Planting Area**
 
    {{< screenshot 01-select-planting-area.webp "Select Planting Area" >}}
