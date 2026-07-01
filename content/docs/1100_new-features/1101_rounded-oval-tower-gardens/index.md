@@ -13,6 +13,8 @@ Note: The ability to create multiple gardens is a [Planter Premium](https://info
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+---
+
 1. **Tap New Garden**
 
    {{< screenshot 01-tap-new-garden.webp "Tap New Garden" >}}
@@ -33,13 +35,13 @@ Note: The ability to create multiple gardens is a [Planter Premium](https://info
    {{< screenshot 04-choose-rounded-shape.webp "Choose Rounded Shape" >}}
 
    Under "Garden Shape", tap the icon representing the desired garden shape (in order from left to right: rectangular, rounded corners, oval, round, or tower).
-5. **Adjust Garden Diameter**
+5. **Adjust Garden Dimensions**
 
    {{< screenshot 05-adjust-garden-diameter.webp "Adjust Garden Diameter" >}}
 
-   Drag the "Diameter" slider to set the garden's diameter.
+   Drag the slider(s) to set the garden's dimensions or diameter. In the case of tower gardens, a tower color can also be specified.
 6. **Create Garden**
 
    {{< screenshot 06-create-garden.webp "Create Garden" >}}
 
-   Tap the "CREATE" button at the bottom right of the screen to finalize the new rounded garden creation.
+   Tap the "CREATE" button at the bottom right of the screen to finalize the new garden creation.

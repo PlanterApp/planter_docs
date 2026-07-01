@@ -13,6 +13,8 @@ Note: The ability to create multiple garden beds is a Planter Premium feature.
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+---
+
 1. **Create a New Garden**
 
    {{< screenshot 01-initiate-new-garden-creation.webp "Initiate New Garden Creation" >}}

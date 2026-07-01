@@ -19,6 +19,7 @@
 {{- $attrs := .Get "attributes" -}}
 {{- $ratio := .Get "ratio" -}}
 
+<div class="mb-4">
 {{ if $ratio -}}
 <div class="ratio ratio-{{ $ratio }}">
   <video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }}>
@@ -28,9 +29,10 @@
   </video>
 </div>
 {{- else -}}
-<video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }} style="max-width:400px;width:100%;height:auto">
+<video{{ with $attrs }} {{ . | safeHTMLAttr }}{{ end }} class="d-block img-fluid" style="max-width:400px;width:100%;height:auto">
   {{ with $webm }}<source src="{{ . }}" type="video/webm">{{ end }}
   {{ with $mp4 }}<source src="{{ . }}" type="video/mp4">{{ end }}
   Sorry, your browser doesn't support embedded videos.
 </video>
 {{- end -}}
+</div>

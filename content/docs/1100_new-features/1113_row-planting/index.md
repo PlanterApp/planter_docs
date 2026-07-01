@@ -2,7 +2,7 @@
 title: "How Can I Use Row Planting Instead of Per-Square-Foot Planting?"
 description: "Learn how to use row planting and \"triangular\" plant spacing in Planter"
 draft: false
-weight: 1114
+weight: 1113
 url: "new-features/row-planting"
 ---
 
@@ -10,6 +10,8 @@ url: "new-features/row-planting"
 Planter now supports row spacing and “triangular” spacing, in addition to per-square-foot spacing.
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
+
+---
 
 1. **Select Planting Area**
 

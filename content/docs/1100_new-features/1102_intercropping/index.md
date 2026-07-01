@@ -13,6 +13,8 @@ Note: intercropping is only available in the new Gardens 2.0 garden format. Conv
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+---
+
 1. ## **Select a Plant to Intercrop With**    **{{< screenshot 01-select-garden-section.webp "Select Garden Section" >}}**    Tap on a plant in the garden to bring up the action menu.
 
 2. ## **Choose Intercrop Option**    **{{< screenshot 02-choose-intercrop-option.webp "Choose Intercrop Option" >}}**    From the circular action menu, tap the "Intercrop" option.

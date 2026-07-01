@@ -13,6 +13,8 @@ Note: Corner multi-select only works for rectangular areas.
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+---
+
 1. **Open the Garden Square Menu**
 
    {{< screenshot 01-open-the-garden-square-menu.webp "Open the Garden Square Menu" >}}

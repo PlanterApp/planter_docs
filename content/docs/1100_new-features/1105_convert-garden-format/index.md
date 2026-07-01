@@ -11,6 +11,8 @@ Convert your existing garden plans to the new Gardens 2.0 Format to take advanta
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+---
+
 1. **Open Garden “Three Dots” Menu**
 
    {{< screenshot 01-open-backyard-garden-menu.webp "Open Backyard Garden Menu" >}}
