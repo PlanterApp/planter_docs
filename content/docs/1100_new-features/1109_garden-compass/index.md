@@ -13,7 +13,7 @@ Set the orientation manually or by pointing your device compass in the same dire
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
----
+<hr>
 
 1. **Open the Garden Layers Menu**
 

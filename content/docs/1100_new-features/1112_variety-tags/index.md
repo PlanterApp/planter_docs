@@ -11,7 +11,7 @@ Looking for plant varieties with certain characteristics? Use variety tags to fi
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
----
+<hr>
 
 1. **Open the Varieties Filter Menu**
 

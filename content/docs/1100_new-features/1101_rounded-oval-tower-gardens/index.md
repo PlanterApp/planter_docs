@@ -13,7 +13,7 @@ Note: The ability to create multiple gardens is a [Planter Premium](https://info
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
----
+<hr>
 
 1. **Tap New Garden**
 
