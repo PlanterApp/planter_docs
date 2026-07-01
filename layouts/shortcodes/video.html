@@ -15,10 +15,10 @@
 {{- $attrs := .Get "attributes" -}}
 {{- $ratio := .Get "ratio" -}}
 
-<div class="video-container mb-4" style="max-width: 400px;">
+<div class="video-container mb-4" style="max-width: 400px; margin-left: 2rem;">
   {{- if $ratio -}}
     <div class="ratio ratio-{{ $ratio }}">
-      <video {{ with $attrs }}{{ . | safeHTMLAttr }}{{ end }} style="max-height: 70vh; object-fit: contain;">
+      <video {{ with $attrs }}{{ . | safeHTMLAttr }}{{ end }} class="img-fluid d-block" style="width: 100%; height: auto; max-height: 70vh; object-fit: contain;">
         {{ if $webm }}<source src="{{ $webm | safeURL }}" type="video/webm">{{ end }}
         {{ if $mp4 }}<source src="{{ $mp4 | safeURL }}" type="video/mp4">{{ end }}
         Your browser does not support the video tag.

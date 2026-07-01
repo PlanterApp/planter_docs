@@ -13,6 +13,8 @@ Note: intercropping is only available in the new Gardens 2.0 garden format. Conv
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 
+<hr>
+
 1. **Select a Plant to Intercrop With**
 
    {{< screenshot 01-select-garden-section.webp "Select Garden Section" >}}
