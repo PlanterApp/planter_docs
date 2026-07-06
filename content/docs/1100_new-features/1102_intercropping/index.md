@@ -27,14 +27,14 @@ Note: intercropping is only available in the new Gardens 2.0 garden format. Conv
 
    From the circular action menu, tap the "Intercrop" option.
 
-3. **Select a Plant to Intercrop**
+3. **Select Plant(s) to Intercrop**
 
-   {{< screenshot 03-select-onions-plant.webp "Select Onions Plant" >}}
+   {{< screenshot 03-select-intercrop-plants.webp "Select Intercrop Plants" >}}
 
-   In the Select plant screen, locate and select the plant you wish to add as an intercrop plant.
+   In the Select plants screen, locate and select the plant(s) you wish to intercrop (up to 4 additional plants can be added per square).
 
 4. **Intercropping With Larger Multi-Square Plants**
 
    {{< screenshot 04-place-basil.webp "Place Basil" >}}
 
-   To intercrop plants around a larger, multi-square plant (e.g., tomatoes), repeat the steps above then select where the intercrop plant should be added.
+   To intercrop plants around a larger, multi-square plant (e.g., tomatoes), repeat the steps above then select the garden square where each intercrop plant should be added.

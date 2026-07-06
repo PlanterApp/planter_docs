@@ -7,7 +7,7 @@ url: "new-features/rounded-oval-tower-gardens"
 ---
 
 
-In addition to traditional square and rectangular gardens, you can now create rounded, oval, or tower gardens (including GreenStalk gardens)  in Planter!
+In addition to traditional square and rectangular gardens, you can now create rounded, oval, or tower gardens ("GreenStalk" gardens)  in Planter!
 
 Note: The ability to create multiple gardens is a [Planter Premium](https://info.planter.garden/account/premium-subscription/) feature.
 
@@ -24,17 +24,17 @@ Note: The ability to create multiple gardens is a [Planter Premium](https://info
 
    {{< screenshot 02-select-new-garden-planner.webp "Select New Garden Planner" >}}
 
-   In the "Create new garden" dialog, tap the "Try new garden planner" option.
+   In the "Create new garden" dialog, select "Try new garden planner".
 3. **Enter a Garden Name**
 
    {{< screenshot 03-enter-garden-name.webp "Enter Garden Name" >}}
 
    In the "Garden name" field, type a name for the new garden.
-4. **Choose The Desired Garden Shape**
+4. **Choose a Garden Shape**
 
    {{< screenshot 04-choose-rounded-shape.webp "Choose Rounded Shape" >}}
 
-   Under "Garden Shape", tap the icon representing the desired garden shape (in order from left to right: rectangular, rounded corners, oval, round, or tower).
+   Under "Garden Shape", select the icon representing the desired garden shape (in order from left to right: rectangular, rounded corners, oval, round, or tower).
 5. **Adjust Garden Dimensions**
 
    {{< screenshot 05-adjust-garden-diameter.webp "Adjust Garden Diameter" >}}

@@ -7,7 +7,7 @@ url: "new-features/variety-tags"
 ---
 
 
-Looking for plant varieties with certain characteristics? Use variety tags to filter plant varieties and find seed companies offering those varieties! Or, filter plant varieties by your favorite seed companies.
+Looking for plant varieties with certain characteristics? Use variety tags to filter plant varieties and find seed companies offering those varieties! Or, filter by seed company to see which varieties your favorite seed company offers!
 
 {{< video mp4-src="recording.mp4" attributes="controls muted playsinline preload=metadata" >}}
 

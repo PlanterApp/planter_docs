@@ -29,3 +29,5 @@ Planter now has the option to show either Variety labels or Plant and Variety la
    {{< screenshot 03-select-plant-variety-for-labels.webp "Select 'Plant & Variety' for Labels" >}}
 
    From the sub-menu, tap either ‘Variety’ or 'Plant & Variety' to display variety labels or plant and variety labels in the garden. Tap ‘None’ to remove the labels.
+
+   Note: if no variety is selected, the "Plant and Variety" label will show the plant name only.
