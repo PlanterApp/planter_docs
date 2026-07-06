@@ -45,7 +45,7 @@ Note: The ability to create multiple garden beds is a Planter Premium feature.
 
 5. **Create Garden**
 
-  {{< screenshot 05-create-garden.webp "Create Garden" >}}
+   {{< screenshot 05-create-garden.webp "Create Garden" >}} 
 
    Tap the 'CREATE' button at the bottom right of the screen to finalize the new garden creation.
 

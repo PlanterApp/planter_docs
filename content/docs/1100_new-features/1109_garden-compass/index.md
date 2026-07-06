@@ -17,7 +17,7 @@ Set the orientation manually or by pointing your device compass in the same dire
 
 1. **Open the Garden Layers Menu**
 
-   {{< screenshot 01-open-main-menu.webp "Open Main Menu" >}}
+   {{< screenshot 01-open-layers-menu.webp "Open Layers Menu" >}}
 
     In the garden view, tap the layers menu in the upper-left of the screen.
 2. **Access Compass Settings**
@@ -44,14 +44,10 @@ Set the orientation manually or by pointing your device compass in the same dire
 
    Tap the 'Save Orientation' button at the bottom of the dialog to apply the selected compass settings to your garden layout.
 
-6. **Re-open Main Menu**
-
-   {{< screenshot 06-re-open-main-menu.webp "Re-open Main Menu" >}}
-
-   The compass will appear in the lower left corner of the screen. The compass shows the garden orientation relative to the north.
+   The compass icon will appear in the lower left corner of the screen. The compass icon shows the garden orientation relative to the north.
 
 7. **Hide Compass Display**
 
-   {{< screenshot 07-hide-compass-display.webp "Hide Compass Display" >}}
+   {{< screenshot 06-hide-compass-display.webp "Hide Compass Display" >}}
 
-  To hide the compass display, uncheck the checkbox next to the 'Compass' option in the menu. Garden orientation settings are saved so the compass can be enabled again later if needed.
+  To hide the compass display, re-open the garden layers menu and uncheck the checkbox next to the 'Compass' option in the menu. Garden orientation settings are saved so the compass can be enabled again later if needed.
